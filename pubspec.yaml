@@ -1,4 +1,4 @@
-name: flutter_test_1
+name: makeup
 description: "A new Flutter project."
 publish_to: 'none'
 version: 0.1.0
@@ -12,6 +12,10 @@ dependencies:
   google_fonts: ^8.0.1
   shared_preferences: ^2.2.2
   image_picker: ^1.1.2
+  file_picker: ^8.0.0
+  video_player: ^2.8.0
+  open_filex: ^4.4.1
+  mime: ^1.0.5
   path_provider: ^2.1.4
   path: ^1.9.0
 

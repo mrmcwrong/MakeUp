@@ -8,6 +8,9 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:path/path.dart' as p;
+import 'package:file_picker/file_picker.dart';
+import 'package:open_filex/open_filex.dart';
+import 'package:mime/mime.dart';
 import 'debug_overlay.dart';
 import 'debug_time.dart';
 
@@ -24,6 +27,58 @@ Future<String?> pickAndSaveAvatar(ImageSource source) async {
   final fileName = 'avatar_${DateTime.now().millisecondsSinceEpoch}${p.extension(picked.path)}';
   final saved = await File(picked.path).copy('${docsDir.path}/$fileName');
   return saved.path;
+}
+
+/// Picks one or more files of any type and copies them into the app's
+/// documents directory. Returns a list of saved paths.
+Future<List<String>> pickAndSaveAttachments() async {
+  final result = await FilePicker.platform.pickFiles(
+    allowMultiple: true,
+    type: FileType.any,
+    withData: false,
+    withReadStream: false,
+  );
+  if (result == null || result.files.isEmpty) return [];
+
+  final docsDir = await getApplicationDocumentsDirectory();
+  final saved = <String>[];
+
+  for (final file in result.files) {
+    if (file.path == null) continue;
+    final fileName = 'attach_${DateTime.now().millisecondsSinceEpoch}_${file.name}';
+    final dest = '${docsDir.path}/$fileName';
+    await File(file.path!).copy(dest);
+    saved.add(dest);
+  }
+  return saved;
+}
+
+/// Returns true if the file at [path] is an image type.
+bool isImageFile(String path) {
+  final mime = lookupMimeType(path) ?? '';
+  return mime.startsWith('image/');
+}
+
+/// Returns true if the file at [path] is a video type.
+bool isVideoFile(String path) {
+  final mime = lookupMimeType(path) ?? '';
+  return mime.startsWith('video/');
+}
+
+/// Returns an appropriate icon for the file type.
+IconData fileIcon(String path) {
+  final mime = lookupMimeType(path) ?? '';
+  if (mime.startsWith('image/')) return Icons.image_outlined;
+  if (mime.startsWith('video/')) return Icons.videocam_outlined;
+  if (mime.contains('pdf')) return Icons.picture_as_pdf_outlined;
+  if (mime.contains('word') || path.endsWith('.docx') || path.endsWith('.doc')) {
+    return Icons.description_outlined;
+  }
+  if (mime.contains('sheet') || path.endsWith('.xlsx') || path.endsWith('.csv')) {
+    return Icons.table_chart_outlined;
+  }
+  if (mime.startsWith('audio/')) return Icons.audiotrack_outlined;
+  return Icons.insert_drive_file_outlined;
 }
 
 /// Displays a circular avatar — photo if a path is set, otherwise an icon.
@@ -65,8 +120,206 @@ class AvatarWidget extends StatelessWidget {
   }
 }
 
-/// Shows a bottom sheet letting the user pick a photo from gallery or camera.
-/// Calls [onPicked] with the saved file path.
+// ── Attachment widgets ───────────────────────────────────────────────────────
+
+/// Editable attachment grid — used while composing a submission.
+class AttachmentsEditor extends StatelessWidget {
+  final List<String> attachments;
+  final VoidCallback onAdd;
+  final void Function(int index) onRemove;
+
+  const AttachmentsEditor({
+    super.key,
+    required this.attachments,
+    required this.onAdd,
+    required this.onRemove,
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Row(
+          children: [
+            Text(
+              'Attachments',
+              style: GoogleFonts.dmSans(
+                fontSize: 16,
+                fontWeight: FontWeight.w600,
+                color: AppColors.textPrimary,
+              ),
+            ),
+            const Spacer(),
+            TextButton.icon(
+              onPressed: onAdd,
+              icon: const Icon(Icons.attach_file, size: 16),
+              label: Text('Add File', style: GoogleFonts.dmSans(fontSize: 14)),
+              style: TextButton.styleFrom(
+                foregroundColor: AppColors.brown,
+                backgroundColor: AppColors.warmSurface,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(10),
+                ),
+                padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+              ),
+            ),
+          ],
+        ),
+        if (attachments.isNotEmpty) ...[
+          const SizedBox(height: 10),
+          Wrap(
+            spacing: 8,
+            runSpacing: 8,
+            children: List.generate(attachments.length, (i) {
+              final path = attachments[i];
+              final name = p.basename(path);
+              final isImg = isImageFile(path);
+              return Stack(
+                clipBehavior: Clip.none,
+                children: [
+                  Container(
+                    width: 90,
+                    height: 90,
+                    decoration: BoxDecoration(
+                      color: AppColors.warmSurface,
+                      borderRadius: BorderRadius.circular(12),
+                      border: Border.all(
+                        color: AppColors.golden.withValues(alpha: 0.4),
+                        width: 1.5,
+                      ),
+                    ),
+                    child: isImg && File(path).existsSync()
+                        ? ClipRRect(
+                            borderRadius: BorderRadius.circular(11),
+                            child: Image.file(File(path), fit: BoxFit.cover),
+                          )
+                        : Column(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              Icon(fileIcon(path), color: AppColors.brown, size: 28),
+                              const SizedBox(height: 4),
+                              Padding(
+                                padding: const EdgeInsets.symmetric(horizontal: 4),
+                                child: Text(
+                                  name,
+                                  style: GoogleFonts.dmSans(
+                                    fontSize: 9,
+                                    color: AppColors.textSecondary,
+                                  ),
+                                  maxLines: 2,
+                                  overflow: TextOverflow.ellipsis,
+                                  textAlign: TextAlign.center,
+                                ),
+                              ),
+                            ],
+                          ),
+                  ),
+                  Positioned(
+                    top: -6,
+                    right: -6,
+                    child: GestureDetector(
+                      onTap: () => onRemove(i),
+                      child: Container(
+                        width: 20,
+                        height: 20,
+                        decoration: const BoxDecoration(
+                          color: AppColors.error,
+                          shape: BoxShape.circle,
+                        ),
+                        child: const Icon(Icons.close, size: 12, color: Colors.white),
+                      ),
+                    ),
+                  ),
+                ],
+              );
+            }),
+          ),
+        ],
+      ],
+    );
+  }
+}
+
+/// Read-only attachment grid — used when viewing past submissions.
+/// Tapping a file opens it with the device's default app.
+class AttachmentsViewer extends StatelessWidget {
+  final List<String> attachments;
+
+  const AttachmentsViewer({super.key, required this.attachments});
+
+  @override
+  Widget build(BuildContext context) {
+    if (attachments.isEmpty) return const SizedBox.shrink();
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        const SizedBox(height: 12),
+        Text(
+          'Attachments',
+          style: GoogleFonts.dmSans(
+            fontSize: 13,
+            fontWeight: FontWeight.w600,
+            color: AppColors.textSecondary,
+          ),
+        ),
+        const SizedBox(height: 8),
+        Wrap(
+          spacing: 8,
+          runSpacing: 8,
+          children: attachments.map((path) {
+            final exists = File(path).existsSync();
+            final name = p.basename(path);
+            final isImg = isImageFile(path);
+            return GestureDetector(
+              onTap: () => OpenFilex.open(path),
+              child: Container(
+                width: 80,
+                height: 80,
+                decoration: BoxDecoration(
+                  color: AppColors.warmSurface,
+                  borderRadius: BorderRadius.circular(12),
+                  border: Border.all(
+                    color: AppColors.golden.withValues(alpha: 0.4),
+                    width: 1.5,
+                  ),
+                ),
+                child: !exists
+                    ? const Icon(Icons.broken_image_outlined, color: AppColors.brown)
+                    : isImg
+                        ? ClipRRect(
+                            borderRadius: BorderRadius.circular(11),
+                            child: Image.file(File(path), fit: BoxFit.cover),
+                          )
+                        : Column(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              Icon(fileIcon(path), color: AppColors.brown, size: 26),
+                              const SizedBox(height: 4),
+                              Padding(
+                                padding: const EdgeInsets.symmetric(horizontal: 4),
+                                child: Text(
+                                  name,
+                                  style: GoogleFonts.dmSans(
+                                    fontSize: 9,
+                                    color: AppColors.textSecondary,
+                                  ),
+                                  maxLines: 2,
+                                  overflow: TextOverflow.ellipsis,
+                                  textAlign: TextAlign.center,
+                                ),
+                              ),
+                            ],
+                          ),
+              ),
+            );
+          }).toList(),
+        ),
+      ],
+    );
+  }
+}
+
 void main() {
   runApp(const MyApp());
 }
@@ -75,7 +328,6 @@ void main() {
 /// Colors - Soft Yellow/Brown Theme (iOS Widget Inspired)
 ///
 class AppColors {
-  // Primary colors - softer, more muted palette
   static const Color cream = Color(0xFFFFFDF7);
   static const Color warmSurface = Color(0xFFFFFAED);
   static const Color lightYellow = Color(0xFFFFF6E0);
@@ -84,8 +336,7 @@ class AppColors {
   static const Color brown = Color(0xFFA8907C);
   static const Color darkBrown = Color(0xFF6B5B4D);
   static const Color deepBrown = Color(0xFF4A3F35);
-  
-  // Semantic colors
+
   static const Color success = Color(0xFF88C057);
   static const Color error = Color(0xFFE07856);
   static const Color textPrimary = Color(0xFF3D3426);
@@ -127,6 +378,7 @@ class Submission {
   final DateTime date;
   final int promptIndex;
   final String dayKey;
+  final List<String> attachments;
 
   Submission({
     required this.id,
@@ -135,6 +387,7 @@ class Submission {
     required this.date,
     required this.promptIndex,
     required this.dayKey,
+    this.attachments = const [],
   });
 
   Map<String, dynamic> toJson() => {
@@ -144,6 +397,7 @@ class Submission {
     'date': date.toIso8601String(),
     'promptIndex': promptIndex,
     'dayKey': dayKey,
+    'attachments': attachments,
   };
 
   factory Submission.fromJson(Map<String, dynamic> json) => Submission(
@@ -153,6 +407,7 @@ class Submission {
     date: DateTime.parse(json['date']),
     promptIndex: json['promptIndex'],
     dayKey: json['dayKey'],
+    attachments: List<String>.from(json['attachments'] ?? []),
   );
 }
 
@@ -193,8 +448,8 @@ class WeeklyTask {
     points: json['points'],
     createdDate: DateTime.parse(json['createdDate']),
     completionText: json['completionText'],
-    completedDate: json['completedDate'] != null 
-        ? DateTime.parse(json['completedDate']) 
+    completedDate: json['completedDate'] != null
+        ? DateTime.parse(json['completedDate'])
         : null,
     weekKey: json['weekKey'],
   );
@@ -357,8 +612,6 @@ class StorageService {
     );
   }
 
-  // 19 competitors; probabilities run from 5% (index 0) to 95% (index 18)
-  // in 5% increments, so competitor i has probability (i + 1) * 0.05.
   static List<Competitor> _createDefaultCompetitors() {
     const names = [
       'Creative Spark',  'Pixel Pioneer',   'Idea Forge',      'Art Maven',
@@ -383,9 +636,22 @@ class StorageService {
     final random = Random();
     bool anyUpdated = false;
 
+    // Save install date on first run
+    final prefs = await SharedPreferences.getInstance();
+    final installDateStr = prefs.getString('install_date');
+    final DateTime installDate;
+    if (installDateStr == null) {
+      installDate = now;
+      await prefs.setString('install_date', now.toIso8601String());
+    } else {
+      installDate = DateTime.parse(installDateStr);
+    }
+
+    final installDay = DateTime(installDate.year, installDate.month, installDate.day);
+    final isInstallDay = today == installDay;
+    final isBeforeNoonOnInstallDay = isInstallDay && now.hour < 12;
+
     for (final competitor in competitors) {
-      // lastUpdate stores the last date fully processed.
-      // null means brand new — treat as if yesterday was last processed so today runs.
       final DateTime lastProcessed = competitor.lastUpdate == null
           ? today.subtract(const Duration(days: 1))
           : DateTime(
@@ -394,14 +660,16 @@ class StorageService {
               competitor.lastUpdate!.day,
             );
 
-      // Already processed today — skip entirely.
       if (!lastProcessed.isBefore(today)) continue;
 
-      // Walk forward one day at a time.
       DateTime cursor = lastProcessed.add(const Duration(days: 1));
       while (!cursor.isAfter(today)) {
-        if (random.nextDouble() < competitor.dailyProbability) {
-          competitor.points += 3;
+        final isTodayOnInstallDay = cursor == today && isBeforeNoonOnInstallDay;
+
+        if (!isTodayOnInstallDay) {
+          if (random.nextDouble() < competitor.dailyProbability) {
+            competitor.points += 3;
+          }
         }
         cursor = cursor.add(const Duration(days: 1));
       }
@@ -451,7 +719,7 @@ class StorageService {
 
   static DailyPromptState _createNewDailyPrompts() {
     final random = Random();
-    
+
     final prompts = <Map<String, dynamic>>[
       _getRandomPromptFromPool(_onePointPrompts, 1, random),
       _getRandomPromptFromPool(_twoPointPrompts, 2, random),
@@ -477,7 +745,7 @@ class StorageService {
   static Future<WeeklyTask?> loadWeeklyTask() async {
     final prefs = await SharedPreferences.getInstance();
     final taskData = prefs.getString(weeklyTaskKey);
-    
+
     if (taskData == null) {
       return null;
     }
@@ -519,7 +787,7 @@ class StorageService {
   ];
 
   static final List<String> _threePointPrompts = [
-    'Record and edit a podcast episode',
+    'Record a demo song',
   ];
 }
 
@@ -564,7 +832,7 @@ class _MyAppState extends State<MyApp> {
       onUpdate: () {
         setState(() {
           _dataFuture = _loadData();
-          _resetKey++;  // forces MainNavigationScreen to fully rebuild from scratch
+          _resetKey++;
         });
       },
       child: MaterialApp(
@@ -635,7 +903,6 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
   DateTime? _lastCheckedDate;
   String? _lastCheckedWeekKey;
 
-  // GlobalKeys so the master timer can call reload methods on child screens
   final GlobalKey<_HomeScreenState> _homeKey = GlobalKey<_HomeScreenState>();
   final GlobalKey<_WeeklyTaskScreenState> _weeklyKey = GlobalKey<_WeeklyTaskScreenState>();
 
@@ -647,14 +914,11 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
 
     final now = DebugTime.now();
     _lastCheckedDate = DateTime(now.year, now.month, now.day)
-        .subtract(const Duration(days: 1)); // yesterday → first tick processes today
+        .subtract(const Duration(days: 1));
     _lastCheckedWeekKey = StorageService.getWeekKey(now);
 
-    // Run immediately on open
     _masterTick();
 
-    // Single master timer — drives competitors, daily rollover, and weekly rollover
-    // Ticks every second so countdowns stay smooth; date/week checks are cheap
     _masterTimer = Timer.periodic(const Duration(seconds: 1), (_) {
       _masterTick();
     });
@@ -671,13 +935,11 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
     final todayDate = DateTime(now.year, now.month, now.day);
     final currentWeekKey = StorageService.getWeekKey(now);
 
-    // ── Competitor points — only run when the date has advanced ───────────────
     if (_lastCheckedDate == null || todayDate.isAfter(_lastCheckedDate!)) {
       await StorageService.updateCompetitorPoints(competitors);
       if (mounted) setState(() => competitors = List.from(competitors));
     }
 
-    // ── Daily rollover ─────────────────────────────────────────────────────────
     if (_lastCheckedDate != null && todayDate.isAfter(_lastCheckedDate!)) {
       _lastCheckedDate = todayDate;
       _homeKey.currentState?.reloadForNewDay();
@@ -685,7 +947,6 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
       _lastCheckedDate ??= todayDate;
     }
 
-    // ── Weekly rollover ────────────────────────────────────────────────────────
     if (_lastCheckedWeekKey != null && currentWeekKey != _lastCheckedWeekKey) {
       _lastCheckedWeekKey = currentWeekKey;
       _weeklyKey.currentState?.reloadForNewWeek();
@@ -719,12 +980,17 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
         children: [
           HomeScreen(key: _homeKey, user: user, onUserUpdate: _updateUser),
           WeeklyTaskScreen(key: _weeklyKey, user: user, onUserUpdate: _updateUser),
-          LeagueScreen(user: user, competitors: competitors, onUserUpdate: _updateUser, onCompetitorsUpdate: (updated) {
-            setState(() { competitors = updated; });
-            StorageService.saveCompetitors(updated);
-          }),
+          LeagueScreen(
+            user: user,
+            competitors: competitors,
+            onUserUpdate: _updateUser,
+            onCompetitorsUpdate: (updated) {
+              setState(() { competitors = updated; });
+              StorageService.saveCompetitors(updated);
+            },
+          ),
           ProfileScreen(
-            user: user, 
+            user: user,
             onUserUpdate: _updateUser,
             key: ValueKey('profile_$_currentIndex'),
           ),
@@ -763,6 +1029,9 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
   }
 }
 
+///
+/// HOME SCREEN (Daily Prompts)
+///
 class HomeScreen extends StatefulWidget {
   final User user;
   final Function(User) onUserUpdate;
@@ -781,6 +1050,7 @@ class _HomeScreenState extends State<HomeScreen> {
   late TextEditingController _submissionController;
   Timer? _midnightTimer;
   Duration _timeUntilMidnight = Duration.zero;
+  List<String> _pendingAttachments = [];
 
   @override
   void initState() {
@@ -788,15 +1058,14 @@ class _HomeScreenState extends State<HomeScreen> {
     _submissionController = TextEditingController();
     _loadDailyPrompts();
     _updateTimeUntilMidnight();
-    // Countdown display only — day-change detection is handled by the master timer
     _midnightTimer = Timer.periodic(const Duration(seconds: 1), (_) {
       _updateTimeUntilMidnight();
     });
   }
 
-  /// Called by the master timer in MainNavigationScreen when the date changes.
   void reloadForNewDay() {
     _loadDailyPrompts();
+    setState(() => _pendingAttachments = []);
   }
 
   @override
@@ -826,9 +1095,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Future<void> _loadDailyPrompts() async {
     final state = await StorageService.loadDailyPrompts();
-
     if (!mounted) return;
-
     setState(() {
       dailyPrompts = state.prompts;
       selectedPromptIndex = state.selectedPromptIndex;
@@ -836,7 +1103,6 @@ class _HomeScreenState extends State<HomeScreen> {
       _isLoading = false;
     });
   }
-
 
   @override
   void dispose() {
@@ -849,9 +1115,7 @@ class _HomeScreenState extends State<HomeScreen> {
     final now = DebugTime.now();
     final nextMidnight = DateTime(now.year, now.month, now.day + 1);
     final remaining = nextMidnight.difference(now);
-
     if (!mounted) return;
-
     setState(() {
       _timeUntilMidnight = remaining.isNegative ? Duration.zero : remaining;
     });
@@ -869,13 +1133,19 @@ class _HomeScreenState extends State<HomeScreen> {
     setState(() {
       selectedPromptIndex = index;
     });
-
     final state = DailyPromptState(
       prompts: dailyPrompts,
       date: DebugTime.now(),
       selectedPromptIndex: index,
     );
     await StorageService.saveDailyPrompts(state);
+  }
+
+  Future<void> _addAttachments() async {
+    final paths = await pickAndSaveAttachments();
+    if (paths.isNotEmpty) {
+      setState(() => _pendingAttachments.addAll(paths));
+    }
   }
 
   void _submitResponse(int promptIndex) {
@@ -889,10 +1159,10 @@ class _HomeScreenState extends State<HomeScreen> {
       return;
     }
 
-    if (_submissionController.text.isEmpty) {
+    if (_submissionController.text.isEmpty && _pendingAttachments.isEmpty) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
-          content: Text('Please enter your response', style: GoogleFonts.dmSans()),
+          content: Text('Please enter a response or attach a file', style: GoogleFonts.dmSans()),
           backgroundColor: AppColors.error,
         ),
       );
@@ -906,16 +1176,19 @@ class _HomeScreenState extends State<HomeScreen> {
       date: DebugTime.now(),
       promptIndex: promptIndex,
       dayKey: _todayKey(),
+      attachments: List.from(_pendingAttachments),
     );
 
     final updatedUser = User(
       username: widget.user.username,
+      avatarImagePath: widget.user.avatarImagePath,
       totalPoints: widget.user.totalPoints + submission.points,
       submissions: [...widget.user.submissions, submission],
     );
 
     widget.onUserUpdate(updatedUser);
     _submissionController.clear();
+    setState(() => _pendingAttachments = []);
 
     ScaffoldMessenger.of(context).showSnackBar(
       SnackBar(
@@ -933,9 +1206,7 @@ class _HomeScreenState extends State<HomeScreen> {
     if (_isLoading) {
       return Scaffold(
         appBar: AppBar(title: const Text('Daily Prompts')),
-        body: Center(
-          child: CircularProgressIndicator(color: AppColors.amber),
-        ),
+        body: Center(child: CircularProgressIndicator(color: AppColors.amber)),
       );
     }
 
@@ -980,9 +1251,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           child: Container(
                             padding: const EdgeInsets.all(24),
                             decoration: BoxDecoration(
-                              color: isSubmitted 
-                                  ? AppColors.warmSurface 
-                                  : Colors.white,
+                              color: isSubmitted ? AppColors.warmSurface : Colors.white,
                               borderRadius: BorderRadius.circular(24),
                               border: Border.all(
                                 color: isSubmitted
@@ -990,13 +1259,15 @@ class _HomeScreenState extends State<HomeScreen> {
                                     : AppColors.golden.withValues(alpha: 0.4),
                                 width: 2,
                               ),
-                              boxShadow: isSubmitted ? [] : [
-                                BoxShadow(
-                                  color: AppColors.golden.withValues(alpha: 0.1),
-                                  blurRadius: 16,
-                                  offset: const Offset(0, 4),
-                                ),
-                              ],
+                              boxShadow: isSubmitted
+                                  ? []
+                                  : [
+                                      BoxShadow(
+                                        color: AppColors.golden.withValues(alpha: 0.1),
+                                        blurRadius: 16,
+                                        offset: const Offset(0, 4),
+                                      ),
+                                    ],
                             ),
                             child: Column(
                               crossAxisAlignment: CrossAxisAlignment.start,
@@ -1023,11 +1294,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                       ),
                                     ),
                                     if (isSubmitted)
-                                      Icon(
-                                        Icons.check_circle,
-                                        color: AppColors.success,
-                                        size: 24,
-                                      ),
+                                      Icon(Icons.check_circle, color: AppColors.success, size: 24),
                                   ],
                                 ),
                                 const SizedBox(height: 16),
@@ -1069,10 +1336,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         ),
                       ),
                       Container(
-                        padding: const EdgeInsets.symmetric(
-                          horizontal: 14,
-                          vertical: 7,
-                        ),
+                        padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 7),
                         decoration: BoxDecoration(
                           color: AppColors.golden,
                           borderRadius: BorderRadius.circular(20),
@@ -1091,11 +1355,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   const SizedBox(height: 20),
                   Row(
                     children: [
-                      Icon(
-                        Icons.access_time,
-                        size: 18,
-                        color: AppColors.error,
-                      ),
+                      Icon(Icons.access_time, size: 18, color: AppColors.error),
                       const SizedBox(width: 8),
                       Text(
                         '${_formatCountdown(_timeUntilMidnight)} remaining',
@@ -1111,6 +1371,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           onPressed: () async {
                             setState(() {
                               selectedPromptIndex = null;
+                              _pendingAttachments = [];
                             });
                             final state = DailyPromptState(
                               prompts: dailyPrompts,
@@ -1119,11 +1380,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             );
                             await StorageService.saveDailyPrompts(state);
                           },
-                          icon: Icon(
-                            Icons.refresh,
-                            size: 16,
-                            color: AppColors.brown,
-                          ),
+                          icon: Icon(Icons.refresh, size: 16, color: AppColors.brown),
                           label: Text(
                             'Change',
                             style: GoogleFonts.dmSans(
@@ -1133,10 +1390,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             ),
                           ),
                           style: TextButton.styleFrom(
-                            padding: const EdgeInsets.symmetric(
-                              horizontal: 12,
-                              vertical: 6,
-                            ),
+                            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
                             backgroundColor: AppColors.warmSurface,
                             shape: RoundedRectangleBorder(
                               borderRadius: BorderRadius.circular(12),
@@ -1210,13 +1464,17 @@ class _HomeScreenState extends State<HomeScreen> {
                       ),
                       focusedBorder: OutlineInputBorder(
                         borderRadius: BorderRadius.circular(20),
-                        borderSide: BorderSide(
-                          color: AppColors.amber,
-                          width: 2,
-                        ),
+                        borderSide: BorderSide(color: AppColors.amber, width: 2),
                       ),
                       contentPadding: const EdgeInsets.all(20),
                     ),
+                  ),
+                  const SizedBox(height: 24),
+                  // ── Attachments editor ──────────────────────────────────────
+                  AttachmentsEditor(
+                    attachments: _pendingAttachments,
+                    onAdd: _addAttachments,
+                    onRemove: (i) => setState(() => _pendingAttachments.removeAt(i)),
                   ),
                   const SizedBox(height: 32),
                   SizedBox(
@@ -1250,6 +1508,9 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 }
 
+///
+/// WEEKLY TASK SCREEN
+///
 class WeeklyTaskScreen extends StatefulWidget {
   final User user;
   final Function(User) onUserUpdate;
@@ -1274,6 +1535,7 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
   late TextEditingController _pointsController;
   Timer? _weekTimer;
   Duration _timeUntilNextWeek = Duration.zero;
+  List<String> _pendingAttachments = [];
 
   @override
   void initState() {
@@ -1291,7 +1553,6 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
   @override
   void didUpdateWidget(WeeklyTaskScreen oldWidget) {
     super.didUpdateWidget(oldWidget);
-    // Reload weekly task when widget updates (e.g., after deletion from another screen)
     _loadWeeklyTask();
   }
 
@@ -1306,18 +1567,16 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
 
   Future<void> _loadWeeklyTask() async {
     final task = await StorageService.loadWeeklyTask();
-    
     if (!mounted) return;
-
     setState(() {
       _weeklyTask = task;
       _isLoading = false;
     });
   }
 
-  /// Called by the master timer in MainNavigationScreen when the week changes.
   void reloadForNewWeek() {
     _loadWeeklyTask();
+    setState(() => _pendingAttachments = []);
   }
 
   void _updateTimeUntilNextWeek() {
@@ -1329,9 +1588,7 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
       now.day + (daysUntilMonday == 0 ? 7 : daysUntilMonday),
     );
     final remaining = nextMonday.difference(now);
-
     if (!mounted) return;
-
     setState(() {
       _timeUntilNextWeek = remaining.isNegative ? Duration.zero : remaining;
     });
@@ -1342,11 +1599,17 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
     final hours = duration.inHours % 24;
     final minutes = duration.inMinutes % 60;
     final seconds = duration.inSeconds % 60;
-    
     if (days > 0) {
       return '${days}d ${hours}h ${minutes}m ${seconds}s';
     } else {
       return '${hours.toString().padLeft(2, '0')}:${minutes.toString().padLeft(2, '0')}:${seconds.toString().padLeft(2, '0')}';
+    }
+  }
+
+  Future<void> _addAttachments() async {
+    final paths = await pickAndSaveAttachments();
+    if (paths.isNotEmpty) {
+      setState(() => _pendingAttachments.addAll(paths));
     }
   }
 
@@ -1361,7 +1624,6 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
       return;
     }
 
-    // Parse and validate points
     int points = int.tryParse(_pointsController.text) ?? 10;
     if (points < 1) points = 1;
     if (points > 15) points = 15;
@@ -1376,25 +1638,25 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
 
     await StorageService.saveWeeklyTask(task);
 
-    // Write a placeholder submission immediately so it appears on the profile.
-    // It will be updated in place when the task is completed.
     final submission = Submission(
-      id: task.id, // same id as the task so we can replace it on completion
-      text: task.taskText, // no completion section yet
-      points: 0, // no points until completed
+      id: task.id,
+      text: task.taskText,
+      points: 0,
       date: task.createdDate,
       promptIndex: -1,
       dayKey: task.weekKey,
+      attachments: const [],
     );
 
     final updatedUser = User(
       username: widget.user.username,
+      avatarImagePath: widget.user.avatarImagePath,
       totalPoints: widget.user.totalPoints,
       submissions: [...widget.user.submissions, submission],
     );
 
     widget.onUserUpdate(updatedUser);
-    
+
     setState(() {
       _weeklyTask = task;
       _taskController.clear();
@@ -1414,10 +1676,10 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
   Future<void> _completeWeeklyTask() async {
     if (_weeklyTask == null || _weeklyTask!.isCompleted) return;
 
-    if (_completionController.text.isEmpty) {
+    if (_completionController.text.isEmpty && _pendingAttachments.isEmpty) {
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
-          content: Text('Please describe what you did', style: GoogleFonts.dmSans()),
+          content: Text('Please describe what you did or attach a file', style: GoogleFonts.dmSans()),
           backgroundColor: AppColors.error,
         ),
       );
@@ -1431,14 +1693,14 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
 
     await StorageService.saveWeeklyTask(completedTask);
 
-    // Replace the in-progress placeholder submission with the completed one.
     final completedSubmission = Submission(
-      id: completedTask.id, // same id — replaces the placeholder
+      id: completedTask.id,
       text: '${completedTask.taskText}\n\nCompletion: ${_completionController.text}',
       points: completedTask.points,
       date: DebugTime.now(),
       promptIndex: -1,
       dayKey: completedTask.weekKey,
+      attachments: List.from(_pendingAttachments),
     );
 
     final updatedSubmissions = widget.user.submissions
@@ -1447,6 +1709,7 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
 
     final updatedUser = User(
       username: widget.user.username,
+      avatarImagePath: widget.user.avatarImagePath,
       totalPoints: widget.user.totalPoints + completedTask.points,
       submissions: updatedSubmissions,
     );
@@ -1456,6 +1719,7 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
     setState(() {
       _weeklyTask = completedTask;
       _completionController.clear();
+      _pendingAttachments = [];
     });
 
     if (!mounted) return;
@@ -1489,17 +1753,11 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
         actions: [
           TextButton(
             onPressed: () => Navigator.pop(context, false),
-            child: Text(
-              "Cancel",
-              style: GoogleFonts.dmSans(color: AppColors.brown),
-            ),
+            child: Text("Cancel", style: GoogleFonts.dmSans(color: AppColors.brown)),
           ),
           TextButton(
             onPressed: () => Navigator.pop(context, true),
-            child: Text(
-              "Delete",
-              style: GoogleFonts.dmSans(color: AppColors.error),
-            ),
+            child: Text("Delete", style: GoogleFonts.dmSans(color: AppColors.error)),
           ),
         ],
       ),
@@ -1507,26 +1765,25 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
 
     if (confirmed != true || !mounted) return;
 
-    // Remove the submission associated with this weekly task (if it exists)
-    // Weekly task submissions have promptIndex: -1 and dayKey: weekKey
     final updatedSubmissions = widget.user.submissions.where((submission) {
       return !(submission.promptIndex == -1 && submission.dayKey == _weeklyTask!.weekKey);
     }).toList();
 
     final updatedUser = User(
       username: widget.user.username,
-      totalPoints: _weeklyTask!.isCompleted 
-          ? widget.user.totalPoints - _weeklyTask!.points 
+      avatarImagePath: widget.user.avatarImagePath,
+      totalPoints: _weeklyTask!.isCompleted
+          ? widget.user.totalPoints - _weeklyTask!.points
           : widget.user.totalPoints,
       submissions: updatedSubmissions,
     );
-    
-    widget.onUserUpdate(updatedUser);
 
+    widget.onUserUpdate(updatedUser);
     await StorageService.deleteWeeklyTask();
 
     setState(() {
       _weeklyTask = null;
+      _pendingAttachments = [];
     });
 
     if (!mounted) return;
@@ -1544,9 +1801,7 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
     if (_isLoading) {
       return Scaffold(
         appBar: AppBar(title: const Text('Weekly Challenge')),
-        body: Center(
-          child: CircularProgressIndicator(color: AppColors.amber),
-        ),
+        body: Center(child: CircularProgressIndicator(color: AppColors.amber)),
       );
     }
 
@@ -1554,9 +1809,7 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
       appBar: AppBar(title: const Text('Weekly Challenge')),
       body: SingleChildScrollView(
         padding: const EdgeInsets.symmetric(horizontal: 24.0, vertical: 32.0),
-        child: _weeklyTask == null
-            ? _buildCreateTaskForm()
-            : _buildExistingTask(),
+        child: _weeklyTask == null ? _buildCreateTaskForm() : _buildExistingTask(),
       ),
     );
   }
@@ -1578,11 +1831,7 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
         const SizedBox(height: 12),
         Row(
           children: [
-            Icon(
-              Icons.access_time,
-              size: 16,
-              color: AppColors.textSecondary,
-            ),
+            Icon(Icons.access_time, size: 16, color: AppColors.textSecondary),
             const SizedBox(width: 8),
             Text(
               '${_formatCountdown(_timeUntilNextWeek)} until next week',
@@ -1598,11 +1847,7 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
         TextField(
           controller: _taskController,
           maxLines: 4,
-          style: GoogleFonts.dmSans(
-            fontSize: 16,
-            color: AppColors.textPrimary,
-            height: 1.5,
-          ),
+          style: GoogleFonts.dmSans(fontSize: 16, color: AppColors.textPrimary, height: 1.5),
           decoration: InputDecoration(
             hintText: 'What would you like to accomplish this week?',
             hintStyle: GoogleFonts.dmSans(
@@ -1613,24 +1858,15 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
             fillColor: Colors.white,
             border: OutlineInputBorder(
               borderRadius: BorderRadius.circular(20),
-              borderSide: BorderSide(
-                color: AppColors.golden.withValues(alpha: 0.3),
-                width: 2,
-              ),
+              borderSide: BorderSide(color: AppColors.golden.withValues(alpha: 0.3), width: 2),
             ),
             enabledBorder: OutlineInputBorder(
               borderRadius: BorderRadius.circular(20),
-              borderSide: BorderSide(
-                color: AppColors.golden.withValues(alpha: 0.3),
-                width: 2,
-              ),
+              borderSide: BorderSide(color: AppColors.golden.withValues(alpha: 0.3), width: 2),
             ),
             focusedBorder: OutlineInputBorder(
               borderRadius: BorderRadius.circular(20),
-              borderSide: BorderSide(
-                color: AppColors.amber,
-                width: 2,
-              ),
+              borderSide: BorderSide(color: AppColors.amber, width: 2),
             ),
             contentPadding: const EdgeInsets.all(20),
           ),
@@ -1669,29 +1905,17 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
                   fillColor: Colors.white,
                   border: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(16),
-                    borderSide: BorderSide(
-                      color: AppColors.golden.withValues(alpha: 0.3),
-                      width: 2,
-                    ),
+                    borderSide: BorderSide(color: AppColors.golden.withValues(alpha: 0.3), width: 2),
                   ),
                   enabledBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(16),
-                    borderSide: BorderSide(
-                      color: AppColors.golden.withValues(alpha: 0.3),
-                      width: 2,
-                    ),
+                    borderSide: BorderSide(color: AppColors.golden.withValues(alpha: 0.3), width: 2),
                   ),
                   focusedBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(16),
-                    borderSide: BorderSide(
-                      color: AppColors.amber,
-                      width: 2,
-                    ),
+                    borderSide: BorderSide(color: AppColors.amber, width: 2),
                   ),
-                  contentPadding: const EdgeInsets.symmetric(
-                    horizontal: 16,
-                    vertical: 16,
-                  ),
+                  contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 16),
                 ),
               ),
             ),
@@ -1700,10 +1924,7 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
         const SizedBox(height: 12),
         Text(
           'Choose between 1-15 points based on difficulty',
-          style: GoogleFonts.dmSans(
-            fontSize: 13,
-            color: AppColors.textSecondary,
-          ),
+          style: GoogleFonts.dmSans(fontSize: 13, color: AppColors.textSecondary),
         ),
         const SizedBox(height: 32),
         SizedBox(
@@ -1714,18 +1935,12 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
               backgroundColor: AppColors.amber,
               foregroundColor: Colors.white,
               padding: const EdgeInsets.symmetric(vertical: 20),
-              shape: RoundedRectangleBorder(
-                borderRadius: BorderRadius.circular(20),
-              ),
+              shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
               elevation: 0,
             ),
             child: Text(
               'Create Challenge',
-              style: GoogleFonts.dmSans(
-                fontSize: 17,
-                fontWeight: FontWeight.w700,
-                letterSpacing: 0.5,
-              ),
+              style: GoogleFonts.dmSans(fontSize: 17, fontWeight: FontWeight.w700, letterSpacing: 0.5),
             ),
           ),
         ),
@@ -1750,11 +1965,7 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
         const SizedBox(height: 12),
         Row(
           children: [
-            Icon(
-              Icons.access_time,
-              size: 16,
-              color: AppColors.textSecondary,
-            ),
+            Icon(Icons.access_time, size: 16, color: AppColors.textSecondary),
             const SizedBox(width: 8),
             Text(
               '${_formatCountdown(_timeUntilNextWeek)} until next week',
@@ -1770,9 +1981,7 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
         Container(
           padding: const EdgeInsets.all(24),
           decoration: BoxDecoration(
-            color: _weeklyTask!.isCompleted
-                ? AppColors.lightYellow
-                : Colors.white,
+            color: _weeklyTask!.isCompleted ? AppColors.lightYellow : Colors.white,
             borderRadius: BorderRadius.circular(24),
             border: Border.all(
               color: _weeklyTask!.isCompleted
@@ -1788,10 +1997,7 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   Container(
-                    padding: const EdgeInsets.symmetric(
-                      horizontal: 14,
-                      vertical: 7,
-                    ),
+                    padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 7),
                     decoration: BoxDecoration(
                       color: AppColors.golden,
                       borderRadius: BorderRadius.circular(20),
@@ -1829,11 +2035,7 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
                 const SizedBox(height: 20),
                 Row(
                   children: [
-                    Icon(
-                      Icons.check_circle,
-                      color: AppColors.success,
-                      size: 20,
-                    ),
+                    Icon(Icons.check_circle, color: AppColors.success, size: 20),
                     const SizedBox(width: 8),
                     Text(
                       'Completed',
@@ -1872,11 +2074,7 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
           TextField(
             controller: _completionController,
             maxLines: 6,
-            style: GoogleFonts.dmSans(
-              fontSize: 16,
-              color: AppColors.textPrimary,
-              height: 1.5,
-            ),
+            style: GoogleFonts.dmSans(fontSize: 16, color: AppColors.textPrimary, height: 1.5),
             decoration: InputDecoration(
               hintText: 'Describe what you accomplished...',
               hintStyle: GoogleFonts.dmSans(
@@ -1887,27 +2085,25 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
               fillColor: Colors.white,
               border: OutlineInputBorder(
                 borderRadius: BorderRadius.circular(20),
-                borderSide: BorderSide(
-                  color: AppColors.golden.withValues(alpha: 0.3),
-                  width: 2,
-                ),
+                borderSide: BorderSide(color: AppColors.golden.withValues(alpha: 0.3), width: 2),
               ),
               enabledBorder: OutlineInputBorder(
                 borderRadius: BorderRadius.circular(20),
-                borderSide: BorderSide(
-                  color: AppColors.golden.withValues(alpha: 0.3),
-                  width: 2,
-                ),
+                borderSide: BorderSide(color: AppColors.golden.withValues(alpha: 0.3), width: 2),
               ),
               focusedBorder: OutlineInputBorder(
                 borderRadius: BorderRadius.circular(20),
-                borderSide: BorderSide(
-                  color: AppColors.amber,
-                  width: 2,
-                ),
+                borderSide: BorderSide(color: AppColors.amber, width: 2),
               ),
               contentPadding: const EdgeInsets.all(20),
             ),
+          ),
+          const SizedBox(height: 24),
+          // ── Attachments editor ────────────────────────────────────────────
+          AttachmentsEditor(
+            attachments: _pendingAttachments,
+            onAdd: _addAttachments,
+            onRemove: (i) => setState(() => _pendingAttachments.removeAt(i)),
           ),
           const SizedBox(height: 24),
           SizedBox(
@@ -1918,18 +2114,12 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
                 backgroundColor: AppColors.success,
                 foregroundColor: Colors.white,
                 padding: const EdgeInsets.symmetric(vertical: 20),
-                shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(20),
-                ),
+                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
                 elevation: 0,
               ),
               child: Text(
                 'Complete Challenge',
-                style: GoogleFonts.dmSans(
-                  fontSize: 17,
-                  fontWeight: FontWeight.w700,
-                  letterSpacing: 0.5,
-                ),
+                style: GoogleFonts.dmSans(fontSize: 17, fontWeight: FontWeight.w700, letterSpacing: 0.5),
               ),
             ),
           ),
@@ -1939,6 +2129,9 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
   }
 }
 
+///
+/// LEAGUE SCREEN
+///
 class LeagueScreen extends StatefulWidget {
   final User user;
   final List<Competitor> competitors;
@@ -2014,7 +2207,6 @@ class _LeagueScreenState extends State<LeagueScreen> {
                 style: GoogleFonts.dmSans(fontSize: 20, fontWeight: FontWeight.w700, color: AppColors.deepBrown),
               ),
               const SizedBox(height: 20),
-              // Photo picker
               Center(
                 child: GestureDetector(
                   onTap: () async {
@@ -2028,7 +2220,11 @@ class _LeagueScreenState extends State<LeagueScreen> {
                         bottom: 0, right: 0,
                         child: Container(
                           padding: const EdgeInsets.all(6),
-                          decoration: BoxDecoration(color: AppColors.amber, shape: BoxShape.circle, border: Border.all(color: Colors.white, width: 2)),
+                          decoration: BoxDecoration(
+                            color: AppColors.amber,
+                            shape: BoxShape.circle,
+                            border: Border.all(color: Colors.white, width: 2),
+                          ),
                           child: const Icon(Icons.photo_library_outlined, size: 14, color: Colors.white),
                         ),
                       ),
@@ -2037,7 +2233,6 @@ class _LeagueScreenState extends State<LeagueScreen> {
                 ),
               ),
               const SizedBox(height: 20),
-              // Name field
               Text('Name', style: GoogleFonts.dmSans(fontSize: 14, fontWeight: FontWeight.w600, color: AppColors.textSecondary)),
               const SizedBox(height: 8),
               TextField(
@@ -2046,9 +2241,18 @@ class _LeagueScreenState extends State<LeagueScreen> {
                 decoration: InputDecoration(
                   filled: true,
                   fillColor: Colors.white,
-                  border: OutlineInputBorder(borderRadius: BorderRadius.circular(14), borderSide: BorderSide(color: AppColors.golden.withValues(alpha: 0.3))),
-                  enabledBorder: OutlineInputBorder(borderRadius: BorderRadius.circular(14), borderSide: BorderSide(color: AppColors.golden.withValues(alpha: 0.3))),
-                  focusedBorder: OutlineInputBorder(borderRadius: BorderRadius.circular(14), borderSide: BorderSide(color: AppColors.amber, width: 2)),
+                  border: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(14),
+                    borderSide: BorderSide(color: AppColors.golden.withValues(alpha: 0.3)),
+                  ),
+                  enabledBorder: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(14),
+                    borderSide: BorderSide(color: AppColors.golden.withValues(alpha: 0.3)),
+                  ),
+                  focusedBorder: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(14),
+                    borderSide: BorderSide(color: AppColors.amber, width: 2),
+                  ),
                   contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
                 ),
               ),
@@ -2116,7 +2320,13 @@ class _LeagueScreenState extends State<LeagueScreen> {
           children: [
             Text(
               'Your League',
-              style: GoogleFonts.dmSans(fontSize: 26, fontWeight: FontWeight.w700, color: AppColors.deepBrown, letterSpacing: -0.8, height: 1.2),
+              style: GoogleFonts.dmSans(
+                fontSize: 26,
+                fontWeight: FontWeight.w700,
+                color: AppColors.deepBrown,
+                letterSpacing: -0.8,
+                height: 1.2,
+              ),
             ),
             const SizedBox(height: 12),
             Text(
@@ -2142,24 +2352,42 @@ class _LeagueScreenState extends State<LeagueScreen> {
                         color: isUser ? AppColors.lightYellow : Colors.white,
                         borderRadius: BorderRadius.circular(24),
                         border: Border.all(
-                          color: isUser ? AppColors.golden.withValues(alpha: 0.5) : AppColors.golden.withValues(alpha: 0.25),
+                          color: isUser
+                              ? AppColors.golden.withValues(alpha: 0.5)
+                              : AppColors.golden.withValues(alpha: 0.25),
                           width: 2,
                         ),
-                        boxShadow: isUser ? [BoxShadow(color: AppColors.golden.withValues(alpha: 0.15), blurRadius: 12, offset: const Offset(0, 4))] : [],
+                        boxShadow: isUser
+                            ? [
+                                BoxShadow(
+                                  color: AppColors.golden.withValues(alpha: 0.15),
+                                  blurRadius: 12,
+                                  offset: const Offset(0, 4),
+                                )
+                              ]
+                            : [],
                       ),
                       child: Row(
                         children: [
-                          // Rank badge
                           Container(
                             width: 36,
                             height: 36,
-                            decoration: BoxDecoration(shape: BoxShape.circle, color: _getMedalColor(rank)),
+                            decoration: BoxDecoration(
+                              shape: BoxShape.circle,
+                              color: _getMedalColor(rank),
+                            ),
                             child: Center(
-                              child: Text(rank.toString(), style: GoogleFonts.dmSans(fontWeight: FontWeight.w700, fontSize: 15, color: Colors.white)),
+                              child: Text(
+                                rank.toString(),
+                                style: GoogleFonts.dmSans(
+                                  fontWeight: FontWeight.w700,
+                                  fontSize: 15,
+                                  color: Colors.white,
+                                ),
+                              ),
                             ),
                           ),
                           const SizedBox(width: 12),
-                          // Avatar photo
                           AvatarWidget(
                             imagePath: entry['imagePath'] as String?,
                             size: 44,
@@ -2169,12 +2397,30 @@ class _LeagueScreenState extends State<LeagueScreen> {
                           Expanded(
                             child: Text(
                               entry['name'] as String,
-                              style: GoogleFonts.dmSans(fontSize: 16, fontWeight: isUser ? FontWeight.w700 : FontWeight.w500, color: AppColors.textPrimary),
+                              style: GoogleFonts.dmSans(
+                                fontSize: 16,
+                                fontWeight: isUser ? FontWeight.w700 : FontWeight.w500,
+                                color: AppColors.textPrimary,
+                              ),
                             ),
                           ),
-                          Text('${entry['points']}', style: GoogleFonts.dmSans(fontSize: 20, fontWeight: FontWeight.w700, color: AppColors.darkBrown)),
+                          Text(
+                            '${entry['points']}',
+                            style: GoogleFonts.dmSans(
+                              fontSize: 20,
+                              fontWeight: FontWeight.w700,
+                              color: AppColors.darkBrown,
+                            ),
+                          ),
                           const SizedBox(width: 4),
-                          Text('pts', style: GoogleFonts.dmSans(fontSize: 13, fontWeight: FontWeight.w500, color: AppColors.textSecondary)),
+                          Text(
+                            'pts',
+                            style: GoogleFonts.dmSans(
+                              fontSize: 13,
+                              fontWeight: FontWeight.w500,
+                              color: AppColors.textSecondary,
+                            ),
+                          ),
                         ],
                       ),
                     ),
@@ -2189,6 +2435,9 @@ class _LeagueScreenState extends State<LeagueScreen> {
   }
 }
 
+///
+/// PROFILE SCREEN
+///
 class ProfileScreen extends StatefulWidget {
   final User user;
   final Function(User) onUserUpdate;
@@ -2246,7 +2495,10 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
             mainAxisSize: MainAxisSize.min,
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Text('Edit Your Profile', style: GoogleFonts.dmSans(fontSize: 20, fontWeight: FontWeight.w700, color: AppColors.deepBrown)),
+              Text(
+                'Edit Your Profile',
+                style: GoogleFonts.dmSans(fontSize: 20, fontWeight: FontWeight.w700, color: AppColors.deepBrown),
+              ),
               const SizedBox(height: 20),
               Center(
                 child: GestureDetector(
@@ -2261,7 +2513,11 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                         bottom: 0, right: 0,
                         child: Container(
                           padding: const EdgeInsets.all(6),
-                          decoration: BoxDecoration(color: AppColors.amber, shape: BoxShape.circle, border: Border.all(color: Colors.white, width: 2)),
+                          decoration: BoxDecoration(
+                            color: AppColors.amber,
+                            shape: BoxShape.circle,
+                            border: Border.all(color: Colors.white, width: 2),
+                          ),
                           child: const Icon(Icons.photo_library_outlined, size: 14, color: Colors.white),
                         ),
                       ),
@@ -2278,9 +2534,18 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                 decoration: InputDecoration(
                   filled: true,
                   fillColor: Colors.white,
-                  border: OutlineInputBorder(borderRadius: BorderRadius.circular(14), borderSide: BorderSide(color: AppColors.golden.withValues(alpha: 0.3))),
-                  enabledBorder: OutlineInputBorder(borderRadius: BorderRadius.circular(14), borderSide: BorderSide(color: AppColors.golden.withValues(alpha: 0.3))),
-                  focusedBorder: OutlineInputBorder(borderRadius: BorderRadius.circular(14), borderSide: BorderSide(color: AppColors.amber, width: 2)),
+                  border: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(14),
+                    borderSide: BorderSide(color: AppColors.golden.withValues(alpha: 0.3)),
+                  ),
+                  enabledBorder: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(14),
+                    borderSide: BorderSide(color: AppColors.golden.withValues(alpha: 0.3)),
+                  ),
+                  focusedBorder: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(14),
+                    borderSide: BorderSide(color: AppColors.amber, width: 2),
+                  ),
                   contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
                 ),
               ),
@@ -2289,7 +2554,9 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                 width: double.infinity,
                 child: ElevatedButton(
                   onPressed: () {
-                    final newName = nameController.text.trim().isEmpty ? widget.user.username : nameController.text.trim();
+                    final newName = nameController.text.trim().isEmpty
+                        ? widget.user.username
+                        : nameController.text.trim();
                     widget.onUserUpdate(User(
                       username: newName,
                       avatarImagePath: currentImagePath,
@@ -2330,8 +2597,6 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
     final allItems = <Map<String, dynamic>>[];
     final searchLower = _searchQuery.toLowerCase();
 
-    // All submissions (daily and weekly) are permanently stored in user.submissions.
-    // Weekly submissions have promptIndex == -1, daily ones have promptIndex >= 0.
     for (var submission in widget.user.submissions) {
       final isWeekly = submission.promptIndex == -1;
       final isDaily = !isWeekly;
@@ -2339,7 +2604,6 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
       if (isDaily && _filterType == 'weekly') continue;
       if (isWeekly && _filterType == 'daily') continue;
 
-      // Hide in-progress weekly submissions if the toggle is off
       if (isWeekly && !_showInProgress &&
           !submission.text.contains('\n\nCompletion: ')) {
         continue;
@@ -2360,9 +2624,7 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
     allItems.sort((a, b) {
       final dateA = a['date'] as DateTime;
       final dateB = b['date'] as DateTime;
-      return _sortNewestFirst 
-          ? dateB.compareTo(dateA) 
-          : dateA.compareTo(dateB);
+      return _sortNewestFirst ? dateB.compareTo(dateA) : dateA.compareTo(dateB);
     });
 
     return allItems;
@@ -2394,7 +2656,11 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                             bottom: 0, right: 0,
                             child: Container(
                               padding: const EdgeInsets.all(5),
-                              decoration: BoxDecoration(color: AppColors.amber, shape: BoxShape.circle, border: Border.all(color: Colors.white, width: 2)),
+                              decoration: BoxDecoration(
+                                color: AppColors.amber,
+                                shape: BoxShape.circle,
+                                border: Border.all(color: Colors.white, width: 2),
+                              ),
                               child: const Icon(Icons.photo_library_outlined, size: 15, color: Colors.white),
                             ),
                           ),
@@ -2404,7 +2670,12 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                     const SizedBox(height: 16),
                     Text(
                       widget.user.username,
-                      style: GoogleFonts.dmSans(fontSize: 24, fontWeight: FontWeight.w600, color: AppColors.deepBrown, letterSpacing: -0.5),
+                      style: GoogleFonts.dmSans(
+                        fontSize: 24,
+                        fontWeight: FontWeight.w600,
+                        color: AppColors.deepBrown,
+                        letterSpacing: -0.5,
+                      ),
                     ),
                   ],
                 ),
@@ -2446,10 +2717,7 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                         const SizedBox(height: 4),
                         Text(
                           'Total Points',
-                          style: GoogleFonts.dmSans(
-                            fontSize: 13,
-                            color: AppColors.textSecondary,
-                          ),
+                          style: GoogleFonts.dmSans(fontSize: 13, color: AppColors.textSecondary),
                         ),
                       ],
                     ),
@@ -2472,10 +2740,7 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                         const SizedBox(height: 4),
                         Text(
                           'Submissions',
-                          style: GoogleFonts.dmSans(
-                            fontSize: 13,
-                            color: AppColors.textSecondary,
-                          ),
+                          style: GoogleFonts.dmSans(fontSize: 13, color: AppColors.textSecondary),
                         ),
                       ],
                     ),
@@ -2498,15 +2763,8 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
 
               TextField(
                 controller: _searchController,
-                onChanged: (value) {
-                  setState(() {
-                    _searchQuery = value;
-                  });
-                },
-                style: GoogleFonts.dmSans(
-                  fontSize: 15,
-                  color: AppColors.textPrimary,
-                ),
+                onChanged: (value) => setState(() => _searchQuery = value),
+                style: GoogleFonts.dmSans(fontSize: 15, color: AppColors.textPrimary),
                 decoration: InputDecoration(
                   hintText: 'Search submissions...',
                   hintStyle: GoogleFonts.dmSans(
@@ -2518,9 +2776,7 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                           icon: Icon(Icons.clear, color: AppColors.brown),
                           onPressed: () {
                             _searchController.clear();
-                            setState(() {
-                              _searchQuery = '';
-                            });
+                            setState(() => _searchQuery = '');
                           },
                         )
                       : null,
@@ -2528,27 +2784,17 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                   fillColor: Colors.white,
                   border: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(16),
-                    borderSide: BorderSide(
-                      color: AppColors.golden.withValues(alpha: 0.3),
-                    ),
+                    borderSide: BorderSide(color: AppColors.golden.withValues(alpha: 0.3)),
                   ),
                   enabledBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(16),
-                    borderSide: BorderSide(
-                      color: AppColors.golden.withValues(alpha: 0.3),
-                    ),
+                    borderSide: BorderSide(color: AppColors.golden.withValues(alpha: 0.3)),
                   ),
                   focusedBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(16),
-                    borderSide: BorderSide(
-                      color: AppColors.amber,
-                      width: 2,
-                    ),
+                    borderSide: BorderSide(color: AppColors.amber, width: 2),
                   ),
-                  contentPadding: const EdgeInsets.symmetric(
-                    horizontal: 16,
-                    vertical: 12,
-                  ),
+                  contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
                 ),
               ),
 
@@ -2562,25 +2808,16 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                       decoration: BoxDecoration(
                         color: AppColors.warmSurface,
                         borderRadius: BorderRadius.circular(12),
-                        border: Border.all(
-                          color: AppColors.golden.withValues(alpha: 0.2),
-                        ),
+                        border: Border.all(color: AppColors.golden.withValues(alpha: 0.2)),
                       ),
                       child: DropdownButtonHideUnderline(
                         child: DropdownButton<String>(
                           value: _filterType,
                           icon: Icon(Icons.filter_list, color: AppColors.brown, size: 20),
-                          style: GoogleFonts.dmSans(
-                            fontSize: 14,
-                            color: AppColors.textPrimary,
-                          ),
+                          style: GoogleFonts.dmSans(fontSize: 14, color: AppColors.textPrimary),
                           dropdownColor: AppColors.warmSurface,
                           onChanged: (String? newValue) {
-                            if (newValue != null) {
-                              setState(() {
-                                _filterType = newValue;
-                              });
-                            }
+                            if (newValue != null) setState(() => _filterType = newValue);
                           },
                           items: const [
                             DropdownMenuItem(value: 'all', child: Text('All')),
@@ -2593,25 +2830,17 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                   ),
                   const SizedBox(width: 8),
                   InkWell(
-                    onTap: () {
-                      setState(() {
-                        _sortNewestFirst = !_sortNewestFirst;
-                      });
-                    },
+                    onTap: () => setState(() => _sortNewestFirst = !_sortNewestFirst),
                     borderRadius: BorderRadius.circular(12),
                     child: Container(
                       padding: const EdgeInsets.all(12),
                       decoration: BoxDecoration(
                         color: AppColors.warmSurface,
                         borderRadius: BorderRadius.circular(12),
-                        border: Border.all(
-                          color: AppColors.golden.withValues(alpha: 0.2),
-                        ),
+                        border: Border.all(color: AppColors.golden.withValues(alpha: 0.2)),
                       ),
                       child: Icon(
-                        _sortNewestFirst 
-                            ? Icons.arrow_downward 
-                            : Icons.arrow_upward,
+                        _sortNewestFirst ? Icons.arrow_downward : Icons.arrow_upward,
                         color: AppColors.brown,
                         size: 18,
                       ),
@@ -2619,11 +2848,7 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                   ),
                   const SizedBox(width: 8),
                   InkWell(
-                    onTap: () {
-                      setState(() {
-                        _showInProgress = !_showInProgress;
-                      });
-                    },
+                    onTap: () => setState(() => _showInProgress = !_showInProgress),
                     borderRadius: BorderRadius.circular(12),
                     child: Container(
                       padding: const EdgeInsets.all(12),
@@ -2682,6 +2907,7 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                       final taskText = parts[0];
                       final completionText = parts.length > 1 ? parts[1] : null;
                       final isCompleted = completionText != null;
+
                       return Padding(
                         padding: const EdgeInsets.only(bottom: 12.0),
                         child: Container(
@@ -2721,7 +2947,14 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                                           children: [
                                             Icon(Icons.calendar_month, size: 14, color: Colors.white),
                                             const SizedBox(width: 4),
-                                            Text('Weekly', style: GoogleFonts.dmSans(fontWeight: FontWeight.w600, fontSize: 12, color: Colors.white)),
+                                            Text(
+                                              'Weekly',
+                                              style: GoogleFonts.dmSans(
+                                                fontWeight: FontWeight.w600,
+                                                fontSize: 12,
+                                                color: Colors.white,
+                                              ),
+                                            ),
                                           ],
                                         ),
                                       ),
@@ -2729,8 +2962,18 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                                         const SizedBox(width: 8),
                                         Container(
                                           padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
-                                          decoration: BoxDecoration(color: AppColors.golden, borderRadius: BorderRadius.circular(8)),
-                                          child: Text('+${submission.points} pts', style: GoogleFonts.dmSans(fontWeight: FontWeight.w600, fontSize: 12, color: AppColors.deepBrown)),
+                                          decoration: BoxDecoration(
+                                            color: AppColors.golden,
+                                            borderRadius: BorderRadius.circular(8),
+                                          ),
+                                          child: Text(
+                                            '+${submission.points} pts',
+                                            style: GoogleFonts.dmSans(
+                                              fontWeight: FontWeight.w600,
+                                              fontSize: 12,
+                                              color: AppColors.deepBrown,
+                                            ),
+                                          ),
                                         ),
                                       ],
                                     ],
@@ -2740,7 +2983,11 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                               const SizedBox(height: 8),
                               Text(
                                 '${_getDayOfWeek(submission.date)}, ${_formatDateTime(submission.date)}',
-                                style: GoogleFonts.dmSans(fontSize: 12, color: AppColors.textSecondary.withValues(alpha: 0.7), fontWeight: FontWeight.w500),
+                                style: GoogleFonts.dmSans(
+                                  fontSize: 12,
+                                  color: AppColors.textSecondary.withValues(alpha: 0.7),
+                                  fontWeight: FontWeight.w500,
+                                ),
                               ),
                               const SizedBox(height: 12),
                               Row(
@@ -2754,7 +3001,15 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                                     ),
                                   ),
                                   Expanded(
-                                    child: Text(taskText, style: GoogleFonts.dmSans(fontSize: 16, color: AppColors.textPrimary, height: 1.4, fontWeight: FontWeight.w500)),
+                                    child: Text(
+                                      taskText,
+                                      style: GoogleFonts.dmSans(
+                                        fontSize: 16,
+                                        color: AppColors.textPrimary,
+                                        height: 1.4,
+                                        fontWeight: FontWeight.w500,
+                                      ),
+                                    ),
                                   ),
                                 ],
                               ),
@@ -2762,12 +3017,35 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                                 const SizedBox(height: 12),
                                 Divider(color: AppColors.golden.withValues(alpha: 0.3)),
                                 const SizedBox(height: 8),
-                                Text('What you did:', style: GoogleFonts.dmSans(fontSize: 13, fontWeight: FontWeight.w600, color: AppColors.textPrimary)),
+                                Text(
+                                  'What you did:',
+                                  style: GoogleFonts.dmSans(
+                                    fontSize: 13,
+                                    fontWeight: FontWeight.w600,
+                                    color: AppColors.textPrimary,
+                                  ),
+                                ),
                                 const SizedBox(height: 6),
-                                Text(completionText, style: GoogleFonts.dmSans(fontSize: 14, color: AppColors.textSecondary, height: 1.4)),
+                                Text(
+                                  completionText,
+                                  style: GoogleFonts.dmSans(
+                                    fontSize: 14,
+                                    color: AppColors.textSecondary,
+                                    height: 1.4,
+                                  ),
+                                ),
+                                // ── Attachments viewer ────────────────────
+                                AttachmentsViewer(attachments: submission.attachments),
                               ] else ...[
                                 const SizedBox(height: 8),
-                                Text('In Progress', style: GoogleFonts.dmSans(fontSize: 13, color: AppColors.amber, fontWeight: FontWeight.w600)),
+                                Text(
+                                  'In Progress',
+                                  style: GoogleFonts.dmSans(
+                                    fontSize: 13,
+                                    color: AppColors.amber,
+                                    fontWeight: FontWeight.w600,
+                                  ),
+                                ),
                               ],
                             ],
                           ),
@@ -2803,21 +3081,14 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                                   Row(
                                     children: [
                                       Container(
-                                        padding: const EdgeInsets.symmetric(
-                                          horizontal: 10,
-                                          vertical: 5,
-                                        ),
+                                        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
                                         decoration: BoxDecoration(
                                           color: AppColors.brown,
                                           borderRadius: BorderRadius.circular(8),
                                         ),
                                         child: Row(
                                           children: [
-                                            Icon(
-                                              Icons.today,
-                                              size: 14,
-                                              color: Colors.white,
-                                            ),
+                                            Icon(Icons.today, size: 14, color: Colors.white),
                                             const SizedBox(width: 4),
                                             Text(
                                               'Daily',
@@ -2832,10 +3103,7 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                                       ),
                                       const SizedBox(width: 8),
                                       Container(
-                                        padding: const EdgeInsets.symmetric(
-                                          horizontal: 10,
-                                          vertical: 5,
-                                        ),
+                                        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
                                         decoration: BoxDecoration(
                                           color: AppColors.golden,
                                           borderRadius: BorderRadius.circular(8),
@@ -2852,11 +3120,7 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                                     ],
                                   ),
                                   IconButton(
-                                    icon: Icon(
-                                      Icons.delete_outline,
-                                      color: AppColors.error,
-                                      size: 20,
-                                    ),
+                                    icon: Icon(Icons.delete_outline, color: AppColors.error, size: 20),
                                     onPressed: () async {
                                       final confirmed = await showDialog<bool>(
                                         context: context,
@@ -2873,17 +3137,11 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                                           actions: [
                                             TextButton(
                                               onPressed: () => Navigator.pop(context, false),
-                                              child: Text(
-                                                "Cancel",
-                                                style: GoogleFonts.dmSans(color: AppColors.brown),
-                                              ),
+                                              child: Text("Cancel", style: GoogleFonts.dmSans(color: AppColors.brown)),
                                             ),
                                             TextButton(
                                               onPressed: () => Navigator.pop(context, true),
-                                              child: Text(
-                                                "Delete",
-                                                style: GoogleFonts.dmSans(color: AppColors.error),
-                                              ),
+                                              child: Text("Delete", style: GoogleFonts.dmSans(color: AppColors.error)),
                                             ),
                                           ],
                                         ),
@@ -2892,11 +3150,13 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                                       if (!context.mounted) return;
 
                                       if (confirmed == true) {
-                                        final updatedSubmissions = List<Submission>.from(widget.user.submissions)
-                                          ..removeWhere((s) => s.id == submission.id);
-                                        
+                                        final updatedSubmissions =
+                                            List<Submission>.from(widget.user.submissions)
+                                              ..removeWhere((s) => s.id == submission.id);
+
                                         final updatedUser = User(
                                           username: widget.user.username,
+                                          avatarImagePath: widget.user.avatarImagePath,
                                           totalPoints: widget.user.totalPoints - submission.points,
                                           submissions: updatedSubmissions,
                                         );
@@ -2905,10 +3165,7 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
 
                                         ScaffoldMessenger.of(context).showSnackBar(
                                           SnackBar(
-                                            content: Text(
-                                              "Submission deleted",
-                                              style: GoogleFonts.dmSans(),
-                                            ),
+                                            content: Text("Submission deleted", style: GoogleFonts.dmSans()),
                                             backgroundColor: AppColors.brown,
                                           ),
                                         );
@@ -2917,7 +3174,6 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                                   ),
                                 ],
                               ),
-
                               const SizedBox(height: 8),
                               Text(
                                 '${_getDayOfWeek(submission.date)}, ${_formatDateTime(submission.date)}',
@@ -2927,9 +3183,7 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                                   fontWeight: FontWeight.w500,
                                 ),
                               ),
-
                               const SizedBox(height: 12),
-
                               Text(
                                 submission.text,
                                 style: GoogleFonts.dmSans(
@@ -2938,6 +3192,8 @@ class _ProfileScreenState extends State<ProfileScreen> with AutomaticKeepAliveCl
                                   height: 1.4,
                                 ),
                               ),
+                              // ── Attachments viewer ──────────────────────
+                              AttachmentsViewer(attachments: submission.attachments),
                             ],
                           ),
                         ),
