@@ -5,15 +5,17 @@
 #### 1. Install Flutter
 
 -Download from flutter.dev/docs/get-started/install
+
 -Follow the Windows install guide
+
 -Run flutter doctor in terminal and fix any issues it flags
 
 
 #### 2. Install Android Studio (for an android emulator)
 
 -Download from developer.android.com/studio
--During setup, install Android SDK and create a virtual device [I chose the Pixel 9]
--OR use a physical Android/iOS device with USB debugging enabled
+
+-During setup, install Android SDK and create a virtual device [I chose the Pixel 9] OR use a physical Android/iOS device with USB debugging enabled
 
 
 #### 3. Install Git (if not already installed)
@@ -26,6 +28,7 @@
 -Use the following commands in your terminal:
 
 git clone https://github.com/mrmcwrong/MakeUp.git
+
 cd MakeUp
 
 
@@ -41,6 +44,7 @@ flutter pub get
 -Use the following commands in your terminal:
 
 flutter doctor --android-licenses
+
 Press y to accept all.
 
 
@@ -49,13 +53,10 @@ Press y to accept all.
 
 #### 8. Start an emulator
 
--Open Android Studio > Device Manager > Play button on your virtual device
--OR connect a physical device via USB
+-Open Android Studio > Device Manager > Play button on your virtual device OR connect a physical device via USB
 
 #### 9. Run the app
 
--In VS Code, press F5 or go to Run → Start Debugging
-
--OR in the terminal:
+-In VS Code, press F5 or go to Run → Start Debugging OR in the terminal:
 
 flutter run
