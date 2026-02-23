@@ -1,6 +1,6 @@
-### MakeUp
+# MakeUp
 
-# Prerequisites
+### Prerequisites
 
 1. Install Flutter
 
