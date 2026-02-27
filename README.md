@@ -1,6 +1,26 @@
 # MakeUp
 
-### Prerequisites
+- What are the system requirements?
+
+    - A Windows computer with Windows 10+ installed.
+    - An Android phone with Android 5+ installed OR an Android Virtual Device (AVD) emulator functioning with Android 5+.
+
+
+- What dependencies need to be installed?
+    - The Flutter SDK will need installed in VS Code.
+
+    - The following dependencies will be installed with ```flutter pub get```:
+        - shared_preferences
+        - google_fonts
+        - image_picker
+        - path_provider
+        - path
+        - file_picker
+        - open_filex
+        - mime
+
+
+- What are the step-by-step installation instructions?
 
 #### 1. Install Flutter
 
@@ -54,7 +74,13 @@ Press y to accept all.
 
 #### 8. Start an emulator
 
--Open Android Studio > Device Manager > Play button on your virtual device OR connect a physical device via USB
+Choose one of the three following options:
+
+-Open Android Studio > Device Manager > Play button on your virtual device
+
+-Connect a physical device via USB
+
+-Click the device button in the bottom right corner of the VS Code window (It probably says "Windows (windows-x64)" or something similar if you have not yet selected a device) and choose your AVD in the dropdown menu.
 
 #### 9. Run the app
 
@@ -62,3 +88,8 @@ Press y to accept all.
 ```
 flutter run
 ```
+
+
+- How can someone verify that the installation was successful?
+
+When pressing F5 or using ```flutter run```, the app should be created in either your AVD, Windows, Chrome or Edge (depending on your default option or choice in the terminal).
