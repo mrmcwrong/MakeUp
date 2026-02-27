@@ -8,7 +8,7 @@
 
 -Follow the Windows install guide
 
--Run flutter doctor in terminal and fix any issues it flags
+-Run ```flutter doctor``` in terminal and fix any issues it flags
 
 
 #### 2. Install Android Studio (for an android emulator)
@@ -27,24 +27,25 @@
 
 -Use the following commands in your terminal:
 
+```
 git clone https://github.com/mrmcwrong/MakeUp.git
 
 cd MakeUp
-
+```
 
 #### 5. Install dependencies
 
 -Use the following command in your terminal:
-
+```
 flutter pub get
-
+```
 
 #### 6. Accept Android licenses
 
 -Use the following commands in your terminal:
-
+```
 flutter doctor --android-licenses
-
+```
 Press y to accept all.
 
 
@@ -58,5 +59,6 @@ Press y to accept all.
 #### 9. Run the app
 
 -In VS Code, press F5 or go to Run → Start Debugging OR in the terminal:
-
+```
 flutter run
+```
