@@ -1,0 +1,1752 @@
+﻿[
+    {
+        "id":  "P1-0003",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0015",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0027",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0039",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0051",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0063",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0075",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0087",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0099",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0111",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0123",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0135",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0147",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0159",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0171",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0183",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0195",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0207",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0219",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0231",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0243",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0255",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0267",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0279",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0291",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0303",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0315",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0327",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0339",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0351",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0363",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0375",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0387",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0399",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0411",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0423",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0435",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0447",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0459",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0471",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0483",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0495",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0507",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0519",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0531",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0543",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0555",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0567",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0579",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0591",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0603",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0615",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0627",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0639",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0651",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0663",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0675",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0687",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0699",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0711",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0723",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0735",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0747",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0759",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0771",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0783",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0795",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0807",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0819",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0831",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0843",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0855",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0867",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0879",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0891",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0903",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0915",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0927",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0939",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0951",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0963",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0975",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0987",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0999",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1011",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1023",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1035",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1047",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1059",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1071",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1083",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1095",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1107",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1119",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1131",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1143",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1155",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1167",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1179",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1191",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1203",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1215",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1227",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1239",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1251",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1263",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1275",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1287",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1299",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1311",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1323",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1335",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1347",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1359",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1371",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1383",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1395",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1407",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1419",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1431",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1443",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1455",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1467",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1479",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1491",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1503",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1515",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1527",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1539",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1551",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1563",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1575",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1587",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1599",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1611",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1623",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1635",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1647",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1659",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1671",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1683",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1695",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1707",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1719",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1731",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1743",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1755",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1767",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1779",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1791",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1803",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1815",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1827",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1839",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1851",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1863",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1875",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1887",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1899",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1911",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1923",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1935",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1947",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1959",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1971",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1983",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1995",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2007",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2019",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2031",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2043",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2055",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2067",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2079",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2091",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2103",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2115",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2127",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2139",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2151",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2163",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2175",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2187",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2199",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2211",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2223",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2235",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2247",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2259",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2271",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2283",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2295",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2307",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2319",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2331",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2343",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2355",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2367",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2379",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2391",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2403",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2415",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2427",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2439",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2451",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2463",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2475",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2487",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2499",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2511",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2523",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2535",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2547",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2559",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2571",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2583",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2595",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2607",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2619",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2631",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2643",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2655",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2667",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2679",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2691",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2703",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2715",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2727",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2739",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2751",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2763",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2775",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2787",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2799",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2811",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2823",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2835",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2847",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2859",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2871",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2883",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2895",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2907",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2919",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2931",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2943",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2955",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2967",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2979",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2991",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    }
+]

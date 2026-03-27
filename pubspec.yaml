@@ -9,20 +9,49 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
+  # Loads custom fonts (DM Sans) from the Google Fonts library
   google_fonts: ^8.0.1
+
+  # Stores small key/value data locally (user profile, settings)
   shared_preferences: ^2.2.2
+
+  # Opens the camera or photo gallery to pick avatar/profile images
   image_picker: ^1.1.2
+
+  # Opens the device file browser to attach any file type to submissions
   file_picker: ^8.0.0
+
+  # Plays audio files in-app without launching an external music app
+  audioplayers: ^6.0.0
+
+  # Plays video files attached to submissions
   video_player: ^2.8.0
+
+  # Opens files (PDFs, docs, etc.) with the device's default external app
   open_filex: ^4.4.1
+
+  # Triggers the native OS share sheet to save or share attachment files
+  share_plus: ^10.0.0
+
+  # Detects a file's type (image, audio, video, PDF, etc.) from its extension or bytes
   mime: ^1.0.5
+
+  # Locates device directories (temp, documents) for reading/writing files
   path_provider: ^2.1.4
+
+  # Utilities for joining, splitting, and manipulating file path strings
   path: ^1.9.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+  # Enforces recommended Dart/Flutter code style and best practices
   flutter_lints: ^6.0.0
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/avatars/
+    - assets/prompts/all_prompts.json

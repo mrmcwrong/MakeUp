@@ -1,7 +1,7 @@
-
+﻿
 
 class DebugTime {
-  // 17280 = seconds in a day / 5  →  1 virtual day per 5 real seconds
+  // 17280 = seconds in a day / 5 -> 1 virtual day per 5 real seconds
   static const double _speedMultiplier = 17280.0;
 
   static bool _enabled = false;
@@ -43,7 +43,7 @@ class DebugTime {
   }
 
   /// Returns the current (possibly accelerated) time.
-  /// Synchronous — safe to call anywhere DateTime.now() was used.
+  /// Synchronous - safe to call anywhere DateTime.now() was used.
   static DateTime now() {
     if (!_enabled || _wallClockStart == null || _virtualStart == null) {
       // When paused, return the last virtual time reached (if any) so that

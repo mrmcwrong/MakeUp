@@ -1,0 +1,1752 @@
+﻿[
+    {
+        "id":  "P1-0010",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0022",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0034",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0046",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0058",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0070",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0082",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0094",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0106",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0118",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0130",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0142",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0154",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0166",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0178",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0190",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0202",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0214",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0226",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0238",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0250",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0262",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0274",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0286",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0298",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0310",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0322",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0334",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0346",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0358",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0370",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0382",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0394",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0406",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0418",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0430",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0442",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0454",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0466",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0478",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0490",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0502",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0514",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0526",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0538",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0550",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0562",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0574",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0586",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0598",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0610",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0622",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0634",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0646",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0658",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0670",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0682",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0694",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0706",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0718",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0730",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0742",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0754",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0766",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0778",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0790",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0802",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0814",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0826",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0838",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0850",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0862",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0874",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0886",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0898",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0910",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0922",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0934",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0946",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0958",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0970",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0982",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0994",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1006",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1018",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1030",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1042",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1054",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1066",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1078",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1090",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1102",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1114",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1126",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1138",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1150",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1162",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1174",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1186",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1198",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1210",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1222",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1234",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1246",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1258",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1270",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1282",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1294",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1306",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1318",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1330",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1342",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1354",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1366",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1378",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1390",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1402",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1414",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1426",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1438",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1450",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1462",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1474",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1486",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1498",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1510",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1522",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1534",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1546",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1558",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1570",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1582",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1594",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1606",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1618",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1630",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1642",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1654",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1666",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1678",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1690",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1702",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1714",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1726",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1738",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1750",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1762",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1774",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1786",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1798",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1810",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1822",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1834",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1846",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1858",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1870",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1882",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1894",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1906",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1918",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1930",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1942",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1954",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1966",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1978",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1990",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2002",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2014",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2026",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2038",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2050",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2062",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2074",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2086",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2098",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2110",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2122",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2134",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2146",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2158",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2170",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2182",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2194",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2206",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2218",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2230",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2242",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2254",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2266",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2278",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2290",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2302",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2314",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2326",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2338",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2350",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2362",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2374",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2386",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2398",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2410",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2422",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2434",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2446",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2458",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2470",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2482",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2494",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2506",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2518",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2530",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2542",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2554",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2566",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2578",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2590",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2602",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2614",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2626",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2638",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2650",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2662",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2674",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2686",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2698",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2710",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2722",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2734",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2746",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2758",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2770",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2782",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2794",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2806",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2818",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2830",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2842",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2854",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2866",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2878",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2890",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2902",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2914",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2926",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2938",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2950",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Develop a two-person scene for the category Theater, with heightened stakes. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2962",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Rehearse a character beat map for the category Theater, ending in ambiguity. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2974",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Direct a short monologue for the category Theater, with minimal props. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2986",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Block a staging plan for the category Theater, with comic relief beats. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2998",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Theater",
+        "prompt":  "Adapt a rehearsal script for the category Theater, for black-box staging. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    }
+]

@@ -1,6 +1,10 @@
-import 'package:flutter/material.dart';
+﻿import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'debug_time.dart';
+
+class DebugOptions {
+  static bool showAdjustedProbabilities = false;
+}
 
 class DebugOverlay extends StatefulWidget {
   final Widget child;
@@ -22,7 +26,7 @@ class _DebugOverlayState extends State<DebugOverlay> {
   int _tapCount = 0;
   DateTime? _lastTap;
 
-  // ── Tap 5 times on the bug icon to show/hide the panel ──────────────────────
+  // Tap 5 times on the bug icon to show/hide the panel.
   void _handleTap() {
     final now = DateTime.now(); // always use real time for UI interactions
     if (_lastTap != null &&
@@ -40,7 +44,7 @@ class _DebugOverlayState extends State<DebugOverlay> {
     }
   }
 
-  // ── Toggle fast-forward ──────────────────────────────────────────────────────
+  // Toggle fast-forward mode.
   void _toggleFastForward() {
     final nowActive = !_fastForwardActive;
     if (nowActive) {
@@ -52,9 +56,22 @@ class _DebugOverlayState extends State<DebugOverlay> {
       _fastForwardActive = nowActive;
     });
     _showSnack(nowActive
-        ? 'Fast-forward ON — 1 day every 5 seconds ⏩'
-        : 'Fast-forward OFF — back to real time');
+        ? 'Fast-forward ON - 1 day every 5 seconds >>'
+        : 'Fast-forward OFF - back to real time');
     // Defer parent rebuild until after this frame so the button updates instantly
+    WidgetsBinding.instance.addPostFrameCallback((_) => widget.onUpdate());
+  }
+
+  void _toggleProbabilityDebug() {
+    setState(() {
+      DebugOptions.showAdjustedProbabilities =
+          !DebugOptions.showAdjustedProbabilities;
+    });
+    _showSnack(
+      DebugOptions.showAdjustedProbabilities
+          ? 'Probability debug ON'
+          : 'Probability debug OFF',
+    );
     WidgetsBinding.instance.addPostFrameCallback((_) => widget.onUpdate());
   }
 
@@ -70,10 +87,11 @@ class _DebugOverlayState extends State<DebugOverlay> {
     );
   }
 
-  // ── Build ────────────────────────────────────────────────────────────────────
+  // Build overlay UI.
   @override
   Widget build(BuildContext context) {
     final fastForwardActive = _fastForwardActive;
+    final showProbabilityDebug = DebugOptions.showAdjustedProbabilities;
 
     return Directionality(
       textDirection: TextDirection.ltr,
@@ -81,10 +99,10 @@ class _DebugOverlayState extends State<DebugOverlay> {
         children: [
           widget.child,
 
-          // ── Bug icon (tap 5× to reveal panel) ─────────────────────────────
+          // Bug icon (tap 5x to reveal panel)
           Positioned(
             top: 40,
-            right: 10,
+            left: 10,
             child: GestureDetector(
               onTap: _handleTap,
               child: Container(
@@ -113,15 +131,15 @@ class _DebugOverlayState extends State<DebugOverlay> {
             ),
           ),
 
-          // ── Debug panel ────────────────────────────────────────────────────
+          // Debug panel
           if (_showPanel)
             Positioned(
               top: 88,
-              right: 10,
+              left: 10,
               child: Material(
                 type: MaterialType.transparency,
                 child: Container(
-                  width: 220,
+                  width: 240,
                   padding: const EdgeInsets.all(14),
                   decoration: BoxDecoration(
                     color: Colors.black.withValues(alpha: 0.9),
@@ -147,8 +165,8 @@ class _DebugOverlayState extends State<DebugOverlay> {
                       // Status line
                       Text(
                         fastForwardActive
-                            ? '⏩ 1 day / 5 seconds'
-                            : '🕐 Real time',
+                            ? '>> 1 day / 5 seconds'
+                            : 'Real time',
                         style: GoogleFonts.dmSans(
                           color: fastForwardActive
                               ? Colors.orangeAccent
@@ -163,11 +181,21 @@ class _DebugOverlayState extends State<DebugOverlay> {
                       _buildButton(
                         fastForwardActive
                             ? 'Stop Fast-Forward'
-                            : 'Start Fast-Forward ⏩',
+                            : 'Start Fast-Forward >>',
                         _toggleFastForward,
                         color: fastForwardActive
                             ? Colors.orange[800]
                             : Colors.green[800],
+                      ),
+                      const SizedBox(height: 8),
+                      _buildButton(
+                        showProbabilityDebug
+                            ? 'Hide Probability Debug'
+                            : 'Show Probability Debug',
+                        _toggleProbabilityDebug,
+                        color: showProbabilityDebug
+                            ? Colors.blueGrey[700]
+                            : Colors.blue[800],
                       ),
                     ],
                   ),

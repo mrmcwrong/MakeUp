@@ -1,0 +1,1752 @@
+﻿[
+    {
+        "id":  "P1-0005",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0017",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0029",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0041",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0053",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0065",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0077",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0089",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0101",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0113",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0125",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0137",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0149",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0161",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0173",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0185",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0197",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0209",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0221",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0233",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0245",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0257",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0269",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0281",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0293",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0305",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0317",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0329",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0341",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0353",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0365",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0377",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0389",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0401",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0413",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0425",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0437",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0449",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0461",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0473",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0485",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0497",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0509",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0521",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0533",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0545",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0557",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0569",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0581",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0593",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0605",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0617",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0629",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0641",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0653",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0665",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0677",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0689",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0701",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0713",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0725",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0737",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0749",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0761",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0773",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0785",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0797",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0809",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0821",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0833",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0845",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0857",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0869",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0881",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0893",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0905",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0917",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0929",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0941",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0953",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0965",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0977",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0989",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1001",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1013",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1025",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1037",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1049",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1061",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1073",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1085",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1097",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1109",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1121",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1133",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1145",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1157",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1169",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1181",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1193",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1205",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1217",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1229",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1241",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1253",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1265",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1277",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1289",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1301",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1313",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1325",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1337",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1349",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1361",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1373",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1385",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1397",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1409",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1421",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1433",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1445",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1457",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1469",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1481",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1493",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1505",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1517",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1529",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1541",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1553",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1565",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1577",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1589",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1601",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1613",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1625",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1637",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1649",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1661",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1673",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1685",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1697",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1709",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1721",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1733",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1745",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1757",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1769",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1781",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1793",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1805",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1817",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1829",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1841",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1853",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1865",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1877",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1889",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1901",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1913",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1925",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1937",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1949",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1961",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1973",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1985",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1997",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2009",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2021",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2033",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2045",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2057",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2069",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2081",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2093",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2105",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2117",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2129",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2141",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2153",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2165",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2177",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2189",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2201",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2213",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2225",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2237",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2249",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2261",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2273",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2285",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2297",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2309",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2321",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2333",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2345",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2357",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2369",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2381",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2393",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2405",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2417",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2429",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2441",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2453",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2465",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2477",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2489",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2501",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2513",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2525",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2537",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2549",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2561",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2573",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2585",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2597",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2609",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2621",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2633",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2645",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2657",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2669",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2681",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2693",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2705",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2717",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2729",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2741",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2753",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2765",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2777",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2789",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2801",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2813",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2825",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2837",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2849",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2861",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2873",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2885",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2897",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2909",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2921",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2933",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2945",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Outline a thesis-driven section for the category Academic Papers, using APA style headings. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2957",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Argue a results interpretation for the category Academic Papers, with limitations clearly stated. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2969",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Critique a mini literature review for the category Academic Papers, with explicit counterargument. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2981",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Draft a methods sketch for the category Academic Papers, with one data table concept. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2993",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Academic Papers",
+        "prompt":  "Synthesize a discussion draft for the category Academic Papers, with three scholarly sources. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    }
+]

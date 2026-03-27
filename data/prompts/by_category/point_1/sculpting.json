@@ -1,0 +1,1752 @@
+﻿[
+    {
+        "id":  "P1-0004",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0016",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0028",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0040",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0052",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0064",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0076",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0088",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0100",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0112",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0124",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0136",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0148",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0160",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0172",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0184",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0196",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0208",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0220",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0232",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0244",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0256",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0268",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0280",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0292",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0304",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0316",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0328",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0340",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0352",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0364",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0376",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0388",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0400",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0412",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0424",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0436",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0448",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0460",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0472",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0484",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0496",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0508",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0520",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0532",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0544",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0556",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0568",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0580",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0592",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0604",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0616",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0628",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0640",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0652",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0664",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0676",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0688",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0700",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0712",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0724",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0736",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0748",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0760",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0772",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0784",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0796",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0808",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0820",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0832",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0844",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0856",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0868",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0880",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0892",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0904",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0916",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0928",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0940",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0952",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0964",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0976",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0988",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1000",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1012",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1024",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1036",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1048",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1060",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1072",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1084",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1096",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1108",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1120",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1132",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1144",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1156",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1168",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1180",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1192",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1204",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1216",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1228",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1240",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1252",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1264",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1276",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1288",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1300",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1312",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1324",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1336",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1348",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1360",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1372",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1384",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1396",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1408",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1420",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1432",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1444",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1456",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1468",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1480",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1492",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1504",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1516",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1528",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1540",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1552",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1564",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1576",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1588",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1600",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1612",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1624",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1636",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1648",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1660",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1672",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1684",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1696",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1708",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1720",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1732",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1744",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1756",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1768",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1780",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1792",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1804",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1816",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1828",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1840",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1852",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1864",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1876",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1888",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1900",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1912",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1924",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1936",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1948",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1960",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1972",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1984",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1996",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2008",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2020",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2032",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2044",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2056",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2068",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2080",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2092",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2104",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2116",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2128",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2140",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2152",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2164",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2176",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2188",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2200",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2212",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2224",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2236",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2248",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2260",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2272",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2284",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2296",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2308",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2320",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2332",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2344",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2356",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2368",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2380",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2392",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2404",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2416",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2428",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2440",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2452",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2464",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2476",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2488",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2500",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2512",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2524",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2536",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2548",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2560",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2572",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2584",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2596",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2608",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2620",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2632",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2644",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2656",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2668",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2680",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2692",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2704",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2716",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2728",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2740",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2752",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2764",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2776",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2788",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2800",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2812",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2824",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2836",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2848",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2860",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2872",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2884",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2896",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2908",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2920",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2932",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2944",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Refine a maquette for the category Sculpting, with balance and asymmetry. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2956",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Model a figurative form for the category Sculpting, for tabletop scale. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2968",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Assemble a texture prototype for the category Sculpting, from recycled materials. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2980",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Sculpt a relief concept for the category Sculpting, with negative space emphasis. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2992",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Sculpting",
+        "prompt":  "Carve an abstract volume for the category Sculpting, with one moving element. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    }
+]

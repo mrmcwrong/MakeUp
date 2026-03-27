@@ -1,0 +1,1752 @@
+﻿[
+    {
+        "id":  "P3-0012",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0024",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0036",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0048",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0060",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0072",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0084",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0096",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0108",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0120",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0132",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0144",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0156",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0168",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0180",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0192",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0204",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0216",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0228",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0240",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0252",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0264",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0276",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0288",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0300",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0312",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0324",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0336",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0348",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0360",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0372",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0384",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0396",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0408",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0420",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0432",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0444",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0456",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0468",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0480",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0492",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0504",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0516",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0528",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0540",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0552",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0564",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0576",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0588",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0600",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0612",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0624",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0636",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0648",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0660",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0672",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0684",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0696",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0708",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0720",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0732",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0744",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0756",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0768",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0780",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0792",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0804",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0816",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0828",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0840",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0852",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0864",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0876",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0888",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0900",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0912",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0924",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0936",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0948",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0960",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0972",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0984",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0996",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1008",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1020",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1032",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1044",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1056",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1068",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1080",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1092",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1104",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1116",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1128",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1140",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1152",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1164",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1176",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1188",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1200",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1212",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1224",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1236",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1248",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1260",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1272",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1284",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1296",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1308",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1320",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1332",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1344",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1356",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1368",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1380",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1392",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1404",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1416",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1428",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1440",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1452",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1464",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1476",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1488",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1500",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1512",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1524",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1536",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1548",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1560",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1572",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1584",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1596",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1608",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1620",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1632",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1644",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1656",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1668",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1680",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1692",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1704",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1716",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1728",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1740",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1752",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1764",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1776",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1788",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1800",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1812",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1824",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1836",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1848",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1860",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1872",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1884",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1896",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1908",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1920",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1932",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1944",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1956",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1968",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1980",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1992",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2004",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2016",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2028",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2040",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2052",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2064",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2076",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2088",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2100",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2112",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2124",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2136",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2148",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2160",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2172",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2184",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2196",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2208",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2220",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2232",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2244",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2256",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2268",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2280",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2292",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2304",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2316",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2328",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2340",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2352",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2364",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2376",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2388",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2400",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2412",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2424",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2436",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2448",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2460",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2472",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2484",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2496",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2508",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2520",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2532",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2544",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2556",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2568",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2580",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2592",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2604",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2616",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2628",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2640",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2652",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2664",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2676",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2688",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2700",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2712",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2724",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2736",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2748",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2760",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2772",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2784",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2796",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2808",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2820",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2832",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2844",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2856",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2868",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2880",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2892",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2904",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2916",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2928",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2940",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2952",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Plan a circulation diagram for the category Architecture, with mixed-use intent. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2964",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Architecture",
+        "prompt":  "Present a floor plan concept for the category Architecture, with universal accessibility. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2976",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Architecture",
+        "prompt":  "Model a site response sketch for the category Architecture, with modular construction. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2988",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Architecture",
+        "prompt":  "Rework a structural massing concept for the category Architecture, for passive cooling. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-3000",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Architecture",
+        "prompt":  "Draft a facade study for the category Architecture, on a narrow lot. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    }
+]

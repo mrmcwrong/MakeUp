@@ -1,0 +1,9 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.exclude": {
+    "**/linux/flutter/generated_plugin_registrant.cc": true,
+    "**/linux/flutter/generated_plugin_registrant.h": true,
+    "**/windows/flutter/generated_plugin_registrant.cc": true,
+    "**/windows/flutter/generated_plugin_registrant.h": true
+  }
+}

@@ -1,0 +1,4 @@
+If:
+  PathMatch: (linux|windows)/flutter/generated_plugin_registrant\.(cc|h)
+Diagnostics:
+  Suppress: '*'

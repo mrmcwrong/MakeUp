@@ -1,0 +1,1752 @@
+﻿[
+    {
+        "id":  "P3-0008",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0020",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0032",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0044",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0056",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0068",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0080",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0092",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0104",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0116",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0128",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0140",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0152",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0164",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0176",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0188",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0200",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0212",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0224",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0236",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0248",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0260",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0272",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0284",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0296",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0308",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0320",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0332",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0344",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0356",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0368",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0380",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0392",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0404",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0416",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0428",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0440",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0452",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0464",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0476",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0488",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0500",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0512",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0524",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0536",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0548",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0560",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0572",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0584",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0596",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0608",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0620",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0632",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0644",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0656",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0668",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0680",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0692",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0704",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0716",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0728",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0740",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0752",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0764",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0776",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0788",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0800",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0812",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0824",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0836",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0848",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0860",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0872",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0884",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0896",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0908",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0920",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0932",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0944",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0956",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0968",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0980",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0992",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1004",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1016",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1028",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1040",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1052",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1064",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1076",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1088",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1100",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1112",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1124",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1136",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1148",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1160",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1172",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1184",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1196",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1208",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1220",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1232",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1244",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1256",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1268",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1280",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1292",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1304",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1316",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1328",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1340",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1352",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1364",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1376",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1388",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1400",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1412",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1424",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1436",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1448",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1460",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1472",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1484",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1496",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1508",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1520",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1532",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1544",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1556",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1568",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1580",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1592",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1604",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1616",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1628",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1640",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1652",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1664",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1676",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1688",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1700",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1712",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1724",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1736",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1748",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1760",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1772",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1784",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1796",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1808",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1820",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1832",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1844",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1856",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1868",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1880",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1892",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1904",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1916",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1928",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1940",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1952",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1964",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1976",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1988",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2000",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2012",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2024",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2036",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2048",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2060",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2072",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2084",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2096",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2108",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2120",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2132",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2144",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2156",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2168",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2180",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2192",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2204",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2216",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2228",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2240",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2252",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2264",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2276",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2288",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2300",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2312",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2324",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2336",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2348",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2360",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2372",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2384",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2396",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2408",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2420",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2432",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2444",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2456",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2468",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2480",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2492",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2504",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2516",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2528",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2540",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2552",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2564",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2576",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2588",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2600",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2612",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2624",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2636",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2648",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2660",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2672",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2684",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2696",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2708",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2720",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2732",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2744",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2756",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2768",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2780",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2792",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2804",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2816",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2828",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2840",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2852",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2864",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2876",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2888",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2900",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2912",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2924",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2936",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2948",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2960",
+        "points":  3,
+        "estimated_minutes":  30,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2972",
+        "points":  3,
+        "estimated_minutes":  34,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2984",
+        "points":  3,
+        "estimated_minutes":  38,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2996",
+        "points":  3,
+        "estimated_minutes":  42,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    }
+]

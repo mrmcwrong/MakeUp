@@ -1,0 +1,1752 @@
+﻿[
+    {
+        "id":  "P1-0007",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0019",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0031",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0043",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0055",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0067",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0079",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0091",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0103",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0115",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0127",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0139",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0151",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0163",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0175",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0187",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0199",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0211",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0223",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0235",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0247",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0259",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0271",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0283",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0295",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0307",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0319",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0331",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0343",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0355",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0367",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0379",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0391",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0403",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0415",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0427",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0439",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0451",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0463",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0475",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0487",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0499",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0511",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0523",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0535",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0547",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0559",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0571",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0583",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0595",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0607",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0619",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0631",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0643",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0655",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0667",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0679",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0691",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0703",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0715",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0727",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0739",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0751",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0763",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0775",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0787",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0799",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0811",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0823",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0835",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0847",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0859",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0871",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0883",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0895",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0907",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0919",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0931",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0943",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0955",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0967",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0979",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0991",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1003",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1015",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1027",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1039",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1051",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1063",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1075",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1087",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1099",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1111",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1123",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1135",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1147",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1159",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1171",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1183",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1195",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1207",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1219",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1231",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1243",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1255",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1267",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1279",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1291",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1303",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1315",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1327",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1339",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1351",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1363",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1375",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1387",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1399",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1411",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1423",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1435",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1447",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1459",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1471",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1483",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1495",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1507",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1519",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1531",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1543",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1555",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1567",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1579",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1591",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1603",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1615",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1627",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1639",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1651",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1663",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1675",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1687",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1699",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1711",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1723",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1735",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1747",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1759",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1771",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1783",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1795",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1807",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1819",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1831",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1843",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1855",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1867",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1879",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1891",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1903",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1915",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1927",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1939",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1951",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1963",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1975",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1987",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1999",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2011",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2023",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2035",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2047",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2059",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2071",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2083",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2095",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2107",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2119",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2131",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2143",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2155",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2167",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2179",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2191",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2203",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2215",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2227",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2239",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2251",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2263",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2275",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2287",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2299",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2311",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2323",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2335",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2347",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2359",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2371",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2383",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2395",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2407",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2419",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2431",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2443",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2455",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2467",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2479",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2491",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2503",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2515",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2527",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2539",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2551",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2563",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2575",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2587",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2599",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2611",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2623",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2635",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2647",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2659",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2671",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2683",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2695",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2707",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2719",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2731",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2743",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2755",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2767",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2779",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2791",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2803",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2815",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2827",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2839",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2851",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2863",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2875",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2887",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2899",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2911",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2923",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2935",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2947",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Shoot a macro set for the category Photography, with one color as anchor. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2959",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Edit a photo series for the category Photography, with a single lens. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2971",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Plan a street-study sequence for the category Photography, with deliberate negative space. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2983",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Curate a documentary mini-set for the category Photography, in natural light only. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2995",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Photography",
+        "prompt":  "Capture a portrait set for the category Photography, using strong leading lines. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    }
+]

@@ -1,0 +1,1752 @@
+﻿[
+    {
+        "id":  "P1-0008",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0020",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0032",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0044",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0056",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0068",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0080",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0092",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0104",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0116",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0128",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0140",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0152",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0164",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0176",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0188",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0200",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0212",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0224",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0236",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0248",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0260",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0272",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0284",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0296",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0308",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0320",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0332",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0344",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0356",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0368",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0380",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0392",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0404",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0416",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0428",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0440",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0452",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0464",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0476",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0488",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0500",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0512",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0524",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0536",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0548",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0560",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0572",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0584",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0596",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0608",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0620",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0632",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0644",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0656",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0668",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0680",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0692",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0704",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0716",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0728",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0740",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0752",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0764",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0776",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0788",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0800",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0812",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0824",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0836",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0848",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0860",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0872",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0884",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0896",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0908",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0920",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0932",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0944",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0956",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0968",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0980",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0992",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1004",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1016",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1028",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1040",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1052",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1064",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1076",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1088",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1100",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1112",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1124",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1136",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1148",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1160",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1172",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1184",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1196",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1208",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1220",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1232",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1244",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1256",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1268",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1280",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1292",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1304",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1316",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1328",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1340",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1352",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1364",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1376",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1388",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1400",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1412",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1424",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1436",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1448",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1460",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1472",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1484",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1496",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1508",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1520",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1532",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1544",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1556",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1568",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1580",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1592",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1604",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1616",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1628",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1640",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1652",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1664",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1676",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1688",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1700",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1712",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1724",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1736",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1748",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1760",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1772",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1784",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1796",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1808",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1820",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1832",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1844",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1856",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1868",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1880",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1892",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1904",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1916",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1928",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1940",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1952",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1964",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1976",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1988",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2000",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2012",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2024",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2036",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2048",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2060",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2072",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2084",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2096",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2108",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2120",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2132",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2144",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2156",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2168",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2180",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2192",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2204",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2216",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2228",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2240",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2252",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2264",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2276",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2288",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2300",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2312",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2324",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2336",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2348",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2360",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2372",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2384",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2396",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2408",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2420",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2432",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2444",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2456",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2468",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2480",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2492",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2504",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2516",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2528",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2540",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2552",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2564",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2576",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2588",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2600",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2612",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2624",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2636",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2648",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2660",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2672",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2684",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2696",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2708",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2720",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2732",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2744",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2756",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2768",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2780",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2792",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2804",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2816",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2828",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2840",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2852",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2864",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2876",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2888",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2900",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2912",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2924",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2936",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2948",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Document a boss encounter concept for the category Game Design, for mobile controls. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2960",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Design a level concept for the category Game Design, with accessibility-first choices. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2972",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Balance a resource economy sketch for the category Game Design, with clear fail states. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2984",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Iterate a core gameplay loop for the category Game Design, for co-op play. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2996",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Game Design",
+        "prompt":  "Prototype a progression system for the category Game Design, with low production scope. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    }
+]

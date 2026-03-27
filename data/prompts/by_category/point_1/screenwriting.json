@@ -1,0 +1,1752 @@
+﻿[
+    {
+        "id":  "P1-0006",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0018",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0030",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0042",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0054",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0066",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0078",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0090",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0102",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0114",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0126",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0138",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0150",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0162",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0174",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0186",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0198",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0210",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0222",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0234",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0246",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0258",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0270",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0282",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0294",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0306",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0318",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0330",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0342",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0354",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0366",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0378",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0390",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0402",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0414",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0426",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0438",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0450",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0462",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0474",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0486",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0498",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0510",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0522",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0534",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0546",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0558",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0570",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0582",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0594",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0606",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0618",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0630",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0642",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0654",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0666",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0678",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0690",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0702",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0714",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0726",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0738",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0750",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0762",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0774",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0786",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0798",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0810",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0822",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0834",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0846",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0858",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0870",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0882",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0894",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0906",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0918",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0930",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-0942",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-0954",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-0966",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-0978",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-0990",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1002",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1014",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1026",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1038",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1050",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1062",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1074",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1086",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1098",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1110",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1122",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1134",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1146",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1158",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1170",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1182",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1194",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1206",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1218",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1230",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1242",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1254",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1266",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1278",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1290",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1302",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1314",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1326",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1338",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1350",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1362",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1374",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1386",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1398",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1410",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1422",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1434",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1446",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1458",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1470",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1482",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1494",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1506",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1518",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1530",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1542",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1554",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1566",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1578",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1590",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1602",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1614",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1626",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1638",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1650",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1662",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1674",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1686",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1698",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1710",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1722",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1734",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1746",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1758",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1770",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1782",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1794",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1806",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1818",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1830",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1842",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1854",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1866",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1878",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1890",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1902",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1914",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1926",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1938",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-1950",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-1962",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-1974",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-1986",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-1998",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2010",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2022",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2034",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2046",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2058",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2070",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2082",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2094",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2106",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2118",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2130",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2142",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2154",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2166",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2178",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2190",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2202",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2214",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2226",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2238",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2250",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2262",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2274",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2286",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2298",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2310",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2322",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2334",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2346",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2358",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2370",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2382",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2394",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2406",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2418",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2430",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2442",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2454",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2466",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2478",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2490",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2502",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2514",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2526",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2538",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2550",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2562",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2574",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2586",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2598",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2610",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2622",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2634",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2646",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2658",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2670",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2682",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2694",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2706",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2718",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2730",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2742",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2754",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2766",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2778",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2790",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2802",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2814",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2826",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2838",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2850",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2862",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2874",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2886",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2898",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2910",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2922",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2934",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P1-2946",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Prioritize momentum and finish a compact version within 10 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P1-2958",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Deliver a quick but coherent draft in approximately 10 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P1-2970",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Produce a rough version suitable for immediate feedback in about 10 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P1-2982",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Create a focused first pass that can be completed in about 10 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P1-2994",
+        "points":  1,
+        "estimated_minutes":  10,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Aim for a concise prototype-level output in a 10-minute session. Reference one inspiration source implicitly."
+    }
+]

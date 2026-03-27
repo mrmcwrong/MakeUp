@@ -1,0 +1,1752 @@
+﻿[
+    {
+        "id":  "P3-0001",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0013",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0025",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0037",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0049",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0061",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0073",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0085",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0097",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0109",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0121",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0133",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0145",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0157",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0169",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0181",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0193",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0205",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0217",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0229",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0241",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0253",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0265",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0277",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0289",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0301",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0313",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0325",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0337",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0349",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0361",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0373",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0385",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0397",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0409",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0421",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0433",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0445",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0457",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0469",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0481",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0493",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0505",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0517",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0529",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0541",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0553",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0565",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0577",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0589",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0601",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0613",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0625",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0637",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0649",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0661",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0673",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0685",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0697",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0709",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0721",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0733",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0745",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0757",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0769",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0781",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0793",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0805",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0817",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0829",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0841",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0853",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0865",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0877",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0889",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0901",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0913",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0925",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0937",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0949",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0961",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0973",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0985",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0997",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1009",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1021",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1033",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1045",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1057",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1069",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1081",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1093",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1105",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1117",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1129",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1141",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1153",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1165",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1177",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1189",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1201",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1213",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1225",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1237",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1249",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1261",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1273",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1285",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1297",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1309",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1321",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1333",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1345",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1357",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1369",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1381",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1393",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1405",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1417",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1429",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1441",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1453",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1465",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1477",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1489",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1501",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1513",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1525",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1537",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1549",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1561",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1573",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1585",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1597",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1609",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1621",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1633",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1645",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1657",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1669",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1681",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1693",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1705",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1717",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1729",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1741",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1753",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1765",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1777",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1789",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1801",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1813",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1825",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1837",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1849",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1861",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1873",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1885",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1897",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1909",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1921",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1933",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1945",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1957",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1969",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1981",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1993",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2005",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2017",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2029",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2041",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2053",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2065",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2077",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2089",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2101",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2113",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2125",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2137",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2149",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2161",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2173",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2185",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2197",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2209",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2221",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2233",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2245",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2257",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2269",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2281",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2293",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2305",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2317",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2329",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2341",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2353",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2365",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2377",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2389",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2401",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2413",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2425",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2437",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2449",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2461",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2473",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2485",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2497",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2509",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2521",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2533",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2545",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2557",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2569",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2581",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2593",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2605",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2617",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2629",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2641",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2653",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2665",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2677",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2689",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2701",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2713",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2725",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2737",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2749",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2761",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2773",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2785",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2797",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2809",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2821",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2833",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2845",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2857",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2869",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2881",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2893",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2905",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2917",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2929",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2941",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Arrange a harmonic progression for the category Music Creation, with call-and-response phrasing. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2953",
+        "points":  3,
+        "estimated_minutes":  45,
+        "category":  "Music Creation",
+        "prompt":  "Sketch a production draft for the category Music Creation, in 4/4 time. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2965",
+        "points":  3,
+        "estimated_minutes":  33,
+        "category":  "Music Creation",
+        "prompt":  "Compose a rhythmic study for the category Music Creation, with a clear dynamic arc. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2977",
+        "points":  3,
+        "estimated_minutes":  37,
+        "category":  "Music Creation",
+        "prompt":  "Produce a motif set for the category Music Creation, with one surprising modulation. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2989",
+        "points":  3,
+        "estimated_minutes":  41,
+        "category":  "Music Creation",
+        "prompt":  "Rework a short melody for the category Music Creation, using only acoustic instruments. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    }
+]

@@ -1,0 +1,1752 @@
+﻿[
+    {
+        "id":  "P2-0006",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0018",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0030",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0042",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0054",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0066",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0078",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0090",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0102",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0114",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0126",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0138",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0150",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0162",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0174",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0186",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0198",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0210",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0222",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0234",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0246",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0258",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0270",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0282",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0294",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0306",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0318",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0330",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0342",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0354",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0366",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0378",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0390",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0402",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0414",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0426",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0438",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0450",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0462",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0474",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0486",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0498",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0510",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0522",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0534",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0546",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0558",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0570",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0582",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0594",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0606",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0618",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0630",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0642",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0654",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0666",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0678",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0690",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0702",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0714",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0726",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0738",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0750",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0762",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0774",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0786",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0798",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0810",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0822",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0834",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0846",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0858",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0870",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0882",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0894",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0906",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0918",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0930",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0942",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0954",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0966",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0978",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0990",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1002",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1014",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1026",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1038",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1050",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1062",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1074",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1086",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1098",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1110",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1122",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1134",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1146",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1158",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1170",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1182",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1194",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1206",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1218",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1230",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1242",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1254",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1266",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1278",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1290",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1302",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1314",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1326",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1338",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1350",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1362",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1374",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1386",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1398",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1410",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1422",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1434",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1446",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1458",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1470",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1482",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1494",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1506",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1518",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1530",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1542",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1554",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1566",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1578",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1590",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1602",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1614",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1626",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1638",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1650",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1662",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1674",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1686",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1698",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1710",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1722",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1734",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1746",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1758",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1770",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1782",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1794",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1806",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1818",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1830",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1842",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1854",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1866",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1878",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1890",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1902",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1914",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1926",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1938",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1950",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1962",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1974",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1986",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1998",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2010",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2022",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2034",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2046",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2058",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2070",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2082",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2094",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2106",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2118",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2130",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2142",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2154",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2166",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2178",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2190",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2202",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2214",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2226",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2238",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2250",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2262",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2274",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2286",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2298",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2310",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2322",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2334",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2346",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2358",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2370",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2382",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2394",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2406",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2418",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2430",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2442",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2454",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2466",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2478",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2490",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2502",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2514",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2526",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2538",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2550",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2562",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2574",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2586",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2598",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2610",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2622",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2634",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2646",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2658",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2670",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2682",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2694",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2706",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2718",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2730",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2742",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2754",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2766",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2778",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2790",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2802",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2814",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2826",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2838",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2850",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2862",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2874",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2886",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2898",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2910",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2922",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2934",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2946",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Draft an opening act beat sheet for the category Screenwriting, with visual symbolism. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2958",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Storyboard a climactic confrontation for the category Screenwriting, with subtext in every exchange. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2970",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Write a dialogue-heavy scene for the category Screenwriting, under tight time pressure. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2982",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Punch up a character reveal scene for the category Screenwriting, ending on a hook. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2994",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Screenwriting",
+        "prompt":  "Reframe a scene sequence for the category Screenwriting, set in one location. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    }
+]

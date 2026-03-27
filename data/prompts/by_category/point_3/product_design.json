@@ -1,0 +1,1752 @@
+﻿[
+    {
+        "id":  "P3-0011",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0023",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0035",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0047",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0059",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0071",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0083",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0095",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0107",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0119",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0131",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0143",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0155",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0167",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0179",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0191",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0203",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0215",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0227",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0239",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0251",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0263",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0275",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0287",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0299",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0311",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0323",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0335",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0347",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0359",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0371",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0383",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0395",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0407",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0419",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0431",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0443",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0455",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0467",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0479",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0491",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0503",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0515",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0527",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0539",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0551",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0563",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0575",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0587",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0599",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0611",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0623",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0635",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0647",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0659",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0671",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0683",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0695",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0707",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0719",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0731",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0743",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0755",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0767",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0779",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0791",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0803",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0815",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0827",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0839",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0851",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0863",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0875",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0887",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0899",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0911",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0923",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0935",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-0947",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-0959",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-0971",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-0983",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-0995",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1007",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1019",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1031",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1043",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1055",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1067",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1079",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1091",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1103",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1115",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1127",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1139",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1151",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1163",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1175",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1187",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1199",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1211",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1223",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1235",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1247",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1259",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1271",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1283",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1295",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1307",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1319",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1331",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1343",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1355",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1367",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1379",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1391",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1403",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1415",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1427",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1439",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1451",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1463",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1475",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1487",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1499",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1511",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1523",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1535",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1547",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1559",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1571",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1583",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1595",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1607",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1619",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1631",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1643",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1655",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1667",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1679",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1691",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1703",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1715",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1727",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1739",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1751",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1763",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1775",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1787",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1799",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1811",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1823",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1835",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1847",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1859",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1871",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1883",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1895",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1907",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1919",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1931",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-1943",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-1955",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-1967",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-1979",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-1991",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2003",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2015",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2027",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2039",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2051",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2063",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2075",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2087",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2099",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2111",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2123",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2135",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2147",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2159",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2171",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2183",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2195",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2207",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2219",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2231",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2243",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2255",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2267",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2279",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2291",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2303",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2315",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2327",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2339",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2351",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2363",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2375",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2387",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2399",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2411",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2423",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2435",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2447",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2459",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2471",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2483",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2495",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2507",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2519",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2531",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2543",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2555",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2567",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2579",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2591",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2603",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2615",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2627",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2639",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2651",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2663",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2675",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2687",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2699",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2711",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2723",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2735",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2747",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2759",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2771",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2783",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2795",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2807",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2819",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2831",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2843",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2855",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2867",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2879",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2891",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2903",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2915",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2927",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2939",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P3-2951",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Sketch a wireframe pack for the category Product Design, with sustainability goals. Produce a showcase-ready draft through multiple passes in around 30 to 45 minutes. Begin with a short intent statement."
+    },
+    {
+        "id":  "P3-2963",
+        "points":  3,
+        "estimated_minutes":  35,
+        "category":  "Product Design",
+        "prompt":  "Test a feature prioritization matrix for the category Product Design, for first-time users. Use 30-45 minutes for depth, iteration, and quality improvement. Define one measurable success criterion."
+    },
+    {
+        "id":  "P3-2975",
+        "points":  3,
+        "estimated_minutes":  39,
+        "category":  "Product Design",
+        "prompt":  "Conceptualize a UX flow draft for the category Product Design, for low-bandwidth regions. Spend 30 to 45 minutes on a full treatment with nuanced refinement. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P3-2987",
+        "points":  3,
+        "estimated_minutes":  43,
+        "category":  "Product Design",
+        "prompt":  "Prototype a usability test plan for the category Product Design, for one-handed use. Create a detailed, near-finished outcome in about 30 to 45 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P3-2999",
+        "points":  3,
+        "estimated_minutes":  31,
+        "category":  "Product Design",
+        "prompt":  "Refine a product concept brief for the category Product Design, under strict budget. Deliver an advanced version with clear intentional choices in 30 to 45 minutes. Reference one inspiration source implicitly."
+    }
+]

@@ -1,0 +1,1752 @@
+﻿[
+    {
+        "id":  "P2-0003",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0015",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0027",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0039",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0051",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0063",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0075",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0087",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0099",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0111",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0123",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0135",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0147",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0159",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0171",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0183",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0195",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0207",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0219",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0231",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0243",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0255",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0267",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0279",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0291",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0303",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0315",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0327",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0339",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0351",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0363",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0375",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0387",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0399",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0411",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0423",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0435",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0447",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0459",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0471",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0483",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0495",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0507",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0519",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0531",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0543",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0555",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0567",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0579",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0591",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0603",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0615",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0627",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0639",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0651",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0663",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0675",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0687",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0699",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0711",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0723",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0735",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0747",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0759",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0771",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0783",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0795",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0807",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0819",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0831",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0843",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0855",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0867",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0879",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0891",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0903",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0915",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0927",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0939",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-0951",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-0963",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-0975",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-0987",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-0999",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1011",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1023",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1035",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1047",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1059",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1071",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1083",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1095",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1107",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1119",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1131",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1143",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1155",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1167",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1179",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1191",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1203",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1215",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1227",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1239",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1251",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1263",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1275",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1287",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1299",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1311",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1323",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1335",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1347",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1359",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1371",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1383",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1395",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1407",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1419",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1431",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1443",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1455",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1467",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1479",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1491",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1503",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1515",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1527",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1539",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1551",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1563",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1575",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1587",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1599",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1611",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1623",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1635",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1647",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1659",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1671",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1683",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1695",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1707",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1719",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1731",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1743",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1755",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1767",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1779",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1791",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1803",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1815",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1827",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1839",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1851",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1863",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1875",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1887",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1899",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1911",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1923",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1935",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-1947",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-1959",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-1971",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-1983",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-1995",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2007",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2019",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2031",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2043",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2055",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2067",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2079",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2091",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2103",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2115",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2127",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2139",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2151",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2163",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2175",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2187",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2199",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2211",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2223",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2235",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2247",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2259",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2271",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2283",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2295",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2307",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2319",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2331",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2343",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2355",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2367",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2379",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2391",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2403",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2415",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2427",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2439",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2451",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2463",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2475",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2487",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2499",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2511",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2523",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2535",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2547",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2559",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2571",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2583",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2595",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2607",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2619",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2631",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2643",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2655",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2667",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2679",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2691",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2703",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2715",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2727",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2739",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2751",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2763",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2775",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2787",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2799",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2811",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2823",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2835",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2847",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2859",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2871",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2883",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2895",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2907",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2919",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2931",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    },
+    {
+        "id":  "P2-2943",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Layer a color study for the category Painting, with a limited palette. Build a complete intermediate version in roughly 20 to 25 minutes. Define one measurable success criterion."
+    },
+    {
+        "id":  "P2-2955",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Paint a landscape concept for the category Painting, in monochrome first pass. Deliver a polished second-pass outcome in approximately 20 minutes. End with a brief self-critique checkpoint."
+    },
+    {
+        "id":  "P2-2967",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Block in an abstract composition for the category Painting, with visible brush texture. Develop a stronger draft with one revision cycle in about 20 minutes. Include one deliberate creative risk."
+    },
+    {
+        "id":  "P2-2979",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Render a still life study for the category Painting, using warm-cool contrast. Spend around 20 minutes adding structure, detail, and one refinement pass. Reference one inspiration source implicitly."
+    },
+    {
+        "id":  "P2-2991",
+        "points":  2,
+        "estimated_minutes":  18,
+        "category":  "Painting",
+        "prompt":  "Sketch a portrait exploration for the category Painting, with a strong focal point. Use 20-ish minutes to produce a clear, review-ready version. Begin with a short intent statement."
+    }
+]
