@@ -4,6 +4,8 @@ param(
 
   [int]$Runs = 30,
 
+  [string]$RunIdPrefix = '',
+
   [string]$ExportDir = 'testing/perf_exports',
 
   [string]$CsvOut = 'testing/perf_runs.csv'
@@ -18,7 +20,11 @@ if (-not (Test-Path $ExportDir)) {
 $pythonExe = 'c:/Users/sherl/Desktop/Comp/Apps/MakeUp/.venv/Scripts/python.exe'
 
 for ($i = 1; $i -le $Runs; $i++) {
-  $runLabel = ('{0:D3}' -f $i)
+  if ($RunIdPrefix) {
+    $runLabel = '{0}_{1:D3}' -f $RunIdPrefix, $i
+  } else {
+    $runLabel = ('{0:D3}' -f $i)
+  }
   $env:PERF_RUN_ID = $runLabel
   $env:PERF_OUT_DIR = $ExportDir
 
