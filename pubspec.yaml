@@ -19,6 +19,9 @@ dependencies:
   # Opens the camera or photo gallery to pick avatar/profile images
   image_picker: ^1.1.2
 
+  # Interactive crop editor for previewing and confirming avatar/logo framing
+  crop_your_image: ^2.0.0
+
   # Opens the device file browser to attach any file type to submissions
   file_picker: ^8.0.0
 
@@ -45,6 +48,9 @@ dependencies:
 
 dev_dependencies:
   flutter_test:
+    sdk: flutter
+
+  integration_test:
     sdk: flutter
 
   # Enforces recommended Dart/Flutter code style and best practices

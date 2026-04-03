@@ -4,12 +4,14 @@ class HomeScreen extends StatefulWidget {
   final User user;
   final Function(User) onUserUpdate;
   final VoidCallback? onReload;
+  final bool isActive;
 
   const HomeScreen({
     super.key,
     required this.user,
     required this.onUserUpdate,
     this.onReload,
+    this.isActive = true,
   });
 
   @override
@@ -21,20 +23,18 @@ class _HomeScreenState extends State<HomeScreen> {
   int? selectedPromptIndex;
   bool _isLoading = true;
   late TextEditingController _submissionController;
-  Timer? _midnightTimer;
-  Duration _timeUntilMidnight = Duration.zero;
   List<String> _pendingAttachments = [];
   bool _hasUsedRefreshToday = false;
+  String _cachedTodayKey = '';
+  final Set<int> _todaySubmittedPromptIndices = <int>{};
+  bool _hasAnySubmissionToday = false;
 
   @override
   void initState() {
     super.initState();
     _submissionController = TextEditingController();
+    _rebuildTodaySubmissionCache();
     _loadDailyPrompts();
-    _updateTimeUntilMidnight();
-    _midnightTimer = Timer.periodic(const Duration(seconds: 1), (_) {
-      _updateTimeUntilMidnight();
-    });
   }
 
   void reloadForNewDay() {
@@ -51,7 +51,27 @@ class _HomeScreenState extends State<HomeScreen> {
   void didUpdateWidget(HomeScreen oldWidget) {
     super.didUpdateWidget(oldWidget);
     if (oldWidget.user != widget.user) {
-      setState(() {});
+      _rebuildTodaySubmissionCache();
+    }
+  }
+
+  void _rebuildTodaySubmissionCache() {
+    final today = _todayKey();
+    _cachedTodayKey = today;
+    _todaySubmittedPromptIndices
+      ..clear()
+      ..addAll(
+        widget.user.submissions
+            .where((s) => s.dayKey == today && s.promptIndex >= 0)
+            .map((s) => s.promptIndex),
+      );
+    _hasAnySubmissionToday = _todaySubmittedPromptIndices.isNotEmpty;
+  }
+
+  void _ensureTodaySubmissionCacheFresh() {
+    final current = _todayKey();
+    if (current != _cachedTodayKey) {
+      _rebuildTodaySubmissionCache();
     }
   }
 
@@ -61,15 +81,13 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   bool _alreadySubmittedToday(int promptIndex) {
-    return widget.user.submissions.any(
-      (s) => s.promptIndex == promptIndex && s.dayKey == _todayKey(),
-    );
+    _ensureTodaySubmissionCacheFresh();
+    return _todaySubmittedPromptIndices.contains(promptIndex);
   }
 
   bool _hasSubmittedAnyPromptToday() {
-    return widget.user.submissions.any(
-      (s) => s.dayKey == _todayKey() && s.promptIndex >= 0,
-    );
+    _ensureTodaySubmissionCacheFresh();
+    return _hasAnySubmissionToday;
   }
 
   Future<void> _loadDailyPrompts() async {
@@ -154,19 +172,15 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   void dispose() {
-    _midnightTimer?.cancel();
     _submissionController.dispose();
     super.dispose();
   }
 
-  void _updateTimeUntilMidnight() {
+  Duration _timeUntilMidnight() {
     final now = DebugTime.now();
     final nextMidnight = DateTime(now.year, now.month, now.day + 1);
     final remaining = nextMidnight.difference(now);
-    if (!mounted) return;
-    setState(() {
-      _timeUntilMidnight = remaining.isNegative ? Duration.zero : remaining;
-    });
+    return remaining.isNegative ? Duration.zero : remaining;
   }
 
   String _formatCountdown(Duration duration) {
@@ -236,6 +250,8 @@ class _HomeScreenState extends State<HomeScreen> {
     final updatedUser = User(
       username: widget.user.username,
       avatarImagePath: widget.user.avatarImagePath,
+      avatarFrameShape: widget.user.avatarFrameShape,
+      showAvatarFrame: widget.user.showAvatarFrame,
       totalPoints: widget.user.totalPoints + submission.points,
       submissions: [...widget.user.submissions, submission],
     );
@@ -358,12 +374,43 @@ class _HomeScreenState extends State<HomeScreen> {
                                         ),
                                       ),
                                     ),
-                                    if (isSubmitted)
-                                      Icon(
-                                        Icons.check_circle,
-                                        color: AppColors.success,
-                                        size: 24,
-                                      ),
+                                    Row(
+                                      children: [
+                                        Container(
+                                          padding: const EdgeInsets.symmetric(
+                                            horizontal: 10,
+                                            vertical: 6,
+                                          ),
+                                          decoration: BoxDecoration(
+                                            color: AppColors.warmSurface,
+                                            borderRadius:
+                                                BorderRadius.circular(14),
+                                            border: Border.all(
+                                              color: AppColors.golden
+                                                  .withValues(alpha: 0.4),
+                                            ),
+                                          ),
+                                          child: Text(
+                                            (prompt['category'] ?? 'General')
+                                                .toString(),
+                                            style: GoogleFonts.dmSans(
+                                              fontSize: 11,
+                                              color: AppColors.textSecondary,
+                                              fontWeight: FontWeight.w700,
+                                              letterSpacing: 0.2,
+                                            ),
+                                          ),
+                                        ),
+                                        if (isSubmitted) ...[
+                                          const SizedBox(width: 8),
+                                          Icon(
+                                            Icons.check_circle,
+                                            color: AppColors.success,
+                                            size: 24,
+                                          ),
+                                        ],
+                                      ],
+                                    ),
                                   ],
                                 ),
                                 const SizedBox(height: 16),
@@ -432,14 +479,30 @@ class _HomeScreenState extends State<HomeScreen> {
                     children: [
                       Icon(Icons.access_time, size: 18, color: AppColors.error),
                       const SizedBox(width: 8),
-                      Text(
-                        '${_formatCountdown(_timeUntilMidnight)} remaining',
-                        style: GoogleFonts.dmSans(
-                          fontSize: 15,
-                          fontWeight: FontWeight.w500,
-                          color: AppColors.error,
-                        ),
-                      ),
+                      widget.isActive
+                          ? StreamBuilder<int>(
+                              stream: Stream.periodic(
+                                const Duration(seconds: 1),
+                                (tick) => tick,
+                              ),
+                              initialData: 0,
+                              builder: (_, _) => Text(
+                                '${_formatCountdown(_timeUntilMidnight())} remaining',
+                                style: GoogleFonts.dmSans(
+                                  fontSize: 15,
+                                  fontWeight: FontWeight.w500,
+                                  color: AppColors.error,
+                                ),
+                              ),
+                            )
+                          : Text(
+                              '${_formatCountdown(_timeUntilMidnight())} remaining',
+                              style: GoogleFonts.dmSans(
+                                fontSize: 15,
+                                fontWeight: FontWeight.w500,
+                                color: AppColors.error,
+                              ),
+                            ),
                       if (!_hasSubmittedAnyPromptToday()) ...[
                         const Spacer(),
                         TextButton.icon(
@@ -494,14 +557,47 @@ class _HomeScreenState extends State<HomeScreen> {
                         width: 2,
                       ),
                     ),
-                    child: Text(
-                      dailyPrompts[selectedPromptIndex!]['text'],
-                      style: GoogleFonts.dmSans(
-                        fontSize: 18,
-                        color: AppColors.textPrimary,
-                        height: 1.6,
-                        fontWeight: FontWeight.w500,
-                      ),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Align(
+                          alignment: Alignment.topRight,
+                          child: Container(
+                            padding: const EdgeInsets.symmetric(
+                              horizontal: 10,
+                              vertical: 6,
+                            ),
+                            decoration: BoxDecoration(
+                              color: Colors.white,
+                              borderRadius: BorderRadius.circular(14),
+                              border: Border.all(
+                                color: AppColors.golden.withValues(alpha: 0.4),
+                              ),
+                            ),
+                            child: Text(
+                              (dailyPrompts[selectedPromptIndex!]['category'] ??
+                                      'General')
+                                  .toString(),
+                              style: GoogleFonts.dmSans(
+                                fontSize: 11,
+                                color: AppColors.textSecondary,
+                                fontWeight: FontWeight.w700,
+                                letterSpacing: 0.2,
+                              ),
+                            ),
+                          ),
+                        ),
+                        const SizedBox(height: 12),
+                        Text(
+                          dailyPrompts[selectedPromptIndex!]['text'],
+                          style: GoogleFonts.dmSans(
+                            fontSize: 18,
+                            color: AppColors.textPrimary,
+                            height: 1.6,
+                            fontWeight: FontWeight.w500,
+                          ),
+                        ),
+                      ],
                     ),
                   ),
                   const SizedBox(height: 40),

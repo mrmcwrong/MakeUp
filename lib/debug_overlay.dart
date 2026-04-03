@@ -44,7 +44,7 @@ class _DebugOverlayState extends State<DebugOverlay> {
     }
   }
 
-  // Toggle fast-forward mode.
+  // Toggle simulated time fast-forward mode.
   void _toggleFastForward() {
     final nowActive = !_fastForwardActive;
     if (nowActive) {
@@ -56,9 +56,9 @@ class _DebugOverlayState extends State<DebugOverlay> {
       _fastForwardActive = nowActive;
     });
     _showSnack(nowActive
-        ? 'Fast-forward ON - 1 day every 5 seconds >>'
+        ? 'Fast-forward ON - 1 day every 5 seconds'
         : 'Fast-forward OFF - back to real time');
-    // Defer parent rebuild until after this frame so the button updates instantly
+    // Defer parent rebuild until after this frame so overlay state updates smoothly.
     WidgetsBinding.instance.addPostFrameCallback((_) => widget.onUpdate());
   }
 
@@ -150,9 +150,9 @@ class _DebugOverlayState extends State<DebugOverlay> {
                     mainAxisSize: MainAxisSize.min,
                     crossAxisAlignment: CrossAxisAlignment.stretch,
                     children: [
-                      // Title
+                      // Panel title
                       Text(
-                        'DEBUG TOOLS',
+                        'TIME DEBUG',
                         style: GoogleFonts.dmSans(
                           color: Colors.red,
                           fontWeight: FontWeight.bold,
@@ -162,7 +162,7 @@ class _DebugOverlayState extends State<DebugOverlay> {
                       ),
                       const SizedBox(height: 4),
 
-                      // Status line
+                      // Current mode status
                       Text(
                         fastForwardActive
                             ? '>> 1 day / 5 seconds'
@@ -177,7 +177,7 @@ class _DebugOverlayState extends State<DebugOverlay> {
                       ),
                       const SizedBox(height: 12),
 
-                      // Fast-forward toggle
+                      // Time mode toggle
                       _buildButton(
                         fastForwardActive
                             ? 'Stop Fast-Forward'

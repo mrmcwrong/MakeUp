@@ -104,9 +104,24 @@ class WeeklyTask {
   }
 }
 
+enum AvatarFrameShape { circle, square }
+
+AvatarFrameShape avatarFrameShapeFromJson(dynamic value) {
+  final raw = (value as String?)?.toLowerCase();
+  switch (raw) {
+    case 'square':
+      return AvatarFrameShape.square;
+    case 'circle':
+    default:
+      return AvatarFrameShape.circle;
+  }
+}
+
 class Competitor {
   String name;
   String? avatarImagePath;
+  AvatarFrameShape avatarFrameShape;
+  bool showAvatarFrame;
   int points;
 
   /// Probability (0.0 to 1.0) that this competitor receives daily points.
@@ -124,6 +139,8 @@ class Competitor {
   Competitor({
     required this.name,
     this.avatarImagePath,
+    this.avatarFrameShape = AvatarFrameShape.circle,
+    this.showAvatarFrame = false,
     required this.points,
     required this.dailyProbability,
     this.weeklyProbability = 1.0,
@@ -143,6 +160,8 @@ class Competitor {
   Map<String, dynamic> toJson() => {
     'name': name,
     'avatarImagePath': avatarImagePath,
+    'avatarFrameShape': avatarFrameShape.name,
+    'showAvatarFrame': showAvatarFrame,
     'points': points,
     'dailyProbability': dailyProbability,
     'weeklyProbability': weeklyProbability,
@@ -152,6 +171,8 @@ class Competitor {
   factory Competitor.fromJson(Map<String, dynamic> json) => Competitor(
     name: json['name'],
     avatarImagePath: json['avatarImagePath'],
+    avatarFrameShape: avatarFrameShapeFromJson(json['avatarFrameShape']),
+    showAvatarFrame: (json['showAvatarFrame'] as bool?) ?? false,
     points: json['points'],
     dailyProbability: (json['dailyProbability'] as num?)?.toDouble() ?? 0.5,
     weeklyProbability:
@@ -169,12 +190,16 @@ class Competitor {
 class User {
   String username;
   String? avatarImagePath;
+  AvatarFrameShape avatarFrameShape;
+  bool showAvatarFrame;
   int totalPoints;
   List<Submission> submissions;
 
   User({
     this.username = 'Creative User',
     this.avatarImagePath,
+    this.avatarFrameShape = AvatarFrameShape.circle,
+    this.showAvatarFrame = false,
     this.totalPoints = 0,
     this.submissions = const [],
   });
@@ -182,6 +207,8 @@ class User {
   Map<String, dynamic> toJson() => {
     'username': username,
     'avatarImagePath': avatarImagePath,
+    'avatarFrameShape': avatarFrameShape.name,
+    'showAvatarFrame': showAvatarFrame,
     'totalPoints': totalPoints,
     'submissions': submissions.map((s) => s.toJson()).toList(),
   };
@@ -189,6 +216,8 @@ class User {
   factory User.fromJson(Map<String, dynamic> json) => User(
     username: json['username'],
     avatarImagePath: json['avatarImagePath'],
+    avatarFrameShape: avatarFrameShapeFromJson(json['avatarFrameShape']),
+    showAvatarFrame: (json['showAvatarFrame'] as bool?) ?? false,
     totalPoints: json['totalPoints'],
     submissions: List<Submission>.from(
       (json['submissions'] as List).map((s) => Submission.fromJson(s)),

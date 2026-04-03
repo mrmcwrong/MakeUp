@@ -1,5 +1,42 @@
 ﻿part of '../main.dart';
 
+Map<String, dynamic> _decodeJsonMapForCompute(String raw) {
+  return Map<String, dynamic>.from(jsonDecode(raw) as Map);
+}
+
+List<dynamic> _decodeJsonListForCompute(String raw) {
+  return List<dynamic>.from(jsonDecode(raw) as List);
+}
+
+List<Map<String, dynamic>> _normalizePromptDatasetForCompute(String raw) {
+  final decoded = jsonDecode(raw);
+  if (decoded is! List) {
+    return const <Map<String, dynamic>>[];
+  }
+
+  final normalized = <Map<String, dynamic>>[];
+  for (final item in decoded) {
+    if (item is! Map) continue;
+    final map = Map<String, dynamic>.from(item);
+    final points = map['points'];
+    final prompt = (map['prompt'] ?? '').toString().trim();
+    final category = (map['category'] ?? '').toString().trim();
+    final minutes = map['estimated_minutes'];
+
+    if (prompt.isEmpty || category.isEmpty) continue;
+
+    normalized.add({
+      'points': points is int ? points : int.tryParse('$points') ?? 0,
+      'text': prompt,
+      'category': category,
+      'estimated_minutes':
+          minutes is int ? minutes : int.tryParse('$minutes') ?? 0,
+    });
+  }
+
+  return normalized;
+}
+
 class StorageService {
   static const String userKey = 'user_data';
   static const String competitorsKey = 'competitors_data';
@@ -17,21 +54,12 @@ class StorageService {
   static const String dailyPromptCategorySettingsKey =
       'daily_prompt_category_settings';
   static const String promptDatasetAssetPath = 'assets/prompts/all_prompts.json';
-  static const List<String> promptCategories = [
-    'Music Creation',
-    'Poetry',
-    'Painting',
-    'Sculpting',
-    'Academic Papers',
-    'Screenwriting',
-    'Photography',
-    'Game Design',
-    'Dance Choreography',
-    'Theater',
-    'Product Design',
-    'Architecture',
-  ];
+  static const List<String> _fallbackPromptCategories = ['General'];
+  static const int _jsonIsolateThresholdBytes = 8 * 1024;
+  static const int _datasetIsolateThresholdBytes = 32 * 1024;
   static List<Map<String, dynamic>>? _promptDatasetCache;
+  static List<String>? _promptCategoryCache;
+  static Future<SharedPreferences>? _prefsFuture;
   static const List<String> _defaultCompetitorAvatarAssets = [
     'assets/avatars/competitor_01.png',
     'assets/avatars/competitor_02.png',
@@ -41,44 +69,62 @@ class StorageService {
     'assets/avatars/competitor_06.png',
   ];
 
+  static Future<SharedPreferences> _prefs() {
+    return _prefsFuture ??= SharedPreferences.getInstance();
+  }
+
+  static Future<Map<String, dynamic>> _decodeJsonMap(String raw) async {
+    if (raw.length < _jsonIsolateThresholdBytes) {
+      return _decodeJsonMapForCompute(raw);
+    }
+    return compute(_decodeJsonMapForCompute, raw);
+  }
+
+  static Future<List<dynamic>> _decodeJsonList(String raw) async {
+    if (raw.length < _jsonIsolateThresholdBytes) {
+      return _decodeJsonListForCompute(raw);
+    }
+    return compute(_decodeJsonListForCompute, raw);
+  }
+
   static Future<DateTime?> loadLeagueStartDate() async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     final val = prefs.getString(leagueStartKey);
     return val != null ? DateTime.parse(val) : null;
   }
 
   static Future<void> saveLeagueStartDate(DateTime date) async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     await prefs.setString(leagueStartKey, date.toIso8601String());
   }
 
   static Future<void> clearLeagueStartDate() async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     await prefs.remove(leagueStartKey);
   }
 
   static Future<bool> loadConfirmLeagueStart() async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     return prefs.getBool(confirmLeagueStartKey) ?? true;
   }
 
   static Future<void> saveConfirmLeagueStart(bool value) async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     await prefs.setBool(confirmLeagueStartKey, value);
   }
 
   static Future<bool> loadDynamicLeagueDifficulty() async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     return prefs.getBool(dynamicLeagueDifficultyKey) ?? true;
   }
 
   static Future<void> saveDynamicLeagueDifficulty(bool value) async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     await prefs.setBool(dynamicLeagueDifficultyKey, value);
   }
 
   static Future<String> loadLeagueDifficultyPreset() async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     final value = prefs.getString(leagueDifficultyPresetKey) ?? 'medium';
     if (value == 'easy' ||
         value == 'medium' ||
@@ -90,17 +136,17 @@ class StorageService {
   }
 
   static Future<void> saveLeagueDifficultyPreset(String preset) async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     await prefs.setString(leagueDifficultyPresetKey, preset);
   }
 
   static Future<bool> loadShowIndividualProbabilitySelectors() async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     return prefs.getBool(showIndividualProbabilitySelectorsKey) ?? true;
   }
 
   static Future<void> saveShowIndividualProbabilitySelectors(bool value) async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     await prefs.setBool(showIndividualProbabilitySelectorsKey, value);
   }
 
@@ -149,55 +195,57 @@ class StorageService {
   }
 
   static Future<String> loadDisplayTheme() async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     final value = prefs.getString(displayThemeKey) ?? 'yellow';
     return value == 'crimson' ? 'burgundy' : value;
   }
 
   static Future<void> saveDisplayTheme(String theme) async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     await prefs.setString(displayThemeKey, theme);
   }
 
   static Future<double> loadFontScale() async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     final value = prefs.getDouble(fontScaleKey) ?? 1.0;
     return value.clamp(0.85, 1.25).toDouble();
   }
 
   static Future<void> saveFontScale(double scale) async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     await prefs.setDouble(fontScaleKey, scale.clamp(0.85, 1.25).toDouble());
   }
 
   static Future<User> loadUser() async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     final userData = prefs.getString(userKey);
     if (userData == null) {
       final newUser = User();
       await saveUser(newUser);
       return newUser;
     }
-    return User.fromJson(
-      Map<String, dynamic>.from(jsonDecode(userData) as Map),
-    );
+    final parsed = await _decodeJsonMap(userData);
+    return User.fromJson(parsed);
   }
 
   static Future<void> saveUser(User user) async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     await prefs.setString(userKey, jsonEncode(user.toJson()));
   }
 
   static Future<List<Competitor>> loadCompetitors() async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     final competitorsData = prefs.getString(competitorsKey);
     if (competitorsData == null) {
       final competitors = _createDefaultCompetitors();
       await saveCompetitors(competitors);
       return competitors;
     }
+    final decoded = await _decodeJsonList(competitorsData);
     final competitors = List<Competitor>.from(
-      (jsonDecode(competitorsData) as List).map((c) => Competitor.fromJson(c)),
+      decoded
+          .whereType<Map>()
+          .map((c) => Competitor.fromJson(Map<String, dynamic>.from(c))),
     );
 
     // Migrate legacy defaults (daily 0.05..0.95, weekly all 1.0)
@@ -226,7 +274,7 @@ class StorageService {
   }
 
   static Future<void> saveCompetitors(List<Competitor> competitors) async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     await prefs.setString(
       competitorsKey,
       jsonEncode(competitors.map((c) => c.toJson()).toList()),
@@ -568,7 +616,7 @@ class StorageService {
   }
 
   static Future<DailyPromptState> loadDailyPrompts() async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     final promptsData = prefs.getString(dailyPromptsKey);
 
     if (promptsData == null) {
@@ -577,9 +625,8 @@ class StorageService {
       return newState;
     }
 
-    final state = DailyPromptState.fromJson(
-      Map<String, dynamic>.from(jsonDecode(promptsData) as Map),
-    );
+    final parsed = await _decodeJsonMap(promptsData);
+    final state = DailyPromptState.fromJson(parsed);
 
     final now = DebugTime.now();
     final stateDate = DateTime(
@@ -603,7 +650,7 @@ class StorageService {
   }
 
   static Future<void> saveDailyPrompts(DailyPromptState state) async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     await prefs.setString(dailyPromptsKey, jsonEncode(state.toJson()));
   }
 
@@ -612,14 +659,34 @@ class StorageService {
   }
 
   static Future<bool> hasUsedDailyPromptRefreshToday() async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     final todayKey = _dayKey(DebugTime.now());
     return prefs.getString(dailyPromptRefreshDayKey) == todayKey;
   }
 
+  static Future<List<String>> loadPromptCategories() async {
+    if (_promptCategoryCache != null) {
+      return _promptCategoryCache!;
+    }
+
+    final dataset = await _loadPromptDataset();
+    final categories = dataset
+        .map((entry) => (entry['category'] ?? '').toString().trim())
+        .where((category) => category.isNotEmpty)
+        .toSet()
+        .toList()
+      ..sort();
+
+    _promptCategoryCache = categories.isEmpty
+        ? List<String>.from(_fallbackPromptCategories)
+        : categories;
+    return _promptCategoryCache!;
+  }
+
   static Future<Map<String, bool>> loadDailyPromptCategorySettings() async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     final raw = prefs.getString(dailyPromptCategorySettingsKey);
+    final promptCategories = await loadPromptCategories();
 
     final defaults = <String, bool>{
       for (final category in promptCategories) category: true,
@@ -641,12 +708,6 @@ class StorageService {
       // Ignore malformed persisted settings and keep defaults.
     }
 
-    if (!defaults.values.any((enabled) => enabled)) {
-      for (final category in promptCategories) {
-        defaults[category] = true;
-      }
-    }
-
     return defaults;
   }
 
@@ -654,15 +715,27 @@ class StorageService {
     String category,
     bool enabled,
   ) async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     final current = await loadDailyPromptCategorySettings();
     current[category] = enabled;
 
-    if (!current.values.any((v) => v)) {
-      current[category] = true;
-    }
-
     await prefs.setString(dailyPromptCategorySettingsKey, jsonEncode(current));
+  }
+
+  static Future<void> saveDailyPromptCategorySettings(
+    Map<String, bool> settings,
+  ) async {
+    final prefs = await _prefs();
+    final promptCategories = await loadPromptCategories();
+    final normalized = <String, bool>{
+      for (final category in promptCategories)
+        category: settings[category] ?? true,
+    };
+
+    await prefs.setString(
+      dailyPromptCategorySettingsKey,
+      jsonEncode(normalized),
+    );
   }
 
   static Future<DailyPromptState> regenerateDailyPromptsForCategorySettingsChange() async {
@@ -671,8 +744,73 @@ class StorageService {
     return refreshed;
   }
 
+  static Future<DailyPromptState> reconcileDailyPromptsAfterCategorySettingsChange() async {
+    final current = await loadDailyPrompts();
+    final enabledMap = await loadDailyPromptCategorySettings();
+    final enabledCategories = enabledMap.entries
+        .where((entry) => entry.value)
+        .map((entry) => entry.key)
+        .toSet();
+
+    // Treat "all disabled" as if all categories are enabled.
+    if (enabledCategories.isEmpty) {
+      return current;
+    }
+
+    final dataset = await _loadPromptDataset();
+    final random = Random();
+    final nextPrompts = current.prompts
+        .map((prompt) => Map<String, dynamic>.from(prompt))
+        .toList();
+    var selectedPromptIndex = current.selectedPromptIndex;
+    var changed = false;
+
+    for (var i = 0; i < nextPrompts.length; i++) {
+      final prompt = nextPrompts[i];
+      final category = (prompt['category'] ?? '').toString();
+      if (category.isNotEmpty && enabledCategories.contains(category)) {
+        continue;
+      }
+
+      final rawPoints = prompt['points'];
+      final points = rawPoints is int ? rawPoints : int.tryParse('$rawPoints') ?? 1;
+      final avoidTexts = nextPrompts
+          .asMap()
+          .entries
+          .where((entry) => entry.key != i)
+          .map((entry) => (entry.value['text'] ?? '').toString())
+          .where((text) => text.trim().isNotEmpty)
+          .toList();
+
+      nextPrompts[i] = _pickPromptForPoints(
+        dataset,
+        points: points,
+        random: random,
+        enabledCategories: enabledCategories,
+        avoidTexts: avoidTexts,
+      );
+      changed = true;
+
+      if (selectedPromptIndex == i) {
+        selectedPromptIndex = null;
+      }
+    }
+
+    if (!changed) {
+      return current;
+    }
+
+    final updated = DailyPromptState(
+      prompts: nextPrompts,
+      date: current.date,
+      selectedPromptIndex: selectedPromptIndex,
+    );
+    await saveDailyPrompts(updated);
+    return updated;
+  }
+
   static Future<DailyPromptState?> refreshDailyPromptsOncePerDay() async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     final todayKey = _dayKey(DebugTime.now());
 
     if (prefs.getString(dailyPromptRefreshDayKey) == todayKey) {
@@ -689,36 +827,6 @@ class StorageService {
     await saveDailyPrompts(refreshed);
     await prefs.setString(dailyPromptRefreshDayKey, todayKey);
     return refreshed;
-  }
-
-  static Future<({String text, int points})?> generateWeeklyTaskSuggestion({
-    List<String> avoidTexts = const [],
-  }) async {
-    final reserved = avoidTexts
-        .map((e) => e.toLowerCase().replaceAll(RegExp(r'\s+'), ' ').trim())
-        .where((e) => e.isNotEmpty)
-        .toSet();
-
-    const defaultPool = [
-      'Complete a creative project from start to finish',
-      'Document your entire creative process with photos',
-      'Collaborate with someone else on a creative task',
-      'Recreate your favorite artwork in a different medium',
-      'Create something inspired by a random object you find',
-      'Design and build a prototype of a product idea',
-      'Write and illustrate a short comic or graphic novel',
-      'Compose a playlist that tells a story',
-      'Create a video essay about your favorite creative topic',
-    ];
-
-    for (final text in defaultPool) {
-      final norm = text.toLowerCase().replaceAll(RegExp(r'\s+'), ' ').trim();
-      if (!reserved.contains(norm)) {
-        return (text: text, points: 8);
-      }
-    }
-
-    return null;
   }
 
   static Future<DailyPromptState> _createNewDailyPromptsAsync({
@@ -770,36 +878,16 @@ class StorageService {
 
     try {
       final raw = await rootBundle.loadString(promptDatasetAssetPath);
-      final decoded = jsonDecode(raw);
-      if (decoded is! List) {
-        _promptDatasetCache = const [];
-        return _promptDatasetCache!;
-      }
-
-      final normalized = <Map<String, dynamic>>[];
-      for (final item in decoded) {
-        if (item is! Map) continue;
-        final map = Map<String, dynamic>.from(item);
-        final points = map['points'];
-        final prompt = (map['prompt'] ?? '').toString().trim();
-        final category = (map['category'] ?? '').toString().trim();
-        final minutes = map['estimated_minutes'];
-
-        if (prompt.isEmpty || category.isEmpty) continue;
-
-        normalized.add({
-          'points': points is int ? points : int.tryParse('$points') ?? 0,
-          'text': prompt,
-          'category': category,
-          'estimated_minutes':
-              minutes is int ? minutes : int.tryParse('$minutes') ?? 0,
-        });
-      }
+      final normalized = raw.length < _datasetIsolateThresholdBytes
+          ? _normalizePromptDatasetForCompute(raw)
+          : await compute(_normalizePromptDatasetForCompute, raw);
 
       _promptDatasetCache = normalized;
+      _promptCategoryCache = null;
       return _promptDatasetCache!;
     } catch (_) {
       _promptDatasetCache = const [];
+      _promptCategoryCache = null;
       return _promptDatasetCache!;
     }
   }
@@ -842,8 +930,8 @@ class StorageService {
     }).toList();
 
     final candidatePool = withFilters.isNotEmpty
-        ? withFilters
-        : (categoryOnly.isNotEmpty ? categoryOnly : byPoints);
+      ? withFilters
+      : (categoryOnly.isNotEmpty ? categoryOnly : byPoints);
 
     if (candidatePool.isNotEmpty) {
       final chosen = candidatePool[random.nextInt(candidatePool.length)];
@@ -881,16 +969,15 @@ class StorageService {
   }
 
   static Future<WeeklyTask?> loadWeeklyTask() async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     final taskData = prefs.getString(weeklyTaskKey);
 
     if (taskData == null) {
       return null;
     }
 
-    final task = WeeklyTask.fromJson(
-      Map<String, dynamic>.from(jsonDecode(taskData) as Map),
-    );
+    final parsed = await _decodeJsonMap(taskData);
+    final task = WeeklyTask.fromJson(parsed);
 
     final currentWeekKey = getWeekKey(DebugTime.now());
     if (task.weekKey != currentWeekKey) {
@@ -901,12 +988,12 @@ class StorageService {
   }
 
   static Future<void> saveWeeklyTask(WeeklyTask task) async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     await prefs.setString(weeklyTaskKey, jsonEncode(task.toJson()));
   }
 
   static Future<void> deleteWeeklyTask() async {
-    final prefs = await SharedPreferences.getInstance();
+    final prefs = await _prefs();
     await prefs.remove(weeklyTaskKey);
   }
 
@@ -951,3 +1038,4 @@ class StorageService {
     'Produce a mini project update with visuals and narration',
   ];
 }
+

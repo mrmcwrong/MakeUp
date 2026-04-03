@@ -4,12 +4,14 @@ class WeeklyTaskScreen extends StatefulWidget {
   final User user;
   final Function(User) onUserUpdate;
   final VoidCallback? onReload;
+  final bool isActive;
 
   const WeeklyTaskScreen({
     super.key,
     required this.user,
     required this.onUserUpdate,
     this.onReload,
+    this.isActive = true,
   });
 
   @override
@@ -22,8 +24,6 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
   late TextEditingController _taskController;
   late TextEditingController _completionController;
   late TextEditingController _pointsController;
-  Timer? _weekTimer;
-  Duration _timeUntilNextWeek = Duration.zero;
   List<String> _pendingAttachments = [];
 
   @override
@@ -33,21 +33,23 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
     _completionController = TextEditingController();
     _pointsController = TextEditingController(text: '10');
     _loadWeeklyTask();
-    _updateTimeUntilNextWeek();
-    _weekTimer = Timer.periodic(const Duration(seconds: 1), (_) {
-      _updateTimeUntilNextWeek();
-    });
   }
 
   @override
   void didUpdateWidget(WeeklyTaskScreen oldWidget) {
     super.didUpdateWidget(oldWidget);
-    _loadWeeklyTask();
+    if (oldWidget.user != widget.user && widget.isActive) {
+      _loadWeeklyTask();
+    }
+    if (oldWidget.isActive != widget.isActive) {
+      if (widget.isActive) {
+        _loadWeeklyTask();
+      }
+    }
   }
 
   @override
   void dispose() {
-    _weekTimer?.cancel();
     _taskController.dispose();
     _completionController.dispose();
     _pointsController.dispose();
@@ -68,7 +70,7 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
     setState(() => _pendingAttachments = []);
   }
 
-  void _updateTimeUntilNextWeek() {
+  Duration _timeUntilNextWeek() {
     final now = DebugTime.now();
     final daysUntilMonday = (8 - now.weekday) % 7;
     final nextMonday = DateTime(
@@ -77,10 +79,7 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
       now.day + (daysUntilMonday == 0 ? 7 : daysUntilMonday),
     );
     final remaining = nextMonday.difference(now);
-    if (!mounted) return;
-    setState(() {
-      _timeUntilNextWeek = remaining.isNegative ? Duration.zero : remaining;
-    });
+    return remaining.isNegative ? Duration.zero : remaining;
   }
 
   String _formatCountdown(Duration duration) {
@@ -146,48 +145,6 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
     );
   }
 
-  Future<void> _generateWeeklyTaskWithAi() async {
-    final existingTexts = <String>[
-      if (_weeklyTask != null) _weeklyTask!.taskText,
-      for (final submission in widget.user.submissions)
-        if (submission.promptIndex == -1) submission.text,
-    ];
-
-    final suggestion = await StorageService.generateWeeklyTaskSuggestion(
-      avoidTexts: existingTexts,
-    );
-
-    if (!mounted) return;
-
-    if (suggestion == null) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        SnackBar(
-          content: Text(
-            'AI suggestion unavailable. Configure AI in Settings or try again.',
-            style: GoogleFonts.dmSans(),
-          ),
-          backgroundColor: AppColors.error,
-        ),
-      );
-      return;
-    }
-
-    setState(() {
-      _taskController.text = suggestion.text;
-      _pointsController.text = suggestion.points.toString();
-    });
-
-    ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(
-        content: Text(
-          'AI suggested a weekly challenge.',
-          style: GoogleFonts.dmSans(),
-        ),
-        backgroundColor: AppColors.success,
-      ),
-    );
-  }
-
   Future<void> _completeWeeklyTask() async {
     if (_weeklyTask == null || _weeklyTask!.isCompleted) return;
 
@@ -230,6 +187,8 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
     final updatedUser = User(
       username: widget.user.username,
       avatarImagePath: widget.user.avatarImagePath,
+      avatarFrameShape: widget.user.avatarFrameShape,
+      showAvatarFrame: widget.user.showAvatarFrame,
       totalPoints: widget.user.totalPoints + completedTask.points,
       submissions: updatedSubmissions,
     );
@@ -299,6 +258,8 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
     final updatedUser = User(
       username: widget.user.username,
       avatarImagePath: widget.user.avatarImagePath,
+      avatarFrameShape: widget.user.avatarFrameShape,
+      showAvatarFrame: widget.user.showAvatarFrame,
       totalPoints: _weeklyTask!.isCompleted
           ? widget.user.totalPoints - _weeklyTask!.points
           : widget.user.totalPoints,
@@ -370,14 +331,30 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
           children: [
             Icon(Icons.access_time, size: 16, color: AppColors.textSecondary),
             const SizedBox(width: 8),
-            Text(
-              '${_formatCountdown(_timeUntilNextWeek)} until next week',
-              style: GoogleFonts.dmSans(
-                fontSize: 14,
-                color: AppColors.textSecondary,
-                fontWeight: FontWeight.w500,
-              ),
-            ),
+            widget.isActive
+                ? StreamBuilder<int>(
+                    stream: Stream.periodic(
+                      const Duration(seconds: 1),
+                      (tick) => tick,
+                    ),
+                    initialData: 0,
+                    builder: (_, _) => Text(
+                      '${_formatCountdown(_timeUntilNextWeek())} until next week',
+                      style: GoogleFonts.dmSans(
+                        fontSize: 14,
+                        color: AppColors.textSecondary,
+                        fontWeight: FontWeight.w500,
+                      ),
+                    ),
+                  )
+                : Text(
+                    '${_formatCountdown(_timeUntilNextWeek())} until next week',
+                    style: GoogleFonts.dmSans(
+                      fontSize: 14,
+                      color: AppColors.textSecondary,
+                      fontWeight: FontWeight.w500,
+                    ),
+                  ),
           ],
         ),
         const SizedBox(height: 40),
@@ -488,26 +465,6 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
         const SizedBox(height: 32),
         SizedBox(
           width: double.infinity,
-          child: OutlinedButton.icon(
-            onPressed: _generateWeeklyTaskWithAi,
-            icon: const Icon(Icons.auto_awesome),
-            label: Text(
-              'Generate with AI',
-              style: GoogleFonts.dmSans(fontWeight: FontWeight.w700),
-            ),
-            style: OutlinedButton.styleFrom(
-              foregroundColor: AppColors.darkBrown,
-              side: BorderSide(color: AppColors.golden.withValues(alpha: 0.5)),
-              padding: const EdgeInsets.symmetric(vertical: 14),
-              shape: RoundedRectangleBorder(
-                borderRadius: BorderRadius.circular(14),
-              ),
-            ),
-          ),
-        ),
-        const SizedBox(height: 12),
-        SizedBox(
-          width: double.infinity,
           child: ElevatedButton(
             onPressed: _createWeeklyTask,
             style: ElevatedButton.styleFrom(
@@ -552,14 +509,30 @@ class _WeeklyTaskScreenState extends State<WeeklyTaskScreen> {
           children: [
             Icon(Icons.access_time, size: 16, color: AppColors.textSecondary),
             const SizedBox(width: 8),
-            Text(
-              '${_formatCountdown(_timeUntilNextWeek)} until next week',
-              style: GoogleFonts.dmSans(
-                fontSize: 14,
-                color: AppColors.textSecondary,
-                fontWeight: FontWeight.w500,
-              ),
-            ),
+            widget.isActive
+                ? StreamBuilder<int>(
+                    stream: Stream.periodic(
+                      const Duration(seconds: 1),
+                      (tick) => tick,
+                    ),
+                    initialData: 0,
+                    builder: (_, _) => Text(
+                      '${_formatCountdown(_timeUntilNextWeek())} until next week',
+                      style: GoogleFonts.dmSans(
+                        fontSize: 14,
+                        color: AppColors.textSecondary,
+                        fontWeight: FontWeight.w500,
+                      ),
+                    ),
+                  )
+                : Text(
+                    '${_formatCountdown(_timeUntilNextWeek())} until next week',
+                    style: GoogleFonts.dmSans(
+                      fontSize: 14,
+                      color: AppColors.textSecondary,
+                      fontWeight: FontWeight.w500,
+                    ),
+                  ),
           ],
         ),
         const SizedBox(height: 40),

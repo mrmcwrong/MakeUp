@@ -5,5 +5,15 @@
     "**/linux/flutter/generated_plugin_registrant.h": true,
     "**/windows/flutter/generated_plugin_registrant.cc": true,
     "**/windows/flutter/generated_plugin_registrant.h": true
-  }
+  },
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-21",
+      "path": "C:\\Program Files\\Android\\Android Studio\\jbr",
+      "default": true
+    }
+  ],
+  "java.import.gradle.java.home": "C:\\Program Files\\Android\\Android Studio\\jbr",
+  "gradle.java.home": "C:\\Program Files\\Android\\Android Studio\\jbr",
+  "java.configuration.updateBuildConfiguration": "interactive"
 }

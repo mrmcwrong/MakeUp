@@ -48,6 +48,8 @@ class _ProfileScreenState extends State<ProfileScreen>
   Future<void> _showEditProfileSheet() async {
     final nameController = TextEditingController(text: widget.user.username);
     String? currentImagePath = widget.user.avatarImagePath;
+    AvatarFrameShape currentFrameShape = widget.user.avatarFrameShape;
+    bool currentShowFrame = widget.user.showAvatarFrame;
 
     await showModalBottomSheet(
       context: context,
@@ -80,36 +82,26 @@ class _ProfileScreenState extends State<ProfileScreen>
               Center(
                 child: GestureDetector(
                   onTap: () async {
-                    final path = await pickAndSaveAvatar(ImageSource.gallery);
-                    if (path != null) {
-                      setSheetState(() => currentImagePath = path);
+                    final avatarResult = await pickAndConfigureAvatar(
+                      context,
+                      ImageSource.gallery,
+                      initialFrameShape: currentFrameShape,
+                      initialShowFrame: currentShowFrame,
+                    );
+                    if (avatarResult != null) {
+                      setSheetState(() {
+                        currentImagePath = avatarResult.imagePath;
+                        currentFrameShape = avatarResult.frameShape;
+                        currentShowFrame = avatarResult.showFrame;
+                      });
                     }
                   },
-                  child: Stack(
-                    children: [
-                      AvatarWidget(
-                        imagePath: currentImagePath,
-                        size: 90,
-                        isUser: true,
-                      ),
-                      Positioned(
-                        bottom: 0,
-                        right: 0,
-                        child: Container(
-                          padding: const EdgeInsets.all(6),
-                          decoration: BoxDecoration(
-                            color: AppColors.amber,
-                            shape: BoxShape.circle,
-                            border: Border.all(color: Colors.white, width: 2),
-                          ),
-                          child: const Icon(
-                            Icons.photo_library_outlined,
-                            size: 14,
-                            color: Colors.white,
-                          ),
-                        ),
-                      ),
-                    ],
+                  child: AvatarWidget(
+                    imagePath: currentImagePath,
+                    size: 90,
+                    isUser: true,
+                    frameShape: currentFrameShape,
+                    showFrame: currentShowFrame,
                   ),
                 ),
               ),
@@ -166,6 +158,8 @@ class _ProfileScreenState extends State<ProfileScreen>
                       User(
                         username: newName,
                         avatarImagePath: currentImagePath,
+                        avatarFrameShape: currentFrameShape,
+                        showAvatarFrame: currentShowFrame,
                         totalPoints: widget.user.totalPoints,
                         submissions: widget.user.submissions,
                       ),
@@ -298,34 +292,12 @@ class _ProfileScreenState extends State<ProfileScreen>
                   children: [
                     GestureDetector(
                       onTap: _showEditProfileSheet,
-                      child: Stack(
-                        children: [
-                          AvatarWidget(
-                            imagePath: widget.user.avatarImagePath,
-                            size: 100,
-                            isUser: true,
-                          ),
-                          Positioned(
-                            bottom: 0,
-                            right: 0,
-                            child: Container(
-                              padding: const EdgeInsets.all(5),
-                              decoration: BoxDecoration(
-                                color: AppColors.amber,
-                                shape: BoxShape.circle,
-                                border: Border.all(
-                                  color: Colors.white,
-                                  width: 2,
-                                ),
-                              ),
-                              child: const Icon(
-                                Icons.photo_library_outlined,
-                                size: 15,
-                                color: Colors.white,
-                              ),
-                            ),
-                          ),
-                        ],
+                      child: AvatarWidget(
+                        imagePath: widget.user.avatarImagePath,
+                        size: 100,
+                        isUser: true,
+                        frameShape: widget.user.avatarFrameShape,
+                        showFrame: widget.user.showAvatarFrame,
                       ),
                     ),
                     const SizedBox(height: 16),
@@ -926,6 +898,10 @@ class _ProfileScreenState extends State<ProfileScreen>
                                           username: widget.user.username,
                                           avatarImagePath:
                                               widget.user.avatarImagePath,
+                                          avatarFrameShape:
+                                            widget.user.avatarFrameShape,
+                                          showAvatarFrame:
+                                            widget.user.showAvatarFrame,
                                           totalPoints:
                                               widget.user.totalPoints -
                                               submission.points,

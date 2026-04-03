@@ -85,6 +85,7 @@ class _MyAppState extends State<MyApp> {
                 ),
               );
             }
+
             return MainNavigationScreen(
               key: ValueKey(_resetKey),
               user: snapshot.data!['user'],
@@ -125,6 +126,7 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
   Timer? _masterTimer;
   DateTime? _lastCheckedDate; // the last date we processed points for
   String? _lastCheckedWeekKey;
+  bool _masterTickInProgress = false;
 
   final GlobalKey<_HomeScreenState> _homeKey = GlobalKey<_HomeScreenState>();
   final GlobalKey<_WeeklyTaskScreenState> _weeklyKey =
@@ -179,6 +181,9 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
   }
 
   Future<void> _masterTick() async {
+    if (_masterTickInProgress) return;
+    _masterTickInProgress = true;
+    try {
     final now = DebugTime.now();
     final todayDate = DateTime(now.year, now.month, now.day);
     final currentWeekKey = StorageService.getWeekKey(now);
@@ -208,6 +213,9 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
       _weeklyKey.currentState?.reloadForNewWeek();
     } else {
       _lastCheckedWeekKey ??= currentWeekKey;
+    }
+    } finally {
+      _masterTickInProgress = false;
     }
   }
 
@@ -246,11 +254,17 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
       body: IndexedStack(
         index: _currentIndex,
         children: [
-          HomeScreen(key: _homeKey, user: user, onUserUpdate: _updateUser),
+          HomeScreen(
+            key: _homeKey,
+            user: user,
+            onUserUpdate: _updateUser,
+            isActive: _currentIndex == 0,
+          ),
           WeeklyTaskScreen(
             key: _weeklyKey,
             user: user,
             onUserUpdate: _updateUser,
+            isActive: _currentIndex == 1,
           ),
           LeagueScreen(
             user: user,
@@ -280,7 +294,10 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
         backgroundColor: AppColors.warmSurface,
         indicatorColor: AppColors.golden.withValues(alpha: 0.2),
         selectedIndex: _currentIndex,
-        onDestinationSelected: (index) => setState(() => _currentIndex = index),
+        onDestinationSelected: (index) {
+          if (index == _currentIndex) return;
+          setState(() => _currentIndex = index);
+        },
         labelBehavior: NavigationDestinationLabelBehavior.alwaysShow,
         destinations: [
           NavigationDestination(

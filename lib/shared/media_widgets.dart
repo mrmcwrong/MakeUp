@@ -2,6 +2,70 @@
 
 // Shared avatar utilities
 
+class AvatarSelectionResult {
+  final String imagePath;
+  final AvatarFrameShape frameShape;
+  final bool showFrame;
+
+  const AvatarSelectionResult({
+    required this.imagePath,
+    required this.frameShape,
+    required this.showFrame,
+  });
+}
+
+class _AvatarCropResult {
+  final Uint8List imageBytes;
+  final AvatarFrameShape frameShape;
+  final bool showFrame;
+
+  const _AvatarCropResult({
+    required this.imageBytes,
+    required this.frameShape,
+    required this.showFrame,
+  });
+}
+
+/// Picks an image and opens a crop/confirm screen where users can choose
+/// circle/square framing and whether the frame outline is visible.
+Future<AvatarSelectionResult?> pickAndConfigureAvatar(
+  BuildContext context,
+  ImageSource source, {
+  AvatarFrameShape initialFrameShape = AvatarFrameShape.circle,
+  bool initialShowFrame = false,
+}) async {
+  final picker = ImagePicker();
+  final picked = await picker.pickImage(
+    source: source,
+    imageQuality: 95,
+    maxWidth: 1600,
+  );
+  if (picked == null || !context.mounted) return null;
+
+  final cropResult = await Navigator.of(context).push<_AvatarCropResult>(
+    MaterialPageRoute(
+      builder: (_) => _AvatarCropConfirmScreen(
+        imagePath: picked.path,
+        initialFrameShape: initialFrameShape,
+        initialShowFrame: initialShowFrame,
+      ),
+    ),
+  );
+
+  if (cropResult == null) return null;
+
+  final docsDir = await getApplicationDocumentsDirectory();
+  final fileName = 'avatar_${DateTime.now().millisecondsSinceEpoch}.png';
+  final outFile = File('${docsDir.path}/$fileName');
+  await outFile.writeAsBytes(cropResult.imageBytes, flush: true);
+
+  return AvatarSelectionResult(
+    imagePath: outFile.path,
+    frameShape: cropResult.frameShape,
+    showFrame: cropResult.showFrame,
+  );
+}
+
 /// Picks an image from [source], copies it permanently into the app's documents
 /// directory, and returns the saved path. Returns null if the user cancels.
 Future<String?> pickAndSaveAvatar(ImageSource source) async {
@@ -18,6 +82,213 @@ Future<String?> pickAndSaveAvatar(ImageSource source) async {
       'avatar_${DateTime.now().millisecondsSinceEpoch}${p.extension(picked.path)}';
   final saved = await File(picked.path).copy('${docsDir.path}/$fileName');
   return saved.path;
+}
+
+class _AvatarCropConfirmScreen extends StatefulWidget {
+  final String imagePath;
+  final AvatarFrameShape initialFrameShape;
+  final bool initialShowFrame;
+
+  const _AvatarCropConfirmScreen({
+    required this.imagePath,
+    required this.initialFrameShape,
+    required this.initialShowFrame,
+  });
+
+  @override
+  State<_AvatarCropConfirmScreen> createState() =>
+      _AvatarCropConfirmScreenState();
+}
+
+class _AvatarCropConfirmScreenState extends State<_AvatarCropConfirmScreen> {
+  final CropController _cropController = CropController();
+  Uint8List? _imageBytes;
+  AvatarFrameShape _frameShape = AvatarFrameShape.circle;
+  bool _showFrame = false;
+  bool _isCropping = false;
+
+  @override
+  void initState() {
+    super.initState();
+    _frameShape = widget.initialFrameShape;
+    _showFrame = widget.initialShowFrame;
+    _loadBytes();
+  }
+
+  Future<void> _loadBytes() async {
+    final bytes = await File(widget.imagePath).readAsBytes();
+    if (!mounted) return;
+    setState(() {
+      _imageBytes = bytes;
+    });
+  }
+
+  void _confirmSelection() {
+    setState(() => _isCropping = true);
+    _cropController.crop();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final imageBytes = _imageBytes;
+
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Crop Logo'),
+      ),
+      body: imageBytes == null
+          ? Center(child: CircularProgressIndicator(color: AppColors.amber))
+          : Padding(
+              padding: const EdgeInsets.fromLTRB(16, 16, 16, 20),
+              child: Column(
+                children: [
+                  Expanded(
+                    child: ClipRRect(
+                      borderRadius: BorderRadius.circular(20),
+                      child: Crop(
+                        key: ValueKey(_frameShape),
+                        image: imageBytes,
+                        controller: _cropController,
+                        withCircleUi: _frameShape == AvatarFrameShape.circle,
+                        aspectRatio: 1,
+                        interactive: true,
+                        fixCropRect: true,
+                        baseColor: AppColors.deepBrown.withValues(alpha: 0.9),
+                        maskColor: Colors.black.withValues(alpha: 0.55),
+                        radius: 18,
+                        onCropped: (result) {
+                          if (!mounted) return;
+                          if (result is CropSuccess) {
+                            Navigator.of(context).pop(
+                              _AvatarCropResult(
+                                imageBytes: result.croppedImage,
+                                frameShape: _frameShape,
+                                showFrame: _showFrame,
+                              ),
+                            );
+                            return;
+                          }
+
+                          final error =
+                              result is CropFailure ? result.cause : 'Unknown';
+                          setState(() => _isCropping = false);
+                          ScaffoldMessenger.of(context).showSnackBar(
+                            SnackBar(
+                              content: Text(
+                                'Could not crop image: $error',
+                                style: GoogleFonts.dmSans(),
+                              ),
+                              backgroundColor: AppColors.error,
+                            ),
+                          );
+                        },
+                      ),
+                    ),
+                  ),
+                  const SizedBox(height: 14),
+                  Container(
+                    padding: const EdgeInsets.all(14),
+                    decoration: BoxDecoration(
+                      color: AppColors.warmSurface,
+                      borderRadius: BorderRadius.circular(16),
+                      border: Border.all(
+                        color: AppColors.golden.withValues(alpha: 0.3),
+                      ),
+                    ),
+                    child: Column(
+                      children: [
+                        Row(
+                          children: [
+                            Expanded(
+                              child: SegmentedButton<AvatarFrameShape>(
+                                segments: const [
+                                  ButtonSegment<AvatarFrameShape>(
+                                    value: AvatarFrameShape.circle,
+                                    icon: Icon(Icons.circle_outlined),
+                                    label: Text('Circle'),
+                                  ),
+                                  ButtonSegment<AvatarFrameShape>(
+                                    value: AvatarFrameShape.square,
+                                    icon: Icon(Icons.crop_square),
+                                    label: Text('Square'),
+                                  ),
+                                ],
+                                selected: {_frameShape},
+                                onSelectionChanged: (selection) {
+                                  if (selection.isEmpty) return;
+                                  setState(() {
+                                    _frameShape = selection.first;
+                                  });
+                                },
+                                showSelectedIcon: false,
+                              ),
+                            ),
+                          ],
+                        ),
+                        const SizedBox(height: 8),
+                        SwitchListTile.adaptive(
+                          contentPadding: EdgeInsets.zero,
+                          title: Text(
+                            'Keep frame visible',
+                            style: GoogleFonts.dmSans(
+                              fontSize: 14,
+                              fontWeight: FontWeight.w600,
+                              color: AppColors.textPrimary,
+                            ),
+                          ),
+                          subtitle: Text(
+                            'Off hides the border in the final logo',
+                            style: GoogleFonts.dmSans(
+                              fontSize: 12,
+                              color: AppColors.textSecondary,
+                            ),
+                          ),
+                          value: _showFrame,
+                          onChanged: (value) {
+                            setState(() => _showFrame = value);
+                          },
+                          activeTrackColor: AppColors.amber,
+                          activeThumbColor: Colors.white,
+                        ),
+                      ],
+                    ),
+                  ),
+                  const SizedBox(height: 12),
+                  SizedBox(
+                    width: double.infinity,
+                    child: ElevatedButton(
+                      onPressed: _isCropping ? null : _confirmSelection,
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: AppColors.amber,
+                        foregroundColor: Colors.white,
+                        padding: const EdgeInsets.symmetric(vertical: 14),
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.circular(14),
+                        ),
+                      ),
+                      child: _isCropping
+                          ? const SizedBox(
+                              width: 18,
+                              height: 18,
+                              child: CircularProgressIndicator(
+                                strokeWidth: 2,
+                                color: Colors.white,
+                              ),
+                            )
+                          : Text(
+                              'Use This Logo',
+                              style: GoogleFonts.dmSans(
+                                fontSize: 15,
+                                fontWeight: FontWeight.w700,
+                              ),
+                            ),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+    );
+  }
 }
 
 /// Picks one or more files of any type and copies them into the app's
@@ -82,12 +353,16 @@ class AvatarWidget extends StatelessWidget {
   final String? imagePath;
   final double size;
   final bool isUser;
+  final AvatarFrameShape frameShape;
+  final bool showFrame;
 
   const AvatarWidget({
     super.key,
     required this.imagePath,
     this.size = 48,
     this.isUser = false,
+    this.frameShape = AvatarFrameShape.circle,
+    this.showFrame = false,
   });
 
   @override
@@ -103,7 +378,7 @@ class AvatarWidget extends StatelessWidget {
         errorBuilder: (_, _, _) =>
             Icon(Icons.person, size: size * 0.5, color: AppColors.brown),
       );
-    } else if (path != null && File(path).existsSync()) {
+    } else if (path != null) {
       photoChild = Image.file(
         File(path),
         width: size,
@@ -116,20 +391,35 @@ class AvatarWidget extends StatelessWidget {
       photoChild = Icon(Icons.person, size: size * 0.5, color: AppColors.brown);
     }
 
+    final borderColor = isUser
+        ? AppColors.golden.withValues(alpha: 0.4)
+        : AppColors.golden.withValues(alpha: 0.2);
+    final borderWidth = showFrame ? (isUser ? 2.5 : 1.5) : 0.0;
+    final isCircle = frameShape == AvatarFrameShape.circle;
+    final squareRadius = showFrame ? size * 0.14 : 0.0;
+
+    final clippedPhoto = isCircle
+        ? ClipOval(child: Center(child: photoChild))
+        : ClipRRect(
+            borderRadius: BorderRadius.circular(squareRadius),
+            child: Center(child: photoChild),
+          );
+
     return Container(
       width: size,
       height: size,
       decoration: BoxDecoration(
-        shape: BoxShape.circle,
-        color: isUser ? AppColors.lightYellow : AppColors.warmSurface,
+        shape: isCircle ? BoxShape.circle : BoxShape.rectangle,
+        borderRadius: isCircle ? null : BorderRadius.circular(squareRadius),
+        color: showFrame
+            ? (isUser ? AppColors.lightYellow : AppColors.warmSurface)
+            : Colors.transparent,
         border: Border.all(
-          color: isUser
-              ? AppColors.golden.withValues(alpha: 0.4)
-              : AppColors.golden.withValues(alpha: 0.2),
-          width: isUser ? 2.5 : 1.5,
+          color: showFrame ? borderColor : Colors.transparent,
+          width: borderWidth,
         ),
       ),
-      child: ClipOval(child: Center(child: photoChild)),
+      child: clippedPhoto,
     );
   }
 }
@@ -209,7 +499,14 @@ class AttachmentsEditor extends StatelessWidget {
                     child: isImg && File(path).existsSync()
                         ? ClipRRect(
                             borderRadius: BorderRadius.circular(11),
-                            child: Image.file(File(path), fit: BoxFit.cover),
+                            child: Image.file(
+                              File(path),
+                              fit: BoxFit.cover,
+                              errorBuilder: (_, _, _) => Icon(
+                                Icons.broken_image_outlined,
+                                color: AppColors.brown,
+                              ),
+                            ),
                           )
                         : Column(
                             mainAxisAlignment: MainAxisAlignment.center,
@@ -346,7 +643,6 @@ class AttachmentsViewer extends StatelessWidget {
           spacing: 8,
           runSpacing: 8,
           children: attachments.map((path) {
-            final exists = File(path).existsSync();
             final name = p.basename(path);
             final isImg = isImageFile(path);
             return Stack(
@@ -366,15 +662,17 @@ class AttachmentsViewer extends StatelessWidget {
                         width: 1.5,
                       ),
                     ),
-                    child: !exists
-                      ? Icon(
-                            Icons.broken_image_outlined,
-                            color: AppColors.brown,
-                          )
-                        : isImg
+                    child: isImg
                         ? ClipRRect(
                             borderRadius: BorderRadius.circular(11),
-                            child: Image.file(File(path), fit: BoxFit.cover),
+                            child: Image.file(
+                              File(path),
+                              fit: BoxFit.cover,
+                              errorBuilder: (_, _, _) => Icon(
+                                Icons.broken_image_outlined,
+                                color: AppColors.brown,
+                              ),
+                            ),
                           )
                         : Column(
                             mainAxisAlignment: MainAxisAlignment.center,
@@ -406,35 +704,34 @@ class AttachmentsViewer extends StatelessWidget {
                 ),
 
                 // Download button (bottom-right corner)
-                if (exists)
-                  Positioned(
-                    bottom: -6,
-                    right: -6,
-                    child: GestureDetector(
-                      onTap: () => _downloadFile(context, path),
-                      child: Container(
-                        width: 24,
-                        height: 24,
-                        decoration: BoxDecoration(
-                          color: AppColors.brown,
-                          shape: BoxShape.circle,
-                          border: Border.all(color: Colors.white, width: 1.5),
-                          boxShadow: [
-                            BoxShadow(
-                              color: Colors.black.withValues(alpha: 0.15),
-                              blurRadius: 4,
-                              offset: const Offset(0, 1),
-                            ),
-                          ],
-                        ),
-                        child: const Icon(
-                          Icons.download,
-                          size: 13,
-                          color: Colors.white,
-                        ),
+                Positioned(
+                  bottom: -6,
+                  right: -6,
+                  child: GestureDetector(
+                    onTap: () => _downloadFile(context, path),
+                    child: Container(
+                      width: 24,
+                      height: 24,
+                      decoration: BoxDecoration(
+                        color: AppColors.brown,
+                        shape: BoxShape.circle,
+                        border: Border.all(color: Colors.white, width: 1.5),
+                        boxShadow: [
+                          BoxShadow(
+                            color: Colors.black.withValues(alpha: 0.15),
+                            blurRadius: 4,
+                            offset: const Offset(0, 1),
+                          ),
+                        ],
+                      ),
+                      child: const Icon(
+                        Icons.download,
+                        size: 13,
+                        color: Colors.white,
                       ),
                     ),
                   ),
+                ),
               ],
             );
           }).toList(),

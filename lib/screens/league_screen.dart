@@ -150,6 +150,8 @@ class _LeagueScreenState extends State<LeagueScreen> {
       {
         'name': widget.user.username,
         'imagePath': widget.user.avatarImagePath,
+        'avatarFrameShape': widget.user.avatarFrameShape,
+        'showAvatarFrame': widget.user.showAvatarFrame,
         'points': _userLeaguePoints(),
         'isUser': true,
         'competitor': null,
@@ -158,6 +160,8 @@ class _LeagueScreenState extends State<LeagueScreen> {
         (c) => {
           'name': c.name,
           'imagePath': c.avatarImagePath,
+          'avatarFrameShape': c.avatarFrameShape,
+          'showAvatarFrame': c.showAvatarFrame,
           'points': c.points,
           'isUser': false,
           'competitor': c,
@@ -179,6 +183,12 @@ class _LeagueScreenState extends State<LeagueScreen> {
     String? currentImagePath = isUser
         ? widget.user.avatarImagePath
         : competitor!.avatarImagePath;
+    AvatarFrameShape currentFrameShape = isUser
+      ? widget.user.avatarFrameShape
+      : competitor!.avatarFrameShape;
+    bool currentShowFrame = isUser
+      ? widget.user.showAvatarFrame
+      : competitor!.showAvatarFrame;
     double currentDailyProb = competitor?.dailyProbability ?? 0.5;
     double currentWeeklyProb = competitor?.weeklyProbability ?? 1.0;
 
@@ -213,36 +223,26 @@ class _LeagueScreenState extends State<LeagueScreen> {
               Center(
                 child: GestureDetector(
                   onTap: () async {
-                    final path = await pickAndSaveAvatar(ImageSource.gallery);
-                    if (path != null) {
-                      setSheetState(() => currentImagePath = path);
+                    final avatarResult = await pickAndConfigureAvatar(
+                      context,
+                      ImageSource.gallery,
+                      initialFrameShape: currentFrameShape,
+                      initialShowFrame: currentShowFrame,
+                    );
+                    if (avatarResult != null) {
+                      setSheetState(() {
+                        currentImagePath = avatarResult.imagePath;
+                        currentFrameShape = avatarResult.frameShape;
+                        currentShowFrame = avatarResult.showFrame;
+                      });
                     }
                   },
-                  child: Stack(
-                    children: [
-                      AvatarWidget(
-                        imagePath: currentImagePath,
-                        size: 90,
-                        isUser: true,
-                      ),
-                      Positioned(
-                        bottom: 0,
-                        right: 0,
-                        child: Container(
-                          padding: const EdgeInsets.all(6),
-                          decoration: BoxDecoration(
-                            color: AppColors.amber,
-                            shape: BoxShape.circle,
-                            border: Border.all(color: Colors.white, width: 2),
-                          ),
-                          child: const Icon(
-                            Icons.photo_library_outlined,
-                            size: 14,
-                            color: Colors.white,
-                          ),
-                        ),
-                      ),
-                    ],
+                  child: AvatarWidget(
+                    imagePath: currentImagePath,
+                    size: 90,
+                    isUser: true,
+                    frameShape: currentFrameShape,
+                    showFrame: currentShowFrame,
                   ),
                 ),
               ),
@@ -476,6 +476,8 @@ class _LeagueScreenState extends State<LeagueScreen> {
                       final updatedUser = User(
                         username: newName,
                         avatarImagePath: currentImagePath,
+                        avatarFrameShape: currentFrameShape,
+                        showAvatarFrame: currentShowFrame,
                         totalPoints: widget.user.totalPoints,
                         submissions: widget.user.submissions,
                       );
@@ -490,6 +492,8 @@ class _LeagueScreenState extends State<LeagueScreen> {
 
                       competitor!.name = newName;
                       competitor.avatarImagePath = currentImagePath;
+                      competitor.avatarFrameShape = currentFrameShape;
+                      competitor.showAvatarFrame = currentShowFrame;
                       if (_showIndividualProbabilitySelectors) {
                         competitor.dailyProbability = currentDailyProb;
                         competitor.weeklyProbability = currentWeeklyProb;
@@ -721,6 +725,11 @@ class _LeagueScreenState extends State<LeagueScreen> {
                                         imagePath: entry['imagePath'] as String?,
                                         size: 44,
                                         isUser: isUser,
+                                        frameShape:
+                                            entry['avatarFrameShape']
+                                                as AvatarFrameShape,
+                                        showFrame:
+                                            entry['showAvatarFrame'] as bool,
                                       ),
                                       const SizedBox(width: 12),
                                       Expanded(
