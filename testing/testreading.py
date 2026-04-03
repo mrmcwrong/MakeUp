@@ -95,6 +95,51 @@ def _walk_json_for_frames(node, ui_times, raster_times):
             _walk_json_for_frames(item, ui_times, raster_times)
 
 
+def _extract_perf_timeline_trace_events(data):
+    if not isinstance(data, dict):
+        return None
+
+    perf_timeline = data.get("perf_timeline")
+    if not isinstance(perf_timeline, dict):
+        return None
+
+    trace_events = perf_timeline.get("traceEvents")
+    return trace_events if isinstance(trace_events, list) else None
+
+
+def _extract_frame_begin_timestamps_us(trace_events):
+    timestamps = []
+    for event in trace_events:
+        if not isinstance(event, dict):
+            continue
+        if event.get("name") != "Frame":
+            continue
+        if event.get("ph") not in {"b", "B"}:
+            continue
+
+        ts = _as_float(event.get("ts"))
+        if ts is not None:
+            timestamps.append(ts)
+
+    return sorted(timestamps)
+
+
+def _frame_gap_stats_ms(frame_begin_timestamps_us):
+    if len(frame_begin_timestamps_us) < 2:
+        return {"mean_gap_ms": None, "max_gap_ms": None, "min_gap_ms": None}
+
+    gaps_ms = [
+        (frame_begin_timestamps_us[i] - frame_begin_timestamps_us[i - 1]) / 1000.0
+        for i in range(1, len(frame_begin_timestamps_us))
+    ]
+
+    return {
+        "mean_gap_ms": mean(gaps_ms),
+        "max_gap_ms": max(gaps_ms),
+        "min_gap_ms": min(gaps_ms),
+    }
+
+
 def _extract_thread_names(trace_events):
     names = {}
     for event in trace_events:
@@ -158,33 +203,30 @@ def read_frame_times(path: Path):
     raster_times = []
 
     # integration_test timeline export path (flutter drive + integrationDriver).
-    if isinstance(data, dict):
-        perf_timeline = data.get("perf_timeline")
-        if isinstance(perf_timeline, dict):
-            perf_trace = perf_timeline.get("traceEvents")
-            if isinstance(perf_trace, list):
-                ui_times.extend(
-                    _extract_paired_durations_ms(
-                        perf_trace,
-                        span_name="Frame",
-                        thread_name_filter=".ui",
-                    )
+    perf_trace = _extract_perf_timeline_trace_events(data)
+    if perf_trace:
+        ui_times.extend(
+            _extract_paired_durations_ms(
+                perf_trace,
+                span_name="Frame",
+                thread_name_filter=".ui",
+            )
+        )
+        raster_times.extend(
+            _extract_paired_durations_ms(
+                perf_trace,
+                span_name="GPURasterizer::Draw",
+                thread_name_filter=".raster",
+            )
+        )
+        if not raster_times:
+            raster_times.extend(
+                _extract_paired_durations_ms(
+                    perf_trace,
+                    span_name="Rasterizer::DoDraw",
+                    thread_name_filter=".raster",
                 )
-                raster_times.extend(
-                    _extract_paired_durations_ms(
-                        perf_trace,
-                        span_name="GPURasterizer::Draw",
-                        thread_name_filter=".raster",
-                    )
-                )
-                if not raster_times:
-                    raster_times.extend(
-                        _extract_paired_durations_ms(
-                            perf_trace,
-                            span_name="Rasterizer::DoDraw",
-                            thread_name_filter=".raster",
-                        )
-                    )
+            )
 
     # DevTools snapshot export path (performance screen).
     if isinstance(data, dict):
@@ -223,6 +265,29 @@ def read_frame_times(path: Path):
         _walk_json_for_frames(data, ui_times, raster_times)
 
     return ui_times, raster_times
+
+
+def _build_run_quality(path: Path, data, ui_metrics, *, min_ui_frames, max_frame_gap_ms):
+    issues = []
+
+    if ui_metrics and ui_metrics["frames"] < min_ui_frames:
+        issues.append(f"ui_frames<{min_ui_frames}")
+
+    frame_gaps = {"mean_gap_ms": None, "max_gap_ms": None, "min_gap_ms": None}
+    perf_trace = _extract_perf_timeline_trace_events(data)
+    if perf_trace:
+        frame_begins_us = _extract_frame_begin_timestamps_us(perf_trace)
+        frame_gaps = _frame_gap_stats_ms(frame_begins_us)
+        max_gap = frame_gaps["max_gap_ms"]
+        if max_gap is not None and max_gap > max_frame_gap_ms:
+            issues.append(f"frame_max_gap_ms>{max_frame_gap_ms:.0f}")
+
+    return {
+        "valid": len(issues) == 0,
+        "issues": issues,
+        "frame_gap": frame_gaps,
+        "source": str(path),
+    }
 
 
 def _percentile(values, pct):
@@ -284,6 +349,11 @@ def _write_csv_row(csv_file, row):
         "raster_p90_ms",
         "raster_p95_ms",
         "raster_p99_ms",
+        "quality_valid",
+        "quality_issues",
+        "frame_mean_gap_ms",
+        "frame_max_gap_ms",
+        "frame_min_gap_ms",
     ]
 
     csv_file.parent.mkdir(parents=True, exist_ok=True)
@@ -316,16 +386,43 @@ def main():
         dest="label",
         help="Optional run label written to CSV (default: JSON filename stem).",
     )
+    parser.add_argument(
+        "--min-ui-frames",
+        type=int,
+        default=100,
+        help="Mark run invalid if extracted UI frames are below this count.",
+    )
+    parser.add_argument(
+        "--max-frame-gap-ms",
+        type=float,
+        default=5000.0,
+        help="Mark run invalid if max gap between Frame begin events exceeds this.",
+    )
+    parser.add_argument(
+        "--include-invalid",
+        action="store_true",
+        help="Include invalid runs in CSV output (default excludes them).",
+    )
     args = parser.parse_args()
 
     path = Path(args.json_file)
     if not path.exists():
         raise SystemExit(f"File not found: {path}")
 
+    with path.open("r", encoding="utf-8") as f:
+        raw_data = json.load(f)
+
     ui_times, raster_times = read_frame_times(path)
     ui_metrics = _build_metrics(ui_times)
     raster_metrics = _build_metrics(raster_times)
     ui_jank_percent = None
+    quality = _build_run_quality(
+        path,
+        raw_data,
+        ui_metrics,
+        min_ui_frames=args.min_ui_frames,
+        max_frame_gap_ms=args.max_frame_gap_ms,
+    )
 
     if ui_metrics:
         print(f"UI frames: {ui_metrics['frames']}")
@@ -344,9 +441,21 @@ def main():
     else:
         print("No raster frame times found.")
 
+    if quality["valid"]:
+        print("Run quality: VALID")
+    else:
+        print(f"Run quality: INVALID ({', '.join(quality['issues'])})")
+        fg = quality["frame_gap"]
+        if fg["max_gap_ms"] is not None:
+            print(f"Frame gap max (ms): {fg['max_gap_ms']:.2f}")
+
     if args.csv_file:
         if not ui_metrics and not raster_metrics:
             print("Skipped CSV append: no frame metrics extracted from this file.")
+            return
+
+        if not quality["valid"] and not args.include_invalid:
+            print("Skipped CSV append: run marked invalid by quality checks.")
             return
 
         csv_path = Path(args.csv_file)
@@ -367,6 +476,23 @@ def main():
             "raster_p90_ms": f"{raster_metrics['p90_ms']:.3f}" if raster_metrics else "",
             "raster_p95_ms": f"{raster_metrics['p95_ms']:.3f}" if raster_metrics else "",
             "raster_p99_ms": f"{raster_metrics['p99_ms']:.3f}" if raster_metrics else "",
+            "quality_valid": "1" if quality["valid"] else "0",
+            "quality_issues": "|".join(quality["issues"]),
+            "frame_mean_gap_ms": (
+                f"{quality['frame_gap']['mean_gap_ms']:.2f}"
+                if quality["frame_gap"]["mean_gap_ms"] is not None
+                else ""
+            ),
+            "frame_max_gap_ms": (
+                f"{quality['frame_gap']['max_gap_ms']:.2f}"
+                if quality["frame_gap"]["max_gap_ms"] is not None
+                else ""
+            ),
+            "frame_min_gap_ms": (
+                f"{quality['frame_gap']['min_gap_ms']:.2f}"
+                if quality["frame_gap"]["min_gap_ms"] is not None
+                else ""
+            ),
         }
         _write_csv_row(csv_path, row)
         print(f"Appended CSV row: {csv_path}")

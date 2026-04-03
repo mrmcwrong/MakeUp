@@ -4,9 +4,10 @@ import 'package:integration_test/integration_test.dart';
 
 import 'package:makeup/main.dart' as app;
 
-Future<void> _pumpQuietly(WidgetTester tester, {Duration duration = const Duration(milliseconds: 500)}) async {
-  await tester.pump(duration);
-  await tester.pumpAndSettle(const Duration(milliseconds: 250));
+Future<void> _pumpQuietly(WidgetTester tester) async {
+  // Keep progress at frame cadence to avoid adding synthetic idle time.
+  await tester.pump(const Duration(milliseconds: 16));
+  await tester.pumpAndSettle(const Duration(milliseconds: 16));
 }
 
 Future<void> _tapTextIfPresent(WidgetTester tester, String text) async {
@@ -22,9 +23,9 @@ Future<void> _scrollFirstScrollable(WidgetTester tester) async {
   if (scrollable.evaluate().isEmpty) return;
 
   await tester.fling(scrollable.first, const Offset(0, -500), 1200);
-  await _pumpQuietly(tester, duration: const Duration(milliseconds: 800));
+  await _pumpQuietly(tester);
   await tester.fling(scrollable.first, const Offset(0, 500), 1200);
-  await _pumpQuietly(tester, duration: const Duration(milliseconds: 800));
+  await _pumpQuietly(tester);
 }
 
 Future<void> _runScenario(WidgetTester tester) async {
@@ -42,7 +43,7 @@ Future<void> _runScenario(WidgetTester tester) async {
   await _tapTextIfPresent(tester, 'Close');
 
   // Give final frame activity time to settle.
-  await _pumpQuietly(tester, duration: const Duration(seconds: 1));
+  await _pumpQuietly(tester);
 }
 
 void main() {
