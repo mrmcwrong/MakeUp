@@ -4,10 +4,13 @@ import 'package:integration_test/integration_test.dart';
 
 import 'package:makeup/main.dart' as app;
 
+const _targetFrameStep = Duration(milliseconds: 11);
+
 Future<void> _pumpQuietly(WidgetTester tester) async {
-  // Keep progress at frame cadence to avoid adding synthetic idle time.
-  await tester.pump(const Duration(milliseconds: 16));
-  await tester.pumpAndSettle(const Duration(milliseconds: 16));
+  // Keep progress aligned with a 90 Hz cadence (~11.11 ms) so the harness
+  // doesn't bias results toward 60 fps-like frame pacing.
+  await tester.pump(_targetFrameStep);
+  await tester.pumpAndSettle(_targetFrameStep);
 }
 
 Future<void> _tapTextIfPresent(WidgetTester tester, String text) async {
@@ -22,9 +25,19 @@ Future<void> _scrollFirstScrollable(WidgetTester tester) async {
   final scrollable = find.byType(Scrollable);
   if (scrollable.evaluate().isEmpty) return;
 
-  await tester.fling(scrollable.first, const Offset(0, -500), 1200);
+  await tester.timedDrag(
+    scrollable.first,
+    const Offset(0, -500),
+    const Duration(milliseconds: 420),
+    frequency: 90,
+  );
   await _pumpQuietly(tester);
-  await tester.fling(scrollable.first, const Offset(0, 500), 1200);
+  await tester.timedDrag(
+    scrollable.first,
+    const Offset(0, 500),
+    const Duration(milliseconds: 420),
+    frequency: 90,
+  );
   await _pumpQuietly(tester);
 }
 
@@ -43,6 +56,7 @@ Future<void> _runScenario(WidgetTester tester) async {
 
 void main() {
   final binding = IntegrationTestWidgetsFlutterBinding.ensureInitialized();
+  binding.framePolicy = LiveTestWidgetsFlutterBindingFramePolicy.fullyLive;
 
   testWidgets('Automated performance journey with timeline capture', (
     WidgetTester tester,

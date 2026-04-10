@@ -139,6 +139,11 @@ class _LeagueScreenState extends State<LeagueScreen> {
     final showIndividualProbabilitySelectors =
         await StorageService.loadShowIndividualProbabilitySelectors();
     if (!mounted) return;
+    if (_dynamicDifficulty == dynamicDifficulty &&
+        _showIndividualProbabilitySelectors ==
+            showIndividualProbabilitySelectors) {
+      return;
+    }
     setState(() {
       _dynamicDifficulty = dynamicDifficulty;
       _showIndividualProbabilitySelectors = showIndividualProbabilitySelectors;
@@ -651,24 +656,29 @@ class _LeagueScreenState extends State<LeagueScreen> {
                               final rank = index + 1;
                               final isUser = entry['isUser'] as bool;
                               final competitor = entry['competitor'] as Competitor?;
-                                final today = DebugTime.now();
-                                final dailyDebug = competitor == null
-                                  ? null
-                                  : StorageService.debugDailyProbability(
-                                    widget.user.submissions,
-                                    baseProbability: competitor.dailyProbability,
-                                    referenceDay: today,
-                                    dynamicDifficulty: _dynamicDifficulty,
-                                  );
-                                final weeklyDebug = competitor == null
-                                  ? null
-                                  : StorageService.debugWeeklyProbability(
-                                    widget.user.submissions,
-                                    baseProbability:
-                                      competitor.weeklyProbability,
-                                    referenceDay: today,
-                                    dynamicDifficulty: _dynamicDifficulty,
-                                  );
+                              final today = showProbabilityDebug
+                                  ? DebugTime.now()
+                                  : null;
+                              final dailyDebug =
+                                  (showProbabilityDebug && competitor != null)
+                                  ? StorageService.debugDailyProbability(
+                                      widget.user.submissions,
+                                      baseProbability:
+                                          competitor.dailyProbability,
+                                      referenceDay: today!,
+                                      dynamicDifficulty: _dynamicDifficulty,
+                                    )
+                                  : null;
+                              final weeklyDebug =
+                                  (showProbabilityDebug && competitor != null)
+                                  ? StorageService.debugWeeklyProbability(
+                                      widget.user.submissions,
+                                      baseProbability:
+                                          competitor.weeklyProbability,
+                                      referenceDay: today!,
+                                      dynamicDifficulty: _dynamicDifficulty,
+                                    )
+                                  : null;
 
                               return GestureDetector(
                                 onLongPress: () => _showEditSheet(

@@ -38,14 +38,7 @@ class _MyAppState extends State<MyApp> {
 
   @override
   Widget build(BuildContext context) {
-    return DebugOverlay(
-      onUpdate: () {
-        setState(() {
-          _dataFuture = _loadData();
-          _resetKey++;
-        });
-      },
-      child: MaterialApp(
+    final appRoot = MaterialApp(
         title: 'Creativity League',
         themeAnimationDuration: Duration.zero,
         themeAnimationCurve: Curves.linear,
@@ -94,7 +87,20 @@ class _MyAppState extends State<MyApp> {
             );
           },
         ),
-      ),
+      );
+
+    if (!kDebugMode) {
+      return appRoot;
+    }
+
+    return DebugOverlay(
+      onUpdate: () {
+        setState(() {
+          _dataFuture = _loadData();
+          _resetKey++;
+        });
+      },
+      child: appRoot,
     );
   }
 }
@@ -286,7 +292,6 @@ class _MainNavigationScreenState extends State<MainNavigationScreen> {
             onDisplaySettingsChanged: widget.onDisplaySettingsChanged,
             onLeagueSettingsChanged: _reloadCompetitorsFromStorage,
             onDailyPromptSettingsChanged: _reloadDailyPromptsFromSettings,
-            key: ValueKey('profile_$_currentIndex'),
           ),
         ],
       ),

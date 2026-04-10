@@ -368,6 +368,8 @@ class AvatarWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final path = imagePath;
+    final dpr = MediaQuery.maybeOf(context)?.devicePixelRatio ?? 1.0;
+    final avatarCacheWidth = max(1, (size * dpr).round());
     Widget photoChild;
     if (path != null && path.startsWith('assets/')) {
       photoChild = Image.asset(
@@ -375,6 +377,8 @@ class AvatarWidget extends StatelessWidget {
         width: size,
         height: size,
         fit: BoxFit.cover,
+        cacheWidth: avatarCacheWidth,
+        filterQuality: FilterQuality.low,
         errorBuilder: (_, _, _) =>
             Icon(Icons.person, size: size * 0.5, color: AppColors.brown),
       );
@@ -384,6 +388,8 @@ class AvatarWidget extends StatelessWidget {
         width: size,
         height: size,
         fit: BoxFit.cover,
+        cacheWidth: avatarCacheWidth,
+        filterQuality: FilterQuality.low,
         errorBuilder: (_, _, _) =>
             Icon(Icons.person, size: size * 0.5, color: AppColors.brown),
       );
@@ -482,6 +488,8 @@ class AttachmentsEditor extends StatelessWidget {
               final path = attachments[i];
               final name = p.basename(path);
               final isImg = isImageFile(path);
+              final dpr = MediaQuery.maybeOf(context)?.devicePixelRatio ?? 1.0;
+              final thumbCacheWidth = max(1, (90 * dpr).round());
               return Stack(
                 clipBehavior: Clip.none,
                 children: [
@@ -502,6 +510,8 @@ class AttachmentsEditor extends StatelessWidget {
                             child: Image.file(
                               File(path),
                               fit: BoxFit.cover,
+                              cacheWidth: thumbCacheWidth,
+                              filterQuality: FilterQuality.low,
                               errorBuilder: (_, _, _) => Icon(
                                 Icons.broken_image_outlined,
                                 color: AppColors.brown,
@@ -645,6 +655,8 @@ class AttachmentsViewer extends StatelessWidget {
           children: attachments.map((path) {
             final name = p.basename(path);
             final isImg = isImageFile(path);
+            final dpr = MediaQuery.maybeOf(context)?.devicePixelRatio ?? 1.0;
+            final thumbCacheWidth = max(1, (80 * dpr).round());
             return Stack(
               clipBehavior: Clip.none,
               children: [
@@ -668,6 +680,8 @@ class AttachmentsViewer extends StatelessWidget {
                             child: Image.file(
                               File(path),
                               fit: BoxFit.cover,
+                              cacheWidth: thumbCacheWidth,
+                              filterQuality: FilterQuality.low,
                               errorBuilder: (_, _, _) => Icon(
                                 Icons.broken_image_outlined,
                                 color: AppColors.brown,
