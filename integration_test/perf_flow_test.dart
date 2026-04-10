@@ -37,11 +37,6 @@ Future<void> _runScenario(WidgetTester tester) async {
 
   await _scrollFirstScrollable(tester);
 
-  // Optional common interactions if present in the current state.
-  await _tapTextIfPresent(tester, 'Begin 4-Week League');
-  await _tapTextIfPresent(tester, 'Begin League');
-  await _tapTextIfPresent(tester, 'Close');
-
   // Give final frame activity time to settle.
   await _pumpQuietly(tester);
 }
