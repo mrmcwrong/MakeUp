@@ -4,7 +4,7 @@
 
 MakeUp prompts users with daily creative prompts and scores those prompts so that the user can compete with robotic opponents in the league screen. Weekly prompts can also be created by the user. All submissions will be sent to the profile screen. Users can edit their username and logo, as well as the usernames and logos of competitors. Users can also change settings like difficulty, prompt categories, color scheme, font size, and others in the settings screen (found in the top right corner of the profile screen).
 
-![Home Screen](
+<img src="Prompts1.png" width="200"> <img src="Prompts2.png" width="200">
 
 ## System Requirements
 
