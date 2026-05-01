@@ -1,12 +1,17 @@
 # MakeUp
 
-- What are the system requirements?
+## Features
+
+MakeUp prompts users with daily creative prompts and scores those prompts so that the user can compete with robotic opponents in the league screen. Weekly prompts can also be created by the user. All submissions will be sent to the profile screen. Users can edit their username and logo, as well as the usernames and logos of competitors. Users can also change settings like difficulty, prompt categories, color scheme, font size, and others in the settings screen (found in the top right corner of the profile screen).
+
+![Home Screen](
+
+## System Requirements
 
     - A Windows computer with Windows 10+ installed.
     - An Android phone with Android 5+ installed OR an Android Virtual Device (AVD) emulator functioning with Android 5+.
 
-
-- What dependencies need to be installed?
+#### Required Dependencies
     - The Flutter SDK will need installed in VS Code.
 
     - The following dependencies will be installed with ```flutter pub get```:
@@ -19,8 +24,7 @@
         - open_filex
         - mime
 
-
-- What are the step-by-step installation instructions?
+## Step-by-Step Installation Instructions
 
 #### 1. Install Flutter
 
@@ -31,11 +35,11 @@
 -Run ```flutter doctor``` in terminal and fix any issues it flags
 
 
-#### 2. Install Android Studio (for an android emulator)
+#### 2. Install Android Studio (for an android emulator) OR plug in a physical Android device with USB debugging enabled
 
 -Download from developer.android.com/studio
 
--During setup, install Android SDK and create a virtual device [I chose the Pixel 9] OR use a physical Android/iOS device with USB debugging enabled
+-During setup, install Android SDK and create a virtual device [I chose the Pixel 9] OR use a physical Android device with USB debugging enabled
 
 
 #### 3. Install Git (if not already installed)
@@ -72,7 +76,7 @@ Press y to accept all.
 #### 7. Open in VS Code
 
 
-#### 8. Start an emulator
+#### 8. Start an emulator OR ensure physical device is connected
 
 Choose one of the three following options:
 
@@ -80,7 +84,7 @@ Choose one of the three following options:
 
 -Connect a physical device via USB
 
--Click the device button in the bottom right corner of the VS Code window (It probably says "Windows (windows-x64)" or something similar if you have not yet selected a device) and choose your AVD in the dropdown menu.
+-Click the device button in the bottom right corner of the VS Code window (It probably says "Windows (windows-x64)" or something similar if you have not yet selected a device) and choose your AVD or physical device in the dropdown menu.
 
 #### 9. Run the app
 
